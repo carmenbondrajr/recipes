@@ -12,7 +12,7 @@ the other half raw. Next time this is a 25-minute weeknight soup.
 - 2 carrots
 - 2 celery stalks
   - *Shortcut: pre-diced mirepoix works fine here*
-- Escarole (1 small head) or baby spinach (6 oz)
+- Escarole (1 small head) or a bag of baby spinach
 - Fresh parsley
 - 1 lemon
 
@@ -28,7 +28,7 @@ the other half raw. Next time this is a 25-minute weeknight soup.
 
 **Pantry / Center Aisles**
 - Plain breadcrumbs (1 cup)
-- Acini di pepe (¾ cup dry)
+- Acini di pepe (1 cup dry)
 - Chicken broth — **10 cups / 80 oz**. That's three 32 oz cartons (you'll have ~2 cups left), or one 48 oz + one 32 oz
 
 *You should have at home: olive oil, garlic, milk, kosher salt, black pepper, bay leaves*
@@ -53,8 +53,8 @@ the other half raw. Next time this is a 25-minute weeknight soup.
 - 3 cloves garlic
 - 10 cups chicken broth
 - 2 bay leaves
-- ¾ cup acini di pepe
-- 6 oz escarole or spinach, chopped
+- 1 cup acini di pepe
+- Escarole or spinach — about 80% of the bag/head, eyeballed
 - Lemon, kosher salt, black pepper, parmesan for the table
 
 ### 1. Soak the Breadcrumbs — 10 min
@@ -87,7 +87,7 @@ Add broth and bay leaves, bring to a gentle simmer, drop in the meatballs. Keep 
 Add the acini di pepe directly to the pot **only if you're eating the whole batch tonight.** Otherwise cook it separately (see Tips). Stir once or twice so it doesn't clump on the bottom.
 
 ### 6. Greens — 2 min
-Stir in the escarole or spinach and cook just until wilted.
+Dump in **about 80% of the bag** (or most of the head, chopped) — eyeball it, this isn't precise. It'll look like way too much for a second and then collapse into almost nothing. Cook just until wilted.
 
 ### 7. Finish
 Fish out the bay leaves. Squeeze in lemon juice, taste, adjust salt. Parmesan at the table.
