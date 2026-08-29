@@ -1,0 +1,16 @@
+# 🍽️ Recipes
+
+Personal recipe collection. Each file is a single recipe: shopping list organized by
+grocery department, then the method, then tips.
+
+## Index
+
+- [🥘 Beef Stew](beef-stew.md) — stovetop, Dutch oven
+- [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
+- [🍝 Creamy Beef and Pasta](creamy-beef-and-pasta.md)
+- [🥓 Crispy Pancetta and Peas](crispy-pancetta-and-peas.md)
+- [🔥 Firecracker Meatballs](firecracker-meatballs.md)
+- [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
+- [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
+- [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe
+- [🍲 Instant Pot Pasta Fagioli](pasta-fagioli.md)
