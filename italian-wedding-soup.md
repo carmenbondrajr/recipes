@@ -39,7 +39,7 @@ the other half raw. Next time this is a 25-minute weeknight soup.
 
 **Meatballs** — makes ~90, half go in the soup
 - 2 lbs ground meat (1 lb beef + 1 lb pork)
-- 1 cup breadcrumbs + ½ cup milk
+- 1 cup breadcrumbs + ¾ cup milk (more if needed — see step 1)
 - 1 cup grated parmesan
 - 2 eggs
 - 4 cloves garlic, minced
@@ -57,8 +57,12 @@ the other half raw. Next time this is a 25-minute weeknight soup.
 - 6 oz escarole or spinach, chopped
 - Lemon, kosher salt, black pepper, parmesan for the table
 
-### 1. Soak the Breadcrumbs — 5 min
-Stir the breadcrumbs into the milk and let them sit until pasty. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets — the starch traps moisture that would otherwise squeeze out as the meat cooks.
+### 1. Soak the Breadcrumbs — 10 min
+Stir the breadcrumbs into the milk and let them sit. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets — the starch traps moisture that would otherwise squeeze out as the meat cooks.
+
+**Go by texture, not the measurement.** You want a loose, spreadable paste — wet oatmeal, not damp crumbs. If it still holds its shape or looks crumbly, add milk a splash at a time until it slumps. Erring wet is safe; the meat absorbs the excess. Erring dry means the panade can't do its job.
+
+Give it the full 10 minutes — dried breadcrumbs hydrate slower than they look like they should.
 
 **Half-and-half or heavy cream work too** — see Tips.
 
@@ -95,7 +99,8 @@ Fish out the bay leaves. Squeeze in lemon juice, taste, adjust salt. Parmesan at
 - **Acini di pepe drinks broth like a sponge.** Cooking it in the pot is fine for a same-night batch, but for leftovers boil it separately and spoon it into each bowl — otherwise day two is a casserole
 - **Roll them small** — ~1", about 2 tsp of meat, or the spoon math doesn't work. A tablespoon scoop makes them too big
 - **Shredded parm instead of grated?** Fine — pack the cup a little extra (shreds are fluffier) and rough-chop or pulse them so they disperse instead of forming cheesy pockets
-- **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in unevenly — thin it (6 tbsp cream + 2 tbsp water) or let it sit an extra few minutes
+- **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in slower and unevenly — thin it with a couple tbsp of water and give it a few extra minutes
+- **Under-hydrated panade is the quiet failure.** Dry crumbs can't hold water they never absorbed, so the meatballs come out denser. Let it sit the full 10 min and go by texture — loose paste, not damp crumbs
 - **Cream buys richness, not tenderness.** The tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat
 - **Don't overmix the meat** — squish just until combined. Easy to overdo at 2 lbs
 - **Gentle simmer only** once the meatballs are in
