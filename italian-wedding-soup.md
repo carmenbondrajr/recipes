@@ -57,7 +57,9 @@ Stir the breadcrumbs into the milk and let them sit until pasty. This is a *pana
 ### 2. Mix & Roll the Meatballs — ~15 min
 Combine meat, soaked breadcrumbs, parmesan, egg, 2 cloves minced garlic, parsley, 1 tsp salt, and pepper. **Mix with your hands only until it comes together** — overworking compacts the protein and toughens them.
 
-Roll into **¾" balls**, marble-sized. Bigger balls are a different soup; these need to fit on a spoon alongside the pasta. You'll get 40-50 of them, which sounds like a lot and isn't.
+Roll into **~1" balls** — about 2 teaspoons of meat each. Bigger balls are a different soup; these need to fit on a spoon alongside the pasta. You'll get **40-50 per pound**, which sounds like a lot and isn't.
+
+**Fastest way to portion them:** press the mix into a ¾"-thick rectangle on a sheet pan, cut a grid, and roll each square. Every ball comes out the same size and it beats scooping. Keep your hands wet with cold water so the meat doesn't stick.
 
 Bake at 400°F for 12-15 min, or brown them in the soup pot and set aside.
 
@@ -80,7 +82,7 @@ Squeeze in lemon juice, taste, adjust salt. Parmesan at the table.
 
 ## Tips & Notes
 - **Acini di pepe drinks broth like a sponge.** Cooking it in the pot is fine for a same-night batch, but for leftovers boil it separately and spoon it into each bowl — otherwise day two is a casserole
-- **Roll them small** — ¾" or the spoon math doesn't work
+- **Roll them small** — ~1", about 2 tsp of meat, or the spoon math doesn't work. A tablespoon scoop makes them too big
 - **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in unevenly — thin it (3 tbsp cream + 1 tbsp water) or let it sit an extra few minutes
 - **Cream buys richness, not tenderness.** The tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat
 - **Don't overmix the meat** — squish just until combined
