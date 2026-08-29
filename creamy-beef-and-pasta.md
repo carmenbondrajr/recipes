@@ -1,15 +1,25 @@
 # 🍝 Creamy Beef and Pasta
 
 ## Shopping List
+
+**Produce**
+- Yellow onion
+- Garlic
+
+**Meat**
 - Ground beef (1–1.2 lbs)
+
+**Dairy**
 - Sharp cheddar, shredded (6–8 oz)
 - Half & half (small carton — you'll use ½ cup)
+
+**Bakery**
+- Half oven baguette
+
+**Pantry / Center Aisles**
 - Chicken stock (small carton — you'll use 1 cup)
 - Tomato sauce (1 can, 16 oz)
 - Rotini pasta (8 oz / half a standard box)
-- Half oven baguette
-- Yellow onion
-- Garlic
 
 *You should have at home: olive oil, flour, thyme, oregano, parsley, basil, rosemary, red pepper flakes, salt, pepper*
 

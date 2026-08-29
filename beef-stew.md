@@ -1,22 +1,29 @@
 # 🥘 Stovetop Beef Stew
 
 ## Shopping List
-- 2 lbs beef stew meat (round), cut into 1.5" chunks
-  - beef tips may be better for next time
+
+**Produce**
 - Mini yellow potatoes (use about half a 3lb bag)
 - 3 carrots, cut into 1" pieces
 - 3 celery stalks, sliced
   - don't slice these small like you normally would, leave em bigger for a crunch
 - 1 onion (yellow or Vidalia), diced
-- Beef broth (1 carton / 32 oz — you'll use 3 cups, keep the rest in reserve)
+- 3 cloves garlic
+
+**Meat**
+- 2 lbs beef stew meat (round), cut into 1.5" chunks
+  - beef tips may be better for next time
+
+**Frozen**
 - Bag of frozen mixed veggies
+
+**Pantry / Center Aisles**
+- Beef broth (1 carton / 32 oz — you'll use 3 cups, keep the rest in reserve)
 - Small can tomato paste (you'll use ~3 tbsp)
 - 1 chicken bouillon cube or tsp paste
-- 3 cloves garlic
-- Flour for dredging
-- Olive oil
-- Worcestershire sauce (if on hand)
-- Bay leaves, thyme, rosemary, paprika, salt, pepper
+- Worcestershire sauce (if you don't have it)
+
+*You should have at home: olive oil, flour for dredging, bay leaves, thyme, rosemary, paprika, salt, pepper*
 
 ---
 

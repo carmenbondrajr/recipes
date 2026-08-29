@@ -2,17 +2,25 @@
 *HelloFresh recipe — tweaked over time*
 
 ## Shopping List
-- 1lb ground beef
+
+**Produce**
 - Steamable bag of green beans
 - 3 scallions
 - 3-4 thumbs of fresh ginger
+
+**Meat**
+- 1lb ground beef
+
+**Dairy**
+- Sour cream
+
+**Pantry / Center Aisles**
 - Jasmine rice (bag — you'll use 1 cup)
 - Panko breadcrumbs
 - Soy sauce
 - Honey
 - Sriracha
 - Mayonnaise
-- Sour cream
 
 ---
 

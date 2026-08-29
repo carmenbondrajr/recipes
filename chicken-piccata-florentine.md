@@ -2,17 +2,24 @@
 *Inspired by a local restaurant — home-friendly version*
 
 ## Shopping List
-- 2 chicken breasts
-- Orzo (bag — you'll use about 1 cup dry)
+
+**Produce**
 - Fresh spinach
 - 1 lemon
-- Capers (small jar)
-- Chicken broth
+
+**Meat**
+- 2 chicken breasts
+
+**Dairy**
 - Heavy cream
 - Butter
-- Flour (just a little, for dredging)
-- Olive oil
-- Salt and pepper
+
+**Pantry / Center Aisles**
+- Orzo (bag — you'll use about 1 cup dry)
+- Capers (small jar)
+- Chicken broth
+
+*You should have at home: olive oil, flour for dredging, salt, pepper*
 
 ---
 

@@ -3,18 +3,26 @@
 Makes a big pot — roughly 6 generous servings.
 
 ## Shopping List
-- Ham steak (14 oz), cut into cubes
-- Pepperoni (5 oz), cut into coins then quartered
+
+**Produce**
 - 1 yellow onion
 - Baby carrots (2 cups), cut into coins
 - 6 celery stalks, diced
   - *Shortcut: pre-diced mirepoix instead of chopping onion, carrot, and celery*
+
+**Meat / Deli**
+- Ham steak (14 oz), cut into cubes
+- Pepperoni (5 oz), cut into coins then quartered
+
+**Dairy**
+- Grated parmesan or pecorino (½ cup, plus more for serving)
+
+**Pantry / Center Aisles**
 - Petite diced tomatoes (1 can, 28 oz)
-- Chicken broth (4 cups)
+- Chicken broth (4 cups / one 32 oz carton)
 - Chickpeas (1 can)
 - Kidney beans (1 can)
 - Cannellini beans (1 can)
-- Grated parmesan or pecorino (½ cup, plus more for serving)
 - Ditalini pasta
 
 *You should have at home: olive oil, garlic powder, dried basil, kosher salt, black pepper, hot sauce*

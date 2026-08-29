@@ -1,11 +1,17 @@
 # 🫑 Instant Pot Stuffed Pepper Soup
 
 ## Shopping List
-- Ground turkey (1 lb)
+
+**Produce**
 - Bell peppers (2, any color)
 - Celery
 - Yellow onion
 - Garlic
+
+**Meat**
+- Ground turkey (1 lb)
+
+**Pantry / Center Aisles**
 - Diced tomatoes (1 can, 15 oz)
 - Tomato sauce (1 can, 15 oz)
 - Chicken broth (32 oz carton)

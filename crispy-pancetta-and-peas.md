@@ -4,12 +4,22 @@
 ---
 
 ## Shopping List
-- Large shell pasta (or orecchiette if you can find it)
+
+**Produce**
+- Garlic (1 clove)
+
+**Meat**
 - Pancetta, diced (~4oz / 100g)
-- Frozen peas
+
+**Dairy**
 - Parmesan, block (finely grated is best)
 - Unsalted butter
-- Garlic (1 clove)
+
+**Frozen**
+- Frozen peas
+
+**Pantry / Center Aisles**
+- Large shell pasta (or orecchiette if you can find it)
 
 *You should have at home: salt, black pepper*
 

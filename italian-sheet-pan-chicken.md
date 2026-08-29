@@ -1,13 +1,19 @@
 # 🍋 Italian Sheet Pan Chicken & Veggies
 
 ## Shopping List
-- Chicken cutlets (4 pieces)
+
+**Produce**
 - Cherry tomatoes (1 pint / ~2 cups)
 - Zucchini
 - Bell peppers
 - Red onion
-- Minced garlic (jar)
 - Lemon
+
+**Meat**
+- Chicken cutlets (4 pieces)
+
+**Pantry / Center Aisles**
+- Minced garlic (jar)
 
 *You should have at home: olive oil, salt, pepper, garlic powder, Italian seasoning, paprika*
 
