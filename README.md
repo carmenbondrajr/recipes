@@ -8,6 +8,7 @@ grocery department, then the method, then tips.
 - [🥘 Beef Stew](beef-stew.md) — stovetop, Dutch oven
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
 - [🍝 Creamy Beef and Pasta](creamy-beef-and-pasta.md)
+- [🥔 Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce](crispy-gnocchi-brown-butter-meatballs.md) — freezer-to-table weeknight
 - [🥓 Crispy Pancetta and Peas](crispy-pancetta-and-peas.md)
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
 - [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
