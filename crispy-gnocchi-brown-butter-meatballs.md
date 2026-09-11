@@ -1,5 +1,5 @@
 # 🥔 Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce
-*Frozen gnocchi seared straight from the bag, finished in garlicky brown butter, piled over saucy meatballs — 2-3 servings, ~25 minutes*
+*Frozen gnocchi seared straight from the bag, finished in garlicky brown butter, piled over saucy meatballs — 2-3 servings, ~30 minutes*
 
 ---
 
@@ -48,7 +48,7 @@
 
 **Steps**
 
-1. **Start the meatballs (5 min hands-on, 20 min simmering).** Pour the red sauce into a saucepan and add the meatballs straight from frozen. Bring to a bare simmer, cover, and let them heat through while you do everything else. Frozen meatballs need real time to come up to temperature in the center, so this is the long pole — start it first.
+1. **Start the meatballs (20 min, mostly hands-off).** Heat the oven to 350°F and bake the meatballs from frozen for about 20 minutes, or whatever the bag says — package directions win, they're calibrated to that particular meatball. Meanwhile warm the red sauce in a saucepan over low heat. When the meatballs come out, slide them into the sauce to hold until you plate. Oven preheat plus bake is the long pole here, so start it before anything else.
 
 2. **Prep the aromatics (5 min).** While the sauce heats: slice the garlic thin, lightly crush the fennel seed, zest the lemon, and tear the basil. Set it all within arm's reach. Once the gnocchi hit the pan things move fast and there's no time to go hunting for the zester.
 
@@ -69,5 +69,6 @@
 - **Don't salt beyond the gnocchi.** Jarred sauce and parmesan bring plenty.
 - **Burnt butter is the main failure mode.** If the milk solids go black and it smells sharp instead of nutty, wipe the pan and start the butter step over — the bitterness won't cook out.
 - **Want it fully tossed?** Stir in about half the sauce off the heat right before serving and eat immediately. It won't stay crisp, so this is a commit-now decision.
+- **Baking beats simmering for the meatballs.** The dry oven heat browns the outsides instead of poaching them, and they don't thin the sauce out with the water they shed. If you'd rather skip the oven, simmering them covered in the sauce for 20-25 minutes works — just start them first either way.
 - **Cast iron or stainless sears best.** Nonstick works but gives you a paler crust.
 - **On bergamot:** the dried herb is bee balm (*Monarda*), a mint-family plant that tastes like oregano with a citrusy edge — not the bergamot orange in Earl Grey. Oregano plus the lemon zest already in the dish gets you most of the way there.
