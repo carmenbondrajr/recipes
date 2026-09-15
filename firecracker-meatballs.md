@@ -6,7 +6,7 @@
 **Produce**
 - Steamable bag of green beans
 - 3 scallions
-- 3-4 thumbs of fresh ginger
+- 3-4 thumbs of fresh ginger — *or* a tube/jar of ginger paste (use 3–4 tbsp)
 
 **Meat**
 - 1lb ground beef
@@ -31,7 +31,7 @@
 *Meatballs*
 - 1 lb ground beef
 - ¾ cup panko breadcrumbs
-- 3–4 thumbs fresh ginger, minced
+- 3–4 thumbs fresh ginger, minced (or 3–4 tbsp ginger paste)
 - 3 scallions, whites minced, greens sliced (save greens for garnish)
 - 2 tsp soy sauce
 - Salt and pepper
@@ -68,3 +68,10 @@
 
 6. **Serve.** Fluff rice, divide into bowls. Toss meatballs in the sauce, place on rice. Green beans on the side. Garnish with scallion greens.
 
+---
+
+## Tips & Notes
+
+- **Ginger paste subs 1:1 by volume.** One thumb of fresh ginger ≈ 1 tbsp minced, so use 3–4 tbsp paste. Paste is ground finer, so it reads a touch more potent and less floral than fresh — start at 3 tbsp if you're unsure.
+- **Paste adds moisture, fresh adds texture.** If the meat mix feels slack after adding paste, work in another spoonful or two of panko. Slack mix = meatballs that slump and steam on the pan instead of browning.
+- **Don't skip oiling the sheet pan.** These stick hard, and scraping them off shreds the crust that holds the sauce.
