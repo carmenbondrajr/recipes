@@ -7,6 +7,7 @@ grocery department, then the method, then tips.
 
 - [🥘 Beef Stew](beef-stew.md) — stovetop, Dutch oven
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
+- [🥦 Chicken, Broccoli & Orzo Bake](chicken-broccoli-orzo-bake.md) — one pan, raw orzo bakes in the broth
 - [🍝 Creamy Beef and Pasta](creamy-beef-and-pasta.md)
 - [🥔 Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce](crispy-gnocchi-brown-butter-meatballs.md) — freezer-to-table weeknight
 - [🥓 Crispy Pancetta and Peas](crispy-pancetta-and-peas.md)
