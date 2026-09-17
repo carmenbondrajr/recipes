@@ -7,8 +7,10 @@
 **Produce**
 - Grape tomatoes (1 pint / ~10 oz) — *grape, not cherry: meatier walls, less water in the sauce*
 - Fresh basil (small bunch)
-- Lemon
+- Lemons (2) — *one for the sauce, one for the vinaigrette*
 - Garlic (1 head, or use the jar)
+- Arugula (5 oz box) — *for the side salad*
+- Shallot (1) — *optional, for the vinaigrette*
 
 **Meat**
 - Chicken cutlets (4 pieces / ~1.5 lb) — *or 2 large breasts halved horizontally and pounded even*
@@ -21,6 +23,10 @@
 **Pantry / Center Aisles**
 - Tomato paste (small can or tube — *tube is better, you only need 2 tbsp*)
 - Chicken broth (1 cup / 8 oz — smallest carton or a bouillon cube)
+- Dijon mustard — *for the vinaigrette; a jar lasts forever*
+
+**Bakery**
+- Crusty bread (baguette or ciabatta)
 
 *You should have at home: olive oil, salt, pepper, garlic powder, Italian seasoning, red pepper flakes*
 
@@ -82,8 +88,28 @@ The sauce is the point, so the job of a side is to **catch it** and to **cut it*
 - *Skip rice and orzo here — they soak the sauce up and disappear into it instead of carrying it*
 
 **To cut it**
-- **Arugula salad, lemon vinaigrette** — the best pairing by a wide margin. Peppery and sharp against all that cream, and it takes 3 minutes.
+- **Arugula salad, lemon vinaigrette** — the best pairing by a wide margin. Peppery and sharp against all that cream, and it takes 3 minutes. Recipe below.
 - **Roasted asparagus or broccolini** — 400°F, 12–15 min, goes in while the chicken sears
 - **Garlicky green beans**, blistered in a hot pan
 
 **The easy default:** bread + arugula salad. No timing to coordinate, and the acid does exactly what the dish needs.
+
+---
+
+### Lemon Vinaigrette
+
+*Dresses arugula for 4. Everything goes in a jar — shake, done.*
+
+- 3 tbsp olive oil
+- 1 tbsp lemon juice (about half a lemon)
+- 1 tsp Dijon mustard
+- ¼ tsp salt, black pepper
+- *Optional:* zest of the lemon, 1 minced shallot
+
+3:1 oil to acid is the baseline. Lemon is gentler than vinegar, so push it to 2:1 if you want it sharper — against a cream sauce, sharper is the right call.
+
+**Method:** salt, lemon juice, and Dijon into a jar first and shake to dissolve the salt. Add the oil, lid on, shake 20 seconds. (Salt won't dissolve in oil — dump everything in at once and you get grit at the bottom.) If you're using shallot, let it sit in the lemon juice 10 minutes before the oil goes in; the acid takes its raw bite off.
+
+- **Dijon is the emulsifier**, not a flavor. It's the only thing holding oil and lemon together — skip it and the dressing separates into layers on the plate. At a teaspoon it doesn't taste like mustard.
+- **Zest is where the lemon smell lives.** Juice brings acid, zest brings aroma. Use both if you've got the lemon out anyway.
+- **Dress at the table, not early.** Arugula goes from crisp to slimy in about 10 minutes once it's wet. Toss it right before you sit down — not while the chicken rests.
