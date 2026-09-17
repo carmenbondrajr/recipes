@@ -14,6 +14,6 @@ grocery department, then the method, then tips.
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
 - [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
 - [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
-- [💍 Marry Me Chicken](marry-me-chicken.md) — one skillet, blistered grape tomatoes, no sun-dried
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe
+- [💍 Marry Me Chicken](marry-me-chicken.md) — one skillet, blistered grape tomatoes, no sun-dried
 - [🍲 Instant Pot Pasta Fagioli](pasta-fagioli.md)
