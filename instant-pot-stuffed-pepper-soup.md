@@ -45,9 +45,9 @@
 
 **Steps**
 
-1. **Sauté.** Set Instant Pot to Sauté. Add ground turkey and bowl 1 (aromatics). Cook 5–7 min until turkey is browned, breaking up the meat as it cooks.
+1. **Sauté.** Set Instant Pot to Sauté. Add the **1 lb ground turkey** and bowl 1 (aromatics). Cook 5–7 min until turkey is browned, breaking up the meat as it cooks.
 
-2. **Season.** Add seasonings and stir ~30 seconds until fragrant.
+2. **Season.** Add the **1 tsp Italian seasoning**, **1 tsp paprika**, **1 tsp salt**, and **½ tsp pepper**; stir ~30 seconds until fragrant.
 
 3. **Add rice.** Stir in the 1 cup uncooked jasmine rice.
 

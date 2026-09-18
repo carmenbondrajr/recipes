@@ -58,7 +58,7 @@ the other half raw. Next time this is a 25-minute weeknight soup.
 - Lemon, kosher salt, black pepper, parmesan for the table
 
 ### 1. Soak the Breadcrumbs — 10 min
-Stir the breadcrumbs into the milk and let them sit. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets — the starch traps moisture that would otherwise squeeze out as the meat cooks.
+Stir the **1 cup breadcrumbs** into the **¾ cup milk** and let them sit. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets — the starch traps moisture that would otherwise squeeze out as the meat cooks.
 
 **Go by texture, not the measurement.** You want a loose, spreadable paste — wet oatmeal, not damp crumbs. If it still holds its shape or looks crumbly, add milk a splash at a time until it slumps. Erring wet is safe; the meat absorbs the excess. Erring dry means the panade can't do its job.
 
@@ -67,7 +67,7 @@ Give it the full 10 minutes — dried breadcrumbs hydrate slower than they look 
 **Half-and-half or heavy cream work too** — see Tips.
 
 ### 2. Mix & Roll the Meatballs — ~20 min
-Combine meat, soaked breadcrumbs, parmesan, eggs, minced garlic, parsley, **2 tsp salt**, and pepper. **Mix with your hands only until it comes together** — overworking compacts the protein and toughens them.
+Combine the **2 lbs ground meat**, soaked breadcrumbs, **1 cup parmesan**, **2 eggs**, **4 cloves minced garlic**, **¼ cup parsley**, **2 tsp salt**, and pepper. **Mix with your hands only until it comes together** — overworking compacts the protein and toughens them.
 
 **Salt is the one thing to get right.** Everything else in this soup gets seasoned at the end, but the meatballs are seasoned once and never again — under-salt them and you get bland meatballs floating in a well-seasoned broth, which you can't fix later. 2 tsp for 2 lbs.
 
@@ -78,19 +78,19 @@ Roll into **~1" balls** — about 2 teaspoons of meat each. Bigger balls are a d
 **Split the batch here.** Freeze half raw on a sheet pan, then bag them once solid. Bake the other half at 400°F for 12-15 min, or brown them in the soup pot and set aside.
 
 ### 3. Sweat the Vegetables — ~8 min
-Olive oil in a big pot over medium. Onion, carrot, celery until soft and the onion is translucent. Add remaining garlic, 1 min more. No browning needed — this soup wants a clean, light broth, not a fond.
+**2 tbsp olive oil** in a big pot over medium. The **diced onion, 2 carrots, and 2 celery stalks** until soft and the onion is translucent. Add the **3 cloves garlic**, 1 min more. No browning needed — this soup wants a clean, light broth, not a fond.
 
 ### 4. Simmer the Meatballs — 10 min
-Add broth and bay leaves, bring to a gentle simmer, drop in the meatballs. Keep it at a lazy simmer; a hard boil knocks them apart.
+Add the **10 cups broth** and **2 bay leaves**, bring to a gentle simmer, drop in the meatballs. Keep it at a lazy simmer; a hard boil knocks them apart.
 
 ### 5. Pasta — 8-9 min
-Add the acini di pepe directly to the pot **only if you're eating the whole batch tonight.** Otherwise cook it separately (see Tips). Stir once or twice so it doesn't clump on the bottom.
+Add the **1 cup acini di pepe** directly to the pot **only if you're eating the whole batch tonight.** Otherwise cook it separately (see Tips). Stir once or twice so it doesn't clump on the bottom.
 
 ### 6. Greens — 2 min
 Dump in **about 80% of the bag** (or most of the head, chopped) — eyeball it, this isn't precise. It'll look like way too much for a second and then collapse into almost nothing. Cook just until wilted.
 
 ### 7. Finish
-Fish out the bay leaves. Squeeze in lemon juice, taste, adjust salt. Parmesan at the table.
+Fish out the bay leaves. Squeeze in the **juice of 1 lemon**, taste, adjust salt. The remaining **½ cup parmesan** at the table.
 
 ---
 

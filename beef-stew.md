@@ -30,22 +30,22 @@
 ## Recipe
 
 ### 1. Season & Dredge
-Pat beef dry, season with salt and pepper, toss in flour until lightly coated.
+Pat the **2 lbs beef** dry, season with salt and pepper, toss in flour until lightly coated.
 
 ### 2. Brown the Beef
 Heat olive oil in a Dutch oven over medium-high. Sear beef in batches (don't crowd!) until deeply browned on all sides, ~3-4 min per side. Rest on a plate. Add a small splash of oil between batches as needed. **Tip: do the oil + butter trick** — add a knob of butter right at the very end of each batch for extra flavor.
 
 ### 3. Sauté Aromatics
-Reduce to medium. Cook onion and celery ~5 min, scraping up the browned bits. Add garlic, cook 1 min. Add tomato paste, cook 2 min to caramelize.
+Reduce to medium. Cook the **diced onion** and **3 sliced celery stalks** ~5 min, scraping up the browned bits. Add the **3 cloves garlic**, cook 1 min. Add **~3 tbsp tomato paste**, cook 2 min to caramelize.
 
 ### 4. Build the Broth
-Add beef broth, scraping up any remaining fond. Add bouillon, paprika, thyme, rosemary, bay leaves. Add 3-4 tsp Worcestershire. Taste before adding salt — bouillon is salty.
+Add **3 cups beef broth**, scraping up any remaining fond. Add the **bouillon cube**, paprika, thyme, rosemary, bay leaves. Add 3-4 tsp Worcestershire. Taste before adding salt — bouillon is salty.
 
 ### 5. Simmer the Beef
 Return beef and any resting juices to the pot. Bring to a boil, then reduce to a lazy simmer (not a rolling boil). Cover with lid slightly ajar. Simmer ~1 hour, stirring every 15-20 min. Beef is ready when a fork yields easily and a bite chews without toughness.
 
 ### 6. Add Vegetables
-Add potatoes (halved) and carrots. Simmer another 40-50 min until fork-tender. Don't panic if it needs more time — just keep going. Dump in bag of frozen mixed veggies in the last 10 minutes. 
+Add the **potatoes (~1.5 lbs, halved)** and **3 carrots**. Simmer another 40-50 min until fork-tender. Don't panic if it needs more time — just keep going. Dump in the **bag of frozen mixed veggies** in the last 10 minutes. 
 
 ### 7. Finish
 Remove bay leaves. Mash a few potatoes against the side to thicken naturally, or stir in a cornstarch slurry (1 tbsp cornstarch + 2 tbsp cold water) and simmer uncovered 5-10 min. Taste and adjust seasoning.

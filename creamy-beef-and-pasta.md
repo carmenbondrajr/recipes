@@ -43,17 +43,17 @@
 
 **Steps**
 
-1. **Get things going.** Preheat oven for the baguette. Boil salted water for pasta. Once both are ready, put the baguette in and start cooking the pasta (~10 min, or whatever the box says).
+1. **Get things going.** Preheat oven for the baguette. Boil salted water for the **8 oz rotini**. Once both are ready, put the baguette in and start cooking the pasta (~10 min, or whatever the box says).
 
-2. **Cook the beef.** Heat oil in a Dutch oven or cast iron over medium. Add onion, cook ~3 min. Add ground beef, season with salt and pepper, cook until no longer pink.
+2. **Cook the beef.** Heat oil in a Dutch oven or cast iron over medium. Add the **½ diced onion**, cook ~3 min. Add the **1–1.2 lbs ground beef**, season with salt and pepper, cook until no longer pink.
 
 3. **Season.** Add a generous shake of Italian seasonings (take the cap off!). Add red pepper flakes or cayenne if you want heat. Stir.
 
-4. **Garlic.** Scrape beef to one side, add garlic to the other. Cook until fragrant, 1–2 min.
+4. **Garlic.** Scrape beef to one side, add the **2 cloves minced garlic** to the other. Cook until fragrant, 1–2 min.
 
-5. **Build the sauce.** Mix 2 tbsp flour into the beef and cook 1 min. Add chicken stock and the whole can of tomato sauce. Bring to a boil, then reduce to a simmer for 6–8 min until significantly reduced.
+5. **Build the sauce.** Mix **2 tbsp flour** into the beef and cook 1 min. Add the **1 cup chicken stock** and the whole **16 oz can of tomato sauce**. Bring to a boil, then reduce to a simmer for 6–8 min until significantly reduced.
 
-6. **Finish.** Stir in drained pasta and half & half, let it heat through. Stir in cheese until melted. Don't forget the baguette. Serve.
+6. **Finish.** Stir in the drained pasta and **½ cup half & half**, let it heat through. Stir in the **6–8 oz shredded cheddar** until melted. Don't forget the baguette. Serve.
 
 ---
 

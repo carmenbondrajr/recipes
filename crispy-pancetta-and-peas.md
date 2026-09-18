@@ -38,15 +38,15 @@
 
 **Steps**
 
-1. **Boil the pasta.** Salt your water generously. Cook pasta until just al dente (1-2 min less than the package says). Before draining, save a mug of pasta water — don't skip this.
+1. **Boil the pasta.** Salt your water generously. Cook the **200g / 7oz pasta** until just al dente (1-2 min less than the package says). Before draining, save a mug of pasta water — don't skip this.
 
-2. **Cook the pancetta.** Start pancetta in a cold, dry pan — no oil needed. Bring to medium heat and cook until fat renders and pancetta is lightly crispy, about 5-7 minutes. Add garlic for the last minute, then remove it.
+2. **Cook the pancetta.** Start the **100g / 4oz pancetta** in a cold, dry pan — no oil needed. Bring to medium heat and cook until fat renders and pancetta is lightly crispy, about 5-7 minutes. Add the **1 garlic clove** for the last minute, then remove it.
 
-3. **Add the peas.** Add frozen peas to the pan and toss with the pancetta for about 2 minutes until warmed through and bright green.
+3. **Add the peas.** Add the **1 cup frozen peas** to the pan and toss with the pancetta for about 2 minutes until warmed through and bright green.
 
-4. **Bring it together.** Add drained pasta to the pan with the butter and a good splash of pasta water. Toss over low heat until butter melts into a light glossy sauce. Add more pasta water as needed — you want it silky, not dry.
+4. **Bring it together.** Add the drained pasta to the pan with the **3 tbsp butter** and a good splash of pasta water. Toss over low heat until butter melts into a light glossy sauce. Add more pasta water as needed — you want it silky, not dry.
 
-5. **Finish with Parmesan.** Take off the heat. Add grated Parmesan and black pepper and toss to combine. Taste before adding salt — pancetta and Parmesan are both salty.
+5. **Finish with Parmesan.** Take off the heat. Add the **60g / 2oz grated Parmesan** and black pepper and toss to combine. Taste before adding salt — pancetta and Parmesan are both salty.
 
 6. **Serve.** Plate and finish with extra Parmesan and cracked black pepper.
 

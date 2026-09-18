@@ -56,11 +56,11 @@
 
 **Steps**
 
-1. **Prep.** Preheat oven to 425°F, top rack. Slice scallions — separate whites from greens. Mince whites and ginger. Rinse 1 cup jasmine rice under cold water in a mesh strainer and leave it there to drain.
+1. **Prep.** Preheat oven to 425°F, top rack. Slice the **3 scallions** — separate whites from greens. Mince the whites and the **3–4 thumbs ginger**. Rinse 1 cup jasmine rice under cold water in a mesh strainer and leave it there to drain.
 
-2. **Form meatballs.** Mix beef, ¾ cup panko, ginger, scallion whites, 2 tsp soy sauce, salt, and pepper in a large mixing bowl. Form into ~14 meatballs — keep them on the smaller side.
+2. **Form meatballs.** Mix the **1 lb ground beef**, **¾ cup panko**, ginger, scallion whites, **2 tsp soy sauce**, salt, and pepper in a large mixing bowl. Form into ~14 meatballs — keep them on the smaller side.
 
-3. **Rice and meatballs go at the same time.** Rinsed rice into the Instant Pot with 1 cup water and a pinch of salt — high pressure 3 min, valve sealed, then natural release 10 min (~20 min total: 7 to pressure + 3 cooking + 10 release). Hit start, then spread the meatballs across a fully oiled sheet pan and roast on the top rack 13 min, then look — if they're not browned enough, give them another 2. *(Optional: shake the pan or flip halfway through for more even browning.)*
+3. **Rice and meatballs go at the same time.** The rinsed **1 cup rice** into the Instant Pot with **1 cup water** and a pinch of salt — high pressure 3 min, valve sealed, then natural release 10 min (~20 min total: 7 to pressure + 3 cooking + 10 release). Hit start, then spread the meatballs across a fully oiled sheet pan and roast on the top rack 13 min, then look — if they're not browned enough, give them another 2. *(Optional: shake the pan or flip halfway through for more even browning.)*
 
 4. **While everything cooks — make sauce and microwave green beans.** Combine 3 tbsp mayo, 5 tbsp sour cream, 4 tsp honey, 4 tsp soy sauce, and 1 tsp sriracha in a medium mixing bowl. Microwave green bean bag according to package directions.
 

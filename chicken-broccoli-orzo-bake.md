@@ -48,21 +48,21 @@
 
 1. **Preheat.** 400°F. Butter a 9x13 pan.
 
-2. **Season and sear the chicken** (~8 min). Toss the chicken pieces with olive oil, 1 tsp salt, pepper, garlic powder, paprika, and Italian seasoning. Sear in a hot skillet in a single layer, 2–3 min per side — you want color, not doneness. It finishes in the oven, so pulling it at ~80% is correct. Set aside.
+2. **Season and sear the chicken** (~8 min). Toss the **1.5 lb chicken pieces** with **2 tbsp olive oil**, 1 tsp salt, pepper, garlic powder, paprika, and Italian seasoning. Sear in a hot skillet in a single layer, 2–3 min per side — you want color, not doneness. It finishes in the oven, so pulling it at ~80% is correct. Set aside.
 
-3. **Build the base** (~5 min). Same skillet, melt the butter, soften the onion 3 min, then add garlic and red pepper flakes for 30 seconds. Add the broth and cream and bring to a bare simmer. Season with ½ tsp salt — **taste it now.** Once the orzo is in you can't fix under-seasoned liquid, because the pasta drinks it all.
+3. **Build the base** (~5 min). Same skillet, melt the **2 tbsp butter**, soften the **½ diced onion** 3 min, then add the **3 tsp garlic** and red pepper flakes for 30 seconds. Add the **3 cups hot broth** and **1 cup cream** and bring to a bare simmer. Season with ½ tsp salt — **taste it now.** Once the orzo is in you can't fix under-seasoned liquid, because the pasta drinks it all.
 
-4. **Assemble** (~3 min). Scatter the dry orzo evenly across the 9x13. Pour the hot broth-cream mixture over it and stir to level — even depth means even cooking. Tuck the seared chicken and any resting juices in on top.
+4. **Assemble** (~3 min). Scatter the **1.5 cups dry orzo** evenly across the 9x13. Pour the hot broth-cream mixture over it and stir to level — even depth means even cooking. Tuck the seared chicken and any resting juices in on top.
 
 5. **First bake, covered.** Foil tightly, 20 minutes. The seal is what cooks the orzo — steam is doing the work, so don't peek.
 
-6. **Add the broccoli** (~2 min). Uncover, stir the orzo up from the bottom (it sticks and cooks unevenly if you skip this), then fold the broccoli in. Re-cover and bake 12 more minutes. Broccoli goes in late on purpose: 30+ minutes in the oven turns it olive-drab and sulfurous.
+6. **Add the broccoli** (~2 min). Uncover, stir the orzo up from the bottom (it sticks and cooks unevenly if you skip this), then fold the **~6 cups broccoli florets** in. Re-cover and bake 12 more minutes. Broccoli goes in late on purpose: 30+ minutes in the oven turns it olive-drab and sulfurous.
 
-7. **Cheese and finish** (~8 min). Uncover, stir in half the cheddar and half the parm, scatter the rest over the top. Bake uncovered 8–10 min until the top browns in spots and the edges bubble. Broil 1–2 min if you want it darker — watch it the whole time.
+7. **Cheese and finish** (~8 min). Uncover, stir in half the cheese (**1 cup cheddar + ½ cup parm**), scatter the rest (**1 cup cheddar + ½ cup parm**) over the top. Bake uncovered 8–10 min until the top browns in spots and the edges bubble. Broil 1–2 min if you want it darker — watch it the whole time.
 
 8. **Rest 10 minutes.** It'll look a touch loose out of the oven. It sets as it sits.
 
-9. **Finish bright.** Lemon zest and a squeeze of juice over the whole pan, plus parsley. The dish is rich and flat without acid — this step isn't optional.
+9. **Finish bright.** Zest and juice of the **1 lemon** over the whole pan, plus parsley. The dish is rich and flat without acid — this step isn't optional.
 
 ---
 
