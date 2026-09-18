@@ -51,19 +51,19 @@
 
 **Steps**
 
-1. **Season and sear the chicken** (~8 min). Pat the cutlets bone dry — moisture is the only thing standing between you and a good crust. Season both sides with salt, pepper, garlic powder, and Italian seasoning. Heat the olive oil in a large skillet over medium-high until it shimmers, then lay the cutlets in without crowding (two batches if needed). **Leave them alone** — they'll stick at first and release on their own when they've got color, ~4 min. Flip once, another 3–4 min. Pull them to a plate at 160°F; they'll finish in the sauce. Don't wipe the pan.
+1. **Season and sear the chicken** (~8 min). Pat the **4 cutlets (~1.5 lb)** bone dry — moisture is the only thing standing between you and a good crust. Season both sides with salt, pepper, garlic powder, and Italian seasoning. Heat **2 tbsp olive oil** in a large skillet over medium-high until it shimmers, then lay the cutlets in without crowding (two batches if needed). **Leave them alone** — they'll stick at first and release on their own when they've got color, ~4 min. Flip once, another 3–4 min. Pull them to a plate at 160°F; they'll finish in the sauce. Don't wipe the pan.
 
-2. **Blister the tomatoes** (~5 min). Tomatoes go in whole, straight into the chicken fat, still over medium-high. Let them sit mostly undisturbed until the skins blacken in spots and split, pressing a few with the back of a spoon to encourage the rest. They'll spit — keep a lid handy as a shield. This step is the whole point: the dry heat drives off water and concentrates their sugar. Add them later and they just stew into something watery and sad.
+2. **Blister the tomatoes** (~5 min). **All 10 oz of tomatoes** go in whole, straight into the chicken fat, still over medium-high. Let them sit mostly undisturbed until the skins blacken in spots and split, pressing a few with the back of a spoon to encourage the rest. They'll spit — keep a lid handy as a shield. This step is the whole point: the dry heat drives off water and concentrates their sugar. Add them later and they just stew into something watery and sad.
 
-3. **Bloom the paste** (~2 min). Drop heat to medium. Add the butter, garlic, red pepper flakes, and tomato paste. Stir constantly for 1–2 minutes until the paste darkens from bright red to brick and smells roasty rather than tinny. Raw tomato paste tastes metallic — this is the step that fixes it, and it's where the sun-dried tomato depth comes from.
+3. **Bloom the paste** (~2 min). Drop heat to medium. Add **1 tbsp butter**, **2 tsp garlic**, **½ tsp red pepper flakes**, and **2 tbsp tomato paste**. Stir constantly for 1–2 minutes until the paste darkens from bright red to brick and smells roasty rather than tinny. Raw tomato paste tastes metallic — this is the step that fixes it, and it's where the sun-dried tomato depth comes from.
 
-4. **Deglaze** (~2 min). Pour in the broth and scrape every brown bit off the bottom with a wooden spoon. Let it bubble down by about half.
+4. **Deglaze** (~2 min). Pour in the **½ cup broth** and scrape every brown bit off the bottom with a wooden spoon. Let it bubble down by about half.
 
-5. **Cream and cheese** (~3 min). Turn the heat to low. Stir in the cream, then take the pan off the burner and add the parmesan, stirring until smooth. **Off-heat is not optional** — parm added to a boiling sauce breaks and goes grainy. Taste and salt.
+5. **Cream and cheese** (~3 min). Turn the heat to low. Stir in the **1 cup heavy cream**, then take the pan off the burner and add the **½ cup parmesan**, stirring until smooth. **Off-heat is not optional** — parm added to a boiling sauce breaks and goes grainy. Taste and salt.
 
 6. **Finish the chicken** (~5 min). Return the cutlets and any juices to the pan, spoon sauce over them, and simmer gently until they hit 165°F. Keep it at a bare simmer — a hard boil now risks breaking the sauce.
 
-7. **Rest 5 minutes, then finish bright.** Tear basil over the top and add a small squeeze of lemon. The sauce looks thin coming off the heat and tightens noticeably as it sits, so don't chase thickness on the stove — you'll end up with paste.
+7. **Rest 5 minutes, then finish bright.** Tear the **fresh basil** over the top and add a small squeeze of **lemon**. The sauce looks thin coming off the heat and tightens noticeably as it sits, so don't chase thickness on the stove — you'll end up with paste.
 
 ---
 
