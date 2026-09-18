@@ -17,12 +17,12 @@
 
 **Dairy**
 - Heavy cream (1 cup / 8 oz) — **heavy cream specifically, not half-and-half**
-- Parmesan, block (~2 oz / ½ cup grated)
+- Parmesan, block (~1.5 oz / ⅓ cup grated)
 - Butter
 
 **Pantry / Center Aisles**
 - Tomato paste (small can or tube — *tube is better, you only need 2 tbsp*)
-- Chicken broth (1 cup / 8 oz — smallest carton or a bouillon cube)
+- Chicken broth, **low-sodium** (1 cup / 8 oz — smallest carton) — *regular broth plus parm pushes this salty*
 - Dijon mustard — *for the vinaigrette; a jar lasts forever*
 
 **Bakery**
@@ -39,9 +39,9 @@
 - 10 oz grape tomatoes, left whole
 - 2 tbsp tomato paste
 - 2 tsp minced garlic
-- ½ cup chicken broth
+- ½ cup low-sodium chicken broth
 - 1 cup heavy cream
-- ½ cup grated parmesan
+- ⅓ cup grated parmesan
 - 2 tbsp olive oil + 1 tbsp butter
 - ½ tsp red pepper flakes
 - 1 tsp Italian seasoning
@@ -57,9 +57,9 @@
 
 3. **Bloom the paste** (~2 min). Drop heat to medium. Add **1 tbsp butter**, **2 tsp garlic**, **½ tsp red pepper flakes**, and **2 tbsp tomato paste**. Stir constantly for 1–2 minutes until the paste darkens from bright red to brick and smells roasty rather than tinny. Raw tomato paste tastes metallic — this is the step that fixes it, and it's where the sun-dried tomato depth comes from.
 
-4. **Deglaze** (~2 min). Pour in the **½ cup broth** and scrape every brown bit off the bottom with a wooden spoon. Let it bubble down by about half.
+4. **Deglaze** (~2 min). Pour in the **½ cup broth** and scrape every brown bit off the bottom with a wooden spoon. Let it bubble down by about half — a little further is fine and helps the sauce coat.
 
-5. **Cream and cheese** (~3 min). Turn the heat to low. Stir in the **1 cup heavy cream**, then take the pan off the burner and add the **½ cup parmesan**, stirring until smooth. **Off-heat is not optional** — parm added to a boiling sauce breaks and goes grainy. Taste and salt.
+5. **Cream and cheese** (~3 min). Turn the heat to low. Stir in the **1 cup heavy cream**, then take the pan off the burner and add the **⅓ cup parmesan**, stirring until smooth. **Off-heat is not optional** — parm added to a boiling sauce breaks and goes grainy. **Taste before you add any salt** — between the seasoned chicken, the broth, and the parm, it's usually already there.
 
 6. **Finish the chicken** (~5 min). Return the cutlets and any juices to the pan, spoon sauce over them, and simmer gently until they hit 165°F. Keep it at a bare simmer — a hard boil now risks breaking the sauce.
 
@@ -69,6 +69,8 @@
 
 ## Tips & Notes
 - **What ruins this: a broken sauce.** Acid plus dairy is the risk, and the guardrails are heavy cream only (36% fat is stable enough to take the tomato acid — half-and-half or milk will curdle) and no hard boil once the cream is in. If it does break, pull it off the heat and whisk in a splash of cold cream.
+- **Salt comes from the parm, not the salt shaker.** ⅓ cup is deliberate — ½ cup tipped it salty and cheesy. Parm is brined for weeks and is one of the saltiest cheeses going, so it's seasoning the sauce as much as thickening it. Pair it with low-sodium broth and season the chicken normally.
+- **Less parm, same coating.** The cream is what makes the sauce cling, not the cheese — so keep the full 1 cup. If it runs a touch thinner than you like, simmer it an extra minute or two *before* the chicken goes back in.
 - **Water math.** The bursting tomatoes release liquid, which is why the broth is only ½ cup. If it still ends up loose, simmer the sauce *before* the chicken goes back in — it's much easier to reduce then.
 - **Leave the tomatoes whole.** They collapse more dramatically than halved ones and you get a burst of hot sweet juice against the cream. Halved ones give up their water early and go limp.
 - **Want it thicker?** Dredge the seasoned cutlets in flour before searing. The fond carries into the sauce and thickens it on its own. Skipped in the main method to keep it a one-bowl-fewer job.
