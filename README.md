@@ -6,6 +6,7 @@ grocery department, then the method, then tips.
 ## Index
 
 - [🥘 Beef Stew](beef-stew.md) — stovetop, Dutch oven
+- [🍜 Bò Kho](bo-kho.md) — Vietnamese beef stew, lemongrass + star anise, no fish sauce
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
 - [🥦 Chicken, Broccoli & Orzo Bake](chicken-broccoli-orzo-bake.md) — one pan, raw orzo bakes in the broth
 - [🍝 Creamy Beef and Pasta](creamy-beef-and-pasta.md)
