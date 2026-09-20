@@ -11,7 +11,6 @@ the other half raw. Next time this is a 25-minute weeknight soup.
 - 1 yellow onion
 - 2 carrots
 - 2 celery stalks
-  - *Shortcut: pre-diced mirepoix works fine here*
 - Escarole (1 small head) or a bag of baby spinach
 - Fresh parsley
 - 1 lemon

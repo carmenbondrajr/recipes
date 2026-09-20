@@ -65,3 +65,4 @@
 - **Pasta swap:** Use 1.5–2 cups dry rotelle instead of rice. Add it in step 3 with the liquids (no separate step). Cook **4 minutes** on High, then **immediate quick release** (no natural release).
 - **Scraping the bottom matters** — don't skip it or you'll get a burn notice
 - **Thickens as it sits** — leftovers may need a splash of broth
+- **Want the upgraded version?** [Charred Pepper & Hot Sausage Soup](charred-pepper-sausage-soup.md) — stovetop, blistered peppers, browned sausage, ~55 min
