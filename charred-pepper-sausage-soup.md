@@ -64,46 +64,6 @@ black pepper*
 
 ---
 
-### 0. Prep — 15 min, everything before the stove goes on
-
-This one moves fast once the heat is on, and three of the stages are 30-second windows. Set it
-all out first.
-
-**Bowl 1 — peppers**
-- 3 bell peppers, 1" squares
-
-**Bowl 2 — aromatics**
-- 1 onion, diced
-- 3 celery stalks, diced
-
-**Small dish 3 — garlic** *(kept separate on purpose — it goes in 6 minutes after the onion and
-celery, and it scorches in about 60 seconds at the heat they need)*
-- 4 cloves garlic, minced
-
-**Small dish 4 — spices** *(pre-mixed, because they get exactly 30 seconds in the fat)*
-- 1 tsp Italian seasoning
-- 1 tsp smoked paprika
-
-**Small dish 5 — tomato paste**
-- 2 tbsp tomato paste
-
-**Big bowl or pitcher 6 — liquids** *(all go in at once)*
-- 1 can fire-roasted diced tomatoes
-- 1 can tomato sauce
-- 4 cups chicken broth
-
-**Loose on the counter** — no bowl needed
-- Bay leaf + parmesan rind (drop in with the liquids)
-- Sausage, casings off, on its board
-- Butter + lemon, halved, for the finish
-- Rice, measured, pot of water ready
-- Parsley chopped, parmesan grated, for serving
-
-**Two empty landing bowls** — one for the charred peppers, one for the browned sausage. Bowl 1
-can be the pepper landing bowl once it's empty.
-
----
-
 ### 1. Char the Peppers — 8 min
 Heat **2 tbsp olive oil** in the Dutch oven over medium-high until it shimmers. Add the
 **3 peppers, cut in 1" squares**, in a single layer — **work in two batches if they don't all
