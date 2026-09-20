@@ -33,7 +33,7 @@ taste like peppers instead of dissolving into sweet mush.
 - 1 can (15 oz) tomato sauce
 - Chicken broth (32 oz carton)
 - Jasmine rice (you'll use 1 cup dry)
-- Red wine vinegar (if you don't have it)
+- 1 lemon (you'll use ~1½ tbsp juice)
 
 *You should have at home: olive oil, butter, Italian seasoning, smoked paprika, bay leaf, salt,
 black pepper*
@@ -57,7 +57,7 @@ black pepper*
 - 4 cups (32 oz) chicken broth
 - 1 bay leaf
 - 1 parmesan rind
-- 1 tbsp red wine vinegar
+- 1½ tbsp fresh lemon juice (about half a lemon)
 - 1 tbsp butter
 - 1 cup jasmine rice, cooked separately
 - Parsley + grated parmesan, to serve
@@ -125,12 +125,15 @@ Stir the **charred peppers** in for the last 5 minutes of the simmer. Just long 
 through and trade some flavor with the broth, not long enough to undo the char.
 
 ### 8. Finish — 2 min
-Pull out the bay leaf and parmesan rind. Off the heat, stir in **1 tbsp red wine vinegar** and
-**1 tbsp butter**. Taste for salt.
+Pull out the bay leaf and parmesan rind. Off the heat, stir in **1 tbsp butter** and about
+**half the lemon juice**. Taste, then add the rest if it needs it.
 
-Don't skip this. Tomato soups go flat and heavy after a long simmer — the vinegar reads as
-*brighter*, not sour, and the butter rounds the edges. If it tastes vaguely like something is
-missing, it's almost always acid.
+Add it in two goes like that every time — acid is something you can always add more of and never
+remove. You're not trying to make it taste lemony; you're looking for the moment the whole pot
+suddenly tastes *sharper and more like itself*. That's the point to stop.
+
+Don't skip this step. Tomato soups go flat and heavy after a long simmer, and if a finished soup
+tastes vaguely like something is missing, it's almost always acid.
 
 ### 9. Serve
 Scoop rice into each bowl, ladle soup over. Chopped parsley and grated parmesan on top.
@@ -152,7 +155,13 @@ Scoop rice into each bowl, ladle soup over. Chopped parsley and grated parmesan 
 - **Pepper colors:** red and orange are ripe and sweet, green is younger and grassier. All green
   makes the soup taste sharper; all red makes it candy-sweet. A mix splits the difference.
 - **Leftovers:** soup keeps 4 days, rice separately. It thickens as it sits — loosen with a
-  splash of broth, and re-brighten with a few drops of vinegar since acid fades in the fridge.
+  splash of broth. **Citrus fades faster than vinegar does**, so leftovers want a fresh squeeze
+  of lemon on reheating. Keep half a lemon back for this.
+- **Acid swaps**, if you're out of lemons: **1 tbsp sherry vinegar** (the best of them here —
+  nutty, great with sausage and paprika), **1 tbsp apple cider vinegar**, or **2 tsp balsamic**
+  (sweeter, darkens the broth). At a tablespoon across six servings none of them taste like
+  vinegar — they just sharpen the tomato. Fun option: **1-2 tbsp pepperoncini brine**, which
+  brings acid, salt and a little pepper heat; ease off the finishing salt if you use it.
 - **Freezes well** without the rice. 3 months.
 - **In a hurry?** The dump-and-go Instant Pot version is
   [here](instant-pot-stuffed-pepper-soup.md) — different tool, different night.
