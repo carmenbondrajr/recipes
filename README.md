@@ -19,3 +19,4 @@ grocery department, then the method, then tips.
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe
 - [💍 Marry Me Chicken](marry-me-chicken.md) — one skillet, blistered grape tomatoes, no sun-dried
 - [🍲 Instant Pot Pasta Fagioli](pasta-fagioli.md)
+- [🇸🇪 Swedish Meatballs with Mashed Potatoes](swedish-meatballs.md) — IKEA-style cream gravy + lingonberry
