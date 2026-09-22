@@ -1,5 +1,5 @@
 # 🇸🇪 Swedish Meatballs with Mashed Potatoes
-*The IKEA plate at home, built on IKEA's own 2020 recipe: tender beef-and-pork meatballs in a silky soy-and-Dijon cream gravy over mashed potatoes. 4 servings (~24 meatballs), ~45 minutes*
+*The IKEA plate at home, built on IKEA's own 2020 recipe: tender beef-and-pork meatballs in a silky soy-and-Dijon cream gravy over mashed potatoes. 4 servings (~40 small meatballs), ~45 minutes*
 
 ---
 
@@ -18,6 +18,9 @@
 - Unsalted butter (5 tbsp)
 - Heavy cream (⅔ cup, one half-pint). *Have half-and-half at home? You can skip this and use half-and-half in the gravy too. The flour in the roux keeps it from curdling. It'll be a little less rich but still creamy.*
 - Eggs (1)
+
+**Frozen**
+- Frozen peas (2 cups, about a 12 oz bag). *Check your freezer first!*
 
 **Pantry / Center Aisles**
 - Low-sodium beef broth (⅔ cup)
@@ -57,6 +60,7 @@
 
 *To serve*
 - Premade mashed potatoes (~2 lb)
+- 2 cups frozen peas
 
 **Steps**
 
@@ -64,19 +68,19 @@
 
 2. **Mix the meatballs (5 min).** Grate **½ small onion** and the **1 garlic clove** straight into the bowl on the small holes of a box grater. Grating makes a pulp that melts into the meat, so you don't get crunchy onion bits. Add the **1 egg**, **1 tsp salt**, and **½ tsp pepper** and stir to combine, then add the **1 lb beef + ½ lb pork**. That's it for seasoning, which matches IKEA's recipe. The flavor comes from the browned meat and the gravy, not a spice blend. Mix with your hands **only until it just comes together.** Overmixing is the #1 way to get tough, rubbery meatballs. The mixture will feel wet and sticky, and that's correct.
 
-3. **Roll and chill (10 min).** Wet your hands and roll 1¼-inch balls (about a heaping tablespoon each, ~24 total) onto a plate or sheet pan. Pop them in the fridge while you set up the pan and wash your hands. Chilled meatballs hold their shape much better in the pan.
+3. **Roll small and chill (10 min).** Wet your hands and roll **1-inch balls** (about 2 teaspoons each, ~40 total) onto a plate or sheet pan. **Keep them small.** IKEA's meatballs are bite-sized, and it's a big part of the vibe: more browned surface, more gravy in every bite, and they cook through fast. If they start looking golf-ball-sized, you've drifted, so compare against the first few. Pop them in the fridge while you set up the pan and wash your hands. Chilled meatballs hold their shape much better in the pan.
 
-4. **Sear the meatballs (10 min).** Heat **2 tbsp butter + 1 tbsp oil** in a large skillet over medium-high. Sear the meatballs in two batches, turning them, until browned on most sides, 4-5 min per batch. They don't need to be cooked through yet because they finish in the gravy. Set them aside on a plate and **don't clean the pan.** The brown bits stuck to it are the flavor base of the gravy.
+4. **Sear the meatballs (10 min).** Heat **2 tbsp butter + 1 tbsp oil** in a large skillet over medium-high. Sear the meatballs in 2-3 batches without crowding, rolling them around the pan until browned on most sides, 3-4 min per batch. Shaking the pan works better than flipping 40 meatballs one at a time. They don't need to be cooked through yet because they finish in the gravy. Set them aside on a plate and **don't clean the pan.** The brown bits stuck to it are the flavor base of the gravy.
 
 5. **Make the roux (2-3 min).** Lower the heat to medium. Melt the **3 tbsp butter** in the same skillet, then whisk in the **3 tbsp flour**. Keep whisking for 2 minutes until it smells toasty and turns peanut-butter tan. Cooking the flour gets rid of the raw pasty taste and adds the nutty depth that makes this gravy taste like gravy, not white sauce.
 
 6. **Build the gravy (5 min).** Slowly pour in the **1⅓ cups broth** while whisking constantly, scraping up the brown bits as you go. Adding it gradually is how you avoid lumps. If some show up anyway, keep whisking and they'll smooth out as it simmers. Whisk in the **2 tsp soy sauce** and **1 tsp Dijon** and simmer until it coats a spoon, 2-3 min. Soy and Dijon are IKEA's official secret. They're an odd pair for Swedish food, but the soy adds savory depth and a tan color, and the mustard adds a little tang that keeps the cream from tasting flat.
 
-7. **Add the cream and finish the meatballs (8-10 min).** Stir in the **⅔ cup heavy cream**, return the meatballs and any juices from the plate, and simmer gently, turning them now and then, until cooked through (160°F in the center, or no pink when you cut one open). Keep it at a lazy bubble, not a hard boil. Taste and add pepper. Hold off on salt until you've tasted, because it's usually already there.
+7. **Add the cream and finish the meatballs (6-8 min).** Stir in the **⅔ cup heavy cream**, return the meatballs and any juices from the plate, and simmer gently, turning them now and then, until cooked through, about 6-8 min since they're small (160°F in the center, or no pink when you cut one open). Keep it at a lazy bubble, not a hard boil. Taste and add pepper. Hold off on salt until you've tasted, because it's usually already there.
 
-8. **Heat the mashed potatoes (5 min).** While the meatballs finish in the gravy, microwave the **premade mash** per the package directions, stirring halfway so there are no cold spots in the middle.
+8. **Heat the mash and peas (5 min).** While the meatballs finish in the gravy, microwave the **premade mash** per the package directions, stirring halfway so there are no cold spots in the middle. Then microwave the **2 cups frozen peas** in a covered bowl with a splash of water for 2-3 min and add a pat of butter and a pinch of salt. Stop when they're bright green. Past that they turn drab and mushy.
 
-9. **Plate it IKEA-style.** Put a big scoop of mash on the plate, add meatballs, and pour gravy over everything. The mash is really there to soak up gravy, so be generous with it.
+9. **Plate it IKEA-style.** Put a big scoop of mash on the plate, add meatballs, pour gravy over everything, and add a pile of peas on the side. The peas look like a throwaway, but that sweet green pop against all the beige is a big part of why the IKEA plate works. The mash is really there to soak up gravy, so be generous with it.
 
 ---
 
