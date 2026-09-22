@@ -16,8 +16,7 @@
 **Dairy**
 - Premade mashed potatoes (about 2 lb / two 24 oz trays, enough for 4). *Microwaveable ones in the refrigerated case near the deli or packaged sides. Look for a short ingredient list (potatoes, butter, milk, cream, salt).*
 - Unsalted butter (5 tbsp)
-- Whole milk (½ cup, the smallest carton is plenty)
-- Heavy cream (⅔ cup, one half-pint)
+- Heavy cream (⅔ cup, one half-pint). *Have half-and-half at home? You can skip this and use half-and-half in the gravy too. The flour in the roux keeps it from curdling. It'll be a little less rich but still creamy.*
 - Eggs (1)
 
 **Pantry / Center Aisles**
@@ -28,7 +27,7 @@
 - Dijon mustard
 - *Optional:* lingonberry jam, the classic IKEA side. It's near the jams or in the international aisle. Whole-berry cranberry sauce is an easy swap.
 
-*You should have at home: kosher salt, black pepper, all-purpose flour, neutral oil*
+*You should have at home: half-and-half (½ cup, or milk), kosher salt, black pepper, all-purpose flour, neutral oil*
 
 ---
 
@@ -39,7 +38,7 @@
 *Meatballs*
 - 1 lb ground beef + ½ lb ground pork (or 1½ lb beef)
 - ½ cup panko
-- ½ cup whole milk
+- ½ cup half-and-half (or whole milk)
 - 1 egg
 - ½ small yellow onion, grated
 - 1 garlic clove, grated
@@ -53,7 +52,7 @@
 - ⅔ cup low-sodium beef broth + ⅔ cup vegetable broth (or 1⅓ cups beef)
 - 2 tsp soy sauce
 - 1 tsp Dijon mustard
-- ⅔ cup heavy cream
+- ⅔ cup heavy cream (or half-and-half)
 - Black pepper to taste
 
 *To serve*
@@ -61,7 +60,7 @@
 
 **Steps**
 
-1. **Make the panade (5 min).** In a big bowl, stir the **½ cup panko** into the **½ cup milk** and let it sit while you grate the onion. The soaked crumbs sit between the meat proteins and keep them from squeezing together tightly as they cook. That's what makes Swedish meatballs soft and bouncy, not dense.
+1. **Make the panade (5 min).** In a big bowl, stir the **½ cup panko** into the **½ cup half-and-half** and let it sit while you grate the onion. The soaked crumbs sit between the meat proteins and keep them from squeezing together tightly as they cook. That's what makes Swedish meatballs soft and bouncy, not dense.
 
 2. **Mix the meatballs (5 min).** Grate **½ small onion** and the **1 garlic clove** straight into the bowl on the small holes of a box grater. Grating makes a pulp that melts into the meat, so you don't get crunchy onion bits. Add the **1 egg**, **1 tsp salt**, and **½ tsp pepper** and stir to combine, then add the **1 lb beef + ½ lb pork**. That's it for seasoning, which matches IKEA's recipe. The flavor comes from the browned meat and the gravy, not a spice blend. Mix with your hands **only until it just comes together.** Overmixing is the #1 way to get tough, rubbery meatballs. The mixture will feel wet and sticky, and that's correct.
 
