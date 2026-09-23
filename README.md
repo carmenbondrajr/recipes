@@ -12,7 +12,7 @@ grocery department, then the method, then tips.
 - [🥦 Chicken, Broccoli & Orzo Bake](chicken-broccoli-orzo-bake.md) — one pan, raw orzo bakes in the broth
 - [🍝 Creamy Beef and Pasta](creamy-beef-and-pasta.md)
 - [🥔 Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce](crispy-gnocchi-brown-butter-meatballs.md) — freezer-to-table weeknight
-- [🥓 Crispy Pancetta and Peas](crispy-pancetta-and-peas.md)
+- [🥓 Tortellini with Crispy Pancetta & Peas](tortellini-pancetta-peas.md) — Parmesan cream sauce, one skillet
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
 - [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
 - [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
