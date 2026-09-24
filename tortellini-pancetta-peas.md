@@ -34,7 +34,7 @@
 - 1 tbsp unsalted butter
 - 60g (2oz) Parmigiano-Reggiano, freshly grated (about 1½ cups fluffy microplaned), plus more for serving
 - 1 garlic clove, smashed
-- Salt and black pepper
+- Salt and **lots of** freshly cracked black pepper
 
 **Steps**
 
@@ -48,9 +48,9 @@
 
 5. **Bring it together** *(1–2 min)*. Add the drained tortellini and the pancetta (minus your reserved handful) to the cream. Toss gently over low heat for about a minute with a splash of pasta water. The starch in the water helps the cream and cheese bind into one glossy sauce.
 
-6. **Finish with the Parmesan** *(1 min)*. **Take the pan off the heat**, then add the **60g / 2oz grated parm** in two handfuls, tossing between each. This is the moment that can go wrong: over direct heat, parm proteins tighten into stringy clumps and the sauce turns greasy. Off heat, it melts smooth. Add plenty of black pepper and taste. **It will likely taste like it needs salt — reach for more parm instead of the salt shaker.** An extra handful seasons it *and* thickens the sauce, so it fixes a too-loose sauce and a flat taste in one move. Too thick instead? Loosen with pasta water a tablespoon at a time.
+6. **Finish with the Parmesan** *(1 min)*. **Take the pan off the heat**, then add the **60g / 2oz grated parm** in two handfuls, tossing between each. This is the moment that can go wrong: over direct heat, parm proteins tighten into stringy clumps and the sauce turns greasy. Off heat, it melts smooth. Add **a lot** of freshly cracked black pepper — don't be shy, it's a star here, cutting through the cream the way it does in cacio e pepe. Then taste. **It will likely taste like it needs salt — reach for more parm instead of the salt shaker.** An extra handful seasons it *and* thickens the sauce, so it fixes a too-loose sauce and a flat taste in one move. Too thick instead? Loosen with pasta water a tablespoon at a time.
 
-7. **Serve right away.** Top with the reserved crispy pancetta, more grated parm, and cracked pepper. Tortellini keep absorbing the sauce as they sit, so it'll look saucier in the pan than it will be 5 minutes later — that's normal, and why it goes straight to the table.
+7. **Serve right away.** Top with the reserved crispy pancetta, more grated parm, and another generous crack of black pepper. Tortellini keep absorbing the sauce as they sit, so it'll look saucier in the pan than it will be 5 minutes later — that's normal, and why it goes straight to the table.
 
 ---
 
@@ -61,7 +61,7 @@
 - **Leftovers soak up everything.** Reheat on low with a splash of milk or cream to bring the sauce back
 - **Bacon works** instead of pancetta — smokier, and you may want to pour off some fat since bacon renders more
 - **Frozen tortellini works too** — no need to thaw; just add 2–3 min to the cook time
-- A **squeeze of lemon** or some **lemon zest** at the end cuts the richness nicely
+- **Want some acid to cut the richness? Try lemon, at the very end.** Once the parm is in and the pan's off the heat, zest in about ½ lemon and squeeze in 1–2 tsp juice, then toss. Zest brings the bright lemon smell without much sourness, and a little juice gives the acidic cut. Add it last, because juice in simmering cream can make it split, and too much turns the dish sour instead of bright. Easiest test: squeeze a wedge over just your own bowl first
 - A handful of **baby spinach** wilted in with the peas adds some green
 - **A pinch of nutmeg** in the cream is a classic Emilia-Romagna touch — cream + nutmeg is the base of their besciamella
 - **The history:** tortellini come from Emilia-Romagna, and Bologna and Modena still argue over who invented them. Legend says an innkeeper in Castelfranco Emilia shaped them after peeking at Venus's navel through a keyhole. Traditionally they're served *in brodo* (in broth) — *tortellini panna, prosciutto e piselli* was the rich, cream-sauced version that swept Italian trattorias in the 1980s, which is basically what this is with pancetta swapped in
