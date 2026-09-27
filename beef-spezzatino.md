@@ -1,6 +1,6 @@
 # 🍅 Italian Beef Spezzatino
 
-*Serves 5-6. Tomato-braised beef with sweet peppers and chickpeas: thicker than a stew, chunkier than a ragu, and made for dunking garlic bread. Stovetop, Dutch oven, ~3 hrs (mostly hands-off).*
+*Serves 5-6. Tomato-braised beef with sweet peppers and chickpeas: thicker than a stew, chunkier than a ragu, and made for dunking garlic bread. Stovetop, Dutch oven, ~3½-4 hrs (mostly hands-off). Start early, because the beef sets the schedule, not the clock.*
 
 *"Spezzatino" comes from **spezzare**, "to break into pieces." So it's literally "little broken-up bits," which is what Italians call beef stew. Every region does its own version. Peppers and chickpeas give this one a southern Italian lean.*
 
@@ -69,14 +69,16 @@ Push the veg to the edges and add the **3 tbsp tomato paste**, **½ tsp red pepp
 ### 5. Deglaze & Build the Braise (5 min)
 Pour in the **½ cup red wine** (or ½ cup of the broth if skipping wine) and scrape the bottom hard. Everything stuck down there should dissolve into the liquid. Let it bubble 2 min. Add the **28 oz crushed tomatoes**, **2 cups beef broth**, **2 bay leaves**, and the **Parmesan rind** if using. Return the beef and all its resting juices to the pot.
 
-### 6. Low & Slow Simmer (2 hrs)
+### 6. Low & Slow Simmer (2½-3 hrs)
 Bring to a simmer, then turn it down until you see just a **lazy bubble or two** breaking the surface. Cover with the lid **cracked about an inch** so some steam escapes and the sauce slowly thickens. Stir every 20-30 min, scraping the bottom so nothing catches.
 
 **🔥 Dial it to 3 and wait.** On Carmen's burner, **3** is the lazy-bubble spot for this pot. The cast iron holds so much heat that it takes several minutes to show a dial change. So set it to **3**, give it ~5 min, and *then* judge the bubbles. If you keep nudging the dial before the pot catches up, it swings between boiling and barely moving.
 
 **Failure mode #1: boiling.** A rolling boil squeezes the moisture out of the meat, leaving it stringy and dry even while it's sitting in liquid. Keep it lazy.
 
-**Failure mode #2: panicking at 90 minutes.** Chuck gets *tougher* before it gets tender, and the collagen needs time to melt into gelatin. If a cube is chewy at the 90-min mark, it needs **more** time, not less. The sauce will also look thin for a while. That's normal.
+**Failure mode #2: too low = stalled.** If the surface is totally still with no bubbles, the pot is too cool to melt the collagen, and the beef just sits there tough. An hour of that is basically an hour lost. You want *some* movement: a lazy bubble every few seconds.
+
+**Failure mode #3: panicking at 90 minutes.** Chuck gets *tougher* before it gets tender, and the collagen needs time to melt into gelatin. If a cube is chewy at the 90-min mark, it needs **more** time, not less. The sauce will also look thin for a while. That's normal.
 
 ### 7. Add Peppers & Chickpeas (30-40 min)
 Once a beef cube gives easily to a fork, stir in the **2 bell peppers (strips)** and the **drained chickpeas**. Take the lid **off** and simmer another 30-40 min. The peppers should turn silky but still hold their shape. The chickpeas soak up the sauce, and the open pot lets the sauce reduce.
@@ -96,7 +98,7 @@ Stir in most of the **½ cup chopped parsley**, then scatter the rest on top. Se
 ---
 
 ## Tips & Notes
-- **Better on day two.** Like most braises, the flavors meld overnight. It reheats beautifully on the stove with a splash of broth.
+- **Better on day two.** Like most braises, the flavors meld overnight. It reheats beautifully on the stove with a splash of broth. If the beef came out a little firm, simmer the leftovers gently, covered, for 20-30 min. That finishes the tenderizing.
 - **Freezes great** for ~3 months. The peppers will soften a bit more, and that's fine.
 - **Want it as a true ragu?** Once it's done, shred the beef right in the pot with two forks. Then it's pasta sauce (pappardelle or rigatoni) or a polenta topper. Save this for leftovers night.
 - **No wine?** Use broth to deglaze and add the balsamic splash at the end. You still get the acidity and depth.
