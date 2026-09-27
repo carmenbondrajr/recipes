@@ -6,6 +6,7 @@ grocery department, then the method, then tips.
 ## Index
 
 - [🥘 Beef Stew](beef-stew.md) — stovetop, Dutch oven
+- [🍅 Beef Spezzatino](beef-spezzatino.md) — Italian tomato-braised beef, peppers + chickpeas, garlic bread dunker
 - [🍜 Bò Kho](bo-kho.md) — Vietnamese beef stew, lemongrass + star anise, no fish sauce
 - [🔥 Charred Pepper & Hot Sausage Soup](charred-pepper-sausage-soup.md) — stovetop Dutch oven, layered-flavor stuffed pepper soup
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
