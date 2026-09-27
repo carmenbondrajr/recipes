@@ -72,6 +72,8 @@ Pour in the **½ cup red wine** (or ½ cup of the broth if skipping wine) and sc
 ### 6. Low & Slow Simmer (2 hrs)
 Bring to a simmer, then turn it down until you see just a **lazy bubble or two** breaking the surface. Cover with the lid **cracked about an inch** so some steam escapes and the sauce slowly thickens. Stir every 20-30 min, scraping the bottom so nothing catches.
 
+**🔥 Dial it to 3 and wait.** On Carmen's burner, **3** is the lazy-bubble spot for this pot. The cast iron holds so much heat that it takes several minutes to show a dial change. So set it to **3**, give it ~5 min, and *then* judge the bubbles. If you keep nudging the dial before the pot catches up, it swings between boiling and barely moving.
+
 **Failure mode #1: boiling.** A rolling boil squeezes the moisture out of the meat, leaving it stringy and dry even while it's sitting in liquid. Keep it lazy.
 
 **Failure mode #2: panicking at 90 minutes.** Chuck gets *tougher* before it gets tender, and the collagen needs time to melt into gelatin. If a cube is chewy at the 90-min mark, it needs **more** time, not less. The sauce will also look thin for a while. That's normal.
