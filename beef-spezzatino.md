@@ -56,7 +56,7 @@
 Pat the **2.4 lbs beef** very dry with paper towels. Season all over with **2 tsp kosher salt** and **1 tsp black pepper**. Wet meat steams instead of searing, and you won't get the brown crust that makes the sauce taste deep and beefy.
 
 ### 2. Sear in Batches (20 min)
-Heat **1½ tbsp olive oil** in the Dutch oven over medium-high until it shimmers. Sear the beef in **2-3 batches** with space between the cubes. Leave each side alone for ~3 min until it's deep brown and releases easily. Move the seared beef to a plate, and add a little more oil between batches if the pot looks dry.
+Heat **1½ tbsp olive oil** in the Dutch oven over medium-high until it shimmers. Sear the beef in **2-3 batches** with space between the cubes. Leave each side alone for ~3 min until it's deep brown and releases easily. Move the seared beef to a **rimmed plate, uncovered**. Foil traps steam and softens the crust, and the juices that pool are flavor you'll pour back in later. Add a little more oil between batches if the pot looks dry.
 
 **Failure mode:** If you crowd the pot, the beef dumps its juice and turns grey and boiled-looking. If you see liquid pooling, pull some pieces out and do another batch. The dark crusty bits stuck to the pot bottom (the *fond*) are flavor, not burn. Just keep the heat from going past dark brown into black.
 
