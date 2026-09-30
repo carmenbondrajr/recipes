@@ -6,7 +6,7 @@
 ## Shopping List
 
 **Produce**
-- Garlic (2 cloves)
+- Garlic paste (tube), or 2 fresh cloves (see Tips)
 - Lemon (1)
 
 **Dairy / Refrigerated**
@@ -38,24 +38,25 @@
 - 1 cup frozen peas
 - 2 tbsp unsalted butter
 - 60g (2oz) parmesan, freshly grated (about 1½ cups fluffy microplaned), plus more for serving
-- 2 garlic cloves: 1 smashed (sauce), 1 grated (pangrattato)
+- 1 tsp garlic paste: ½ tsp for the pangrattato, ½ tsp for the sauce
 - Salt and **lots of** freshly cracked black pepper
 
 *Pangrattato:*
 - ¼ cup panko
 - 1 tbsp olive oil
+- ½ tsp garlic paste (from above)
 - Zest of ½ lemon
 - Pinch of salt
 
 **Steps**
 
-1. **Make the pangrattato. Do this before company arrives** *(5 min)*. Heat the **1 tbsp olive oil** in a small skillet over medium, add the **¼ cup panko**, and stir constantly. It stays pale for a few minutes, then turns golden fast, so don't walk away. When it's deep golden and smells nutty (3–4 min), stir in the **grated garlic clove** for just 30 seconds. Garlic added any earlier burns and turns bitter before the crumbs are done. **Tip it into a bowl right away**, because the hot pan keeps cooking it. Stir in the **lemon zest** and a **pinch of salt**. It keeps fine at room temp for hours.
+1. **Make the pangrattato. Do this before company arrives** *(5 min)*. Heat the **1 tbsp olive oil** in a small skillet over medium, add the **¼ cup panko**, and stir constantly. It stays pale for a few minutes, then turns golden fast, so don't walk away. When it's deep golden and smells nutty (3–4 min), **take the pan off the heat** and quickly stir in the **½ tsp garlic paste** so it spreads through. The pan's leftover heat cooks it. On the burner, paste scorches in seconds and turns bitter. **Tip it into a bowl right away**, because the hot pan keeps cooking it. Stir in the **lemon zest** and a **pinch of salt**. It keeps fine at room temp for hours. **Wipe the pan out with a paper towel.** You'll use it again for the sauce, and stray crumbs would burn in the butter and hide its color.
 
 2. **Put the water on & grate the cheese** *(5 min)*. Bring a big pot of salted water to a boil. While it heats, microplane the **60g / 2oz parmesan**. Grate it now, not mid-sauce: freshly grated parm is fluffy and fine, so it melts into the cream instantly. Pre-grated tubs are coated in anti-caking powder (cellulose) that keeps it from melting and makes the sauce gritty.
 
-3. **Brown the butter** *(3 min)*. In a large skillet over medium, melt the **2 tbsp butter** with the **smashed garlic clove**. Swirl the pan as it foams. After 2–3 min the foam settles, the milk solids on the bottom turn golden-brown, and it smells like toasted hazelnuts. That nutty depth is what stands in for the pancetta, so let it get there. **Failure mode:** brown turns to burnt in about 30 seconds. Black specks and a sharp, acrid smell mean start over (you only lose some butter). Fish out the garlic.
+3. **Brown the butter** *(3 min)*. In the same skillet over medium, melt the **2 tbsp butter**. Swirl the pan as it foams. After 2–3 min the foam settles, the milk solids on the bottom turn golden-brown, and it smells like toasted hazelnuts. That nutty depth is what stands in for the pancetta, so let it get there. **Failure mode:** brown turns to burnt in about 30 seconds. Black specks and a sharp, acrid smell mean start over (you only lose some butter). **No garlic yet.** It goes in with the cream.
 
-4. **Build the cream sauce** *(4 min)*. **Turn the heat to medium-low first**, then pour in the **¾ cup heavy cream**. It will sputter hitting the hot butter, which is normal. Bring it to a gentle simmer (small lazy bubbles, not a rolling boil) and let it reduce 3–4 min until it coats the back of a spoon. Reducing concentrates the cream so it clings to the pasta instead of pooling at the bottom of the bowl. Add the **1 cup frozen peas** for the last 2 minutes. If it reduces into paste territory, splash in pasta water to loosen it.
+4. **Build the cream sauce** *(4 min)*. **Turn the heat to medium-low first**, then pour in the **¾ cup heavy cream**. It will sputter hitting the hot butter, which is normal. Stir in the **½ tsp garlic paste**. Paste would burn instantly in brown butter, but in the cream it melts in gently. Bring it to a gentle simmer (small lazy bubbles, not a rolling boil) and let it reduce 3–4 min until it coats the back of a spoon. Reducing concentrates the cream so it clings to the pasta instead of pooling at the bottom of the bowl. Add the **1 cup frozen peas** for the last 2 minutes. If it reduces into paste territory, splash in pasta water to loosen it.
 
 5. **Cook the tortellini** *(2–7 min, per package)*. While the cream reduces, drop the **tortellini** into the boiling water and cook **1 minute less than the package says**, since they finish in the sauce. Keep a steady boil, not a violent one; hard rolling water bursts the seams. **Scoop out a mug of pasta water** before draining.
 
@@ -70,6 +71,7 @@
 ## Tips & Notes
 - **Sauce broke or went greasy?** The heat was too high when the cheese went in. Off the heat, whisk in a splash of pasta water or cream and it usually comes back together
 - **Sauce too thin?** Add more parm at the end, or simmer 1 more minute before adding the tortellini. **Too thick?** Add more pasta water
+- **Fresh garlic instead of paste:** about 1 tsp paste equals 1 clove. For the pangrattato, grate 1 clove and stir it in off the heat, the same as the paste. For the sauce, add 1 smashed clove with the butter for a gentle infusion and fish it out before the cream
 - **Pangrattato with butter instead of olive oil** tastes richer but browns faster. Watch it even more closely
 - **Pangrattato upgrades:** a pinch of smoked paprika for a bacon-ish vibe, chopped parsley, chili flakes, or a few chopped toasted walnuts
 - **A handful of baby spinach** wilted in with the peas adds color
