@@ -14,6 +14,7 @@ grocery department, then the method, then tips.
 - [🍝 Creamy Beef and Pasta](creamy-beef-and-pasta.md)
 - [🥔 Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce](crispy-gnocchi-brown-butter-meatballs.md) — freezer-to-table weeknight
 - [🥓 Tortellini with Crispy Pancetta & Peas](tortellini-pancetta-peas.md) — Parmesan cream sauce, one skillet
+- [🧀 Tortellini with Peas & Pangrattato](tortellini-peas-pangrattato.md) — vegetarian, brown-butter Parmesan cream, toasted breadcrumb crunch
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
 - [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
 - [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
