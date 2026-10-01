@@ -6,6 +6,7 @@
 
 **From the yard**
 - Fresh thyme (~6 sprigs)
+- Fresh rosemary (1 sprig)
 - Dried bee balm / wild bergamot (~1 tsp crumbled) — *leaves, flowers, or both*
 
 **Produce**
@@ -45,6 +46,7 @@
 - 3 tbsp butter, split into 2 tbsp + 1 tbsp
 - 3 garlic cloves, smashed and peeled
 - ~6 sprigs fresh thyme
+- 1 sprig fresh rosemary
 - 1 can (15 oz) chickpeas, drained and rinsed
 - 8 oz green beans, stem ends trimmed
 - ½ lemon, plus wedges for serving
@@ -61,17 +63,18 @@
 
 5. **Rest, and save that butter** (5 min). Move the chops to a plate and pour the basting butter over them, garlic and thyme included. Tent loosely with foil. Leave the browned bits in the skillet. That's what seasons the chickpeas and beans.
 
-6. **Crisp the chickpeas** (~5 min). Put the skillet back on **medium-high** and add the **last 1 tbsp butter** and the **other 1 tbsp oil**. The oil keeps the butter from burning during the longer cook. Add the **chickpeas** in one layer with a pinch of salt and let them fry, shaking the pan now and then, until golden with crispy edges. Scrape up the paprika fond as you go so they pick up the rub's flavor. They may pop and spit a little, so keep a lid handy as a shield.
+6. **Crisp the chickpeas** (~5 min). Put the skillet back on **medium-high** and add the **last 1 tbsp butter** and the **other 1 tbsp oil**. The oil keeps the butter from burning during the longer cook. Add the **chickpeas** in one layer with a pinch of salt, and tuck the **rosemary sprig** in among them. Let them fry, shaking the pan now and then, until golden with crispy edges. Scrape up the paprika fond as you go so they pick up the rub's flavor. They may pop and spit a little, so keep a lid handy as a shield. Once the rosemary is crisp and dark green, about 2–3 minutes, pull it out onto a plate. The oil already has its flavor, and the needles go bitter if they stay in the whole time.
 
 7. **Add the green beans and blister** (~6–7 min). Push the chickpeas to the edges and add the **8 oz green beans** to the middle in as flat a layer as you can. **Leave them alone for 2–3 minutes**, until they have dark blistered spots. Toss everything together and repeat once or twice. **Beans still too crunchy?** Add 2 tbsp water and cover for 1 minute to steam them through. Finish with a pinch of salt and a squeeze from the **½ lemon**.
 
-8. **Plate it.** Chops with their resting butter spooned over the top, chickpeas and beans alongside, lemon wedges on the side, and a few fresh thyme leaves stripped over everything.
+8. **Plate it.** Chops with their resting butter spooned over the top, chickpeas and beans alongside, lemon wedges on the side. Crumble the crispy rosemary needles over the chickpeas (toss the stem) and strip a few fresh thyme leaves over everything.
 
 ---
 
 ## Tips & Notes
 - **What ruins this: scorched paprika.** Paprika is ground dried peppers with natural sugars, and it goes from sweet to bitter fast over high heat. That's why this sears at medium-high instead of the usual screaming-hot and the baste happens at medium-low. If the crust looks black instead of red-brown, the heat was too high.
 - **What else ruins it: dry chops.** That comes from thin boneless chops or skipping the thermometer. Buy 1 inch or thicker and pull at 140°F. Slightly pink in the middle is correct and safe.
+- **One herb per job.** Bee balm goes in the rub, thyme in the butter baste, and rosemary with the chickpeas. Thyme shares bee balm's aromatic compounds, so they blend into one flavor. Rosemary is piney and loud and would fight the bee balm on the pork, but rosemary and chickpeas are an old Italian pairing (think *pasta e ceci*).
 - **Bee balm strength varies a lot** by plant, season, and how it was dried. Taste a pinch first. If it's sharp enough to numb your tongue a little, use ½ tsp. Dried flowers are milder and slightly sweeter than the leaves.
 - **Want a little smoke?** Swap **½ tsp** of the sweet paprika for smoked. That's enough to hint at a grill without taking over the herbs.
 - **No thyme sprigs?** A couple of fresh bee balm leaves work in the baste too, if the plant is still going. Use fewer than you would thyme.
