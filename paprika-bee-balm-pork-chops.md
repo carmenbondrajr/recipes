@@ -2,8 +2,6 @@
 
 *One 10-inch Dutch oven, ~40 minutes, serves 2. Paprika and bee balm crusted chops, basted in thyme-garlic butter, with rosemary chickpeas and blistered green beans crisped in the same pot. The herbs come from the yard.*
 
-**Key:** 💡 why · ⚠️ watch out · ✅ done when · 🔥 heat change
-
 ## Shopping List
 
 **From the yard**
@@ -59,78 +57,61 @@
 
 ---
 
-### 1️⃣ Rub the chops · ⏱ 5 min (+ optional rest)
-- Crumble **1 heaping tsp bee balm** between your palms into a small bowl
-  - 💡 Crushing it wakes up the oils
-- Mix in **2¼ tsp paprika, 1 heaping tsp salt, heaping ½ tsp garlic powder, heaping ½ tsp brown sugar, heaping ¼ tsp pepper**
-- Pat the **chops** dry and press the rub onto every side, edges too
-- **Pick one:**
-  - 🕐 **Have time:** fridge, uncovered, 45 min to overnight
-    - 💡 The salt seasons all the way through and the surface dries for a better crust
-  - ⚡ **No time:** rub them last, right before they go in the pot
-  - ⚠️ **Avoid 5–30 min.** The salt pulls moisture to the surface and they won't sear
+### 1️⃣ Rub the chops · ⏱ 5 min, plus an optional rest
+- Crumble the **1 heaping tsp dried bee balm** between your palms as it goes into a small bowl. Crushing it wakes up the oils, which is where all the flavor lives.
+- Mix it with the rest of the rub:
+  - **2¼ tsp sweet paprika**
+  - **1 heaping tsp kosher salt**
+  - **Heaping ½ tsp garlic powder**
+  - **Heaping ½ tsp brown sugar**
+  - **Heaping ¼ tsp black pepper**
+- Pat the **chops** dry and press the rub into every side, edges included.
+- **If you have time,** leave them uncovered in the fridge for 45 minutes to overnight. The salt seasons the meat all the way through, and the surface dries out so it browns into a better crust.
+- **If you don't,** rub them last, right before they go in the pot, and they'll still be great.
+- ⚠️ **Avoid the in-between (5–30 minutes).** That's when the salt has pulled moisture to the surface but the meat hasn't reabsorbed it yet, so the chops steam instead of searing.
 
-### 2️⃣ Preheat + prep · ⏱ 5 min
-- 🔥 Empty Dutch oven on **medium**
-  - 💡 Heavy pots heat unevenly if you rush them
-- Drain and rinse the **chickpeas**, then pat them **really** dry on a towel
-  - ⚠️ Wet chickpeas steam instead of fry, and never crisp
-- Trim the **8 oz green beans**
-- Smash and peel **3 garlic cloves**
-- Set out by the stove: **thyme, rosemary, butter, tongs**
-  - 💡 The baste happens fast, and tongs beat a spatula in a deep pot
+### 2️⃣ Preheat the pot and prep · ⏱ 5 min
+- Set the empty Dutch oven over **medium** heat while you prep. Heavy pots heat unevenly if you rush them, so giving it a few minutes means no hot spots when the chops go in.
+- Drain and rinse the **chickpeas**, then spread them on a towel and pat them **really** dry. Any water left on them turns to steam in the pot, and wet chickpeas never crisp.
+- Trim the **8 oz green beans** and smash and peel the **3 garlic cloves**.
+- Set the **thyme sprigs, rosemary sprig, butter, and tongs** next to the stove. The baste happens fast, and tongs are much easier than a spatula in a deep pot.
 
-### 3️⃣ Sear · ⏱ 6–12 min
-- 🔥 **Medium-high**, add **1 tbsp oil**, wait for it to shimmer
-- Add as many chops as fit **without touching** (usually 2)
-  - 💡 Crowded chops steam instead of searing
-- **Don't touch them for 3 min**
-  - ✅ Deep brick red, and they release on their own
-- Flip and sear **2 min**, then move them to a plate
-- Any chops left? Add a splash of oil and repeat
-- ⚠️ **Watch the color.** Paprika and sugar scorch fast
-  - Red-brown = perfect
-  - Dark brown going black, or a bitter smell = **lift the pot off the burner** for a moment
-  - 💡 A Dutch oven holds heat, so turning the burner down alone takes minutes to work
+### 3️⃣ Sear the chops · ⏱ 6–12 min
+- Turn the heat to **medium-high**, add **1 tbsp oil**, and wait for it to shimmer.
+- Lay in as many chops as fit **without touching**, usually 2 in a 10-inch Dutch oven since the flat bottom is smaller than the rim. Chops that touch trap steam between them and turn gray instead of browning.
+- Leave them alone for **3 minutes**. They're ready to flip when the bottom is a deep brick red and they release from the pot on their own.
+- Flip and sear the second side for **2 minutes**, then move them to a plate.
+- If you have a chop left, add a splash of oil and sear it the same way.
+- ⚠️ **Watch the color.** Paprika and brown sugar scorch much faster than a plain sear. Deep red-brown is perfect. If it's going dark brown toward black, or you smell anything bitter, lift the pot off the burner for a moment. A Dutch oven holds so much heat that turning the burner down takes minutes to make a difference.
 
-### 4️⃣ Thyme butter baste · ⏱ 2–4 min
-- 🔥 **Lift the pot off the burner for 30 sec**, then set it back on **medium-low**
-- Return **all the chops**, snug together is fine now
-- Add **2 tbsp butter**, the **smashed garlic**, and the **thyme sprigs** around the chops
-- When the butter foams, tilt the pot and **spoon butter over the chops** again and again
-  - 💡 Cooks the tops gently and pulls the thyme and garlic into the crust
-- 🌡️ **Pull at 140°F** in the thickest part
-  - Check right away. Thinner chops can be done after ~6 min of total cooking
-  - 💡 They coast to 145°F while resting
+### 4️⃣ Baste with thyme butter · ⏱ 2–4 min
+- Lift the pot off the burner for **30 seconds** to cool it down, then set it back on **medium-low**.
+- Return all the chops to the pot. They can be snug together now, since crowding only matters during the sear.
+- Tuck the **2 tbsp butter**, the **smashed garlic**, and the **thyme sprigs** in around the chops.
+- When the butter foams, tilt the pot toward you so it pools, and spoon it over the chops again and again. The hot butter gently cooks the tops and pulls the thyme and garlic flavor right into the crust.
+- 🌡️ **Pull the chops at 140°F** in the thickest part. They'll coast up to 145°F while they rest. Start checking as soon as the baste begins, because thinner chops can be done after about 6 minutes of total cooking.
 
-### 5️⃣ Rest · ⏱ 5 min
-- Move the chops to a plate and **pour the basting butter over them**, garlic and thyme included
-- Tent loosely with foil
-- ⚠️ **Leave the browned bits in the pot.** They season the chickpeas and beans
+### 5️⃣ Rest the chops · ⏱ 5 min
+- Move the chops to a plate and pour the basting butter over them, garlic and thyme included. Tent loosely with foil.
+- **Leave the browned bits in the pot.** That paprika-butter fond is what seasons the chickpeas and beans.
 
-### 6️⃣ Rosemary chickpeas · ⏱ 6 min
-- 🔥 **Medium-high**, add **1 tbsp butter + 1 tbsp oil**
-  - 💡 The oil keeps the butter from burning
-- Add the **chickpeas**, a pinch of salt, and the **rosemary sprig**
-- Fry, stirring now and then, and **scrape up the brown bits** as you go
-- **Pull the rosemary out at 2–3 min**, once it's crisp and dark green, and set it aside
-  - ⚠️ The needles turn bitter if they stay in the whole time
-- ✅ Golden with crispy edges
-- ⚠️ **Lid stays off from here on.** Steam undoes crispy
+### 6️⃣ Crisp the rosemary chickpeas · ⏱ 6 min
+- Put the pot back on **medium-high** and add the **last 1 tbsp butter** and **1 tbsp oil**. The oil keeps the butter from burning during the longer cook.
+- Add the **chickpeas** with a pinch of salt, and tuck the **rosemary sprig** in among them.
+- Let them fry, stirring now and then, and scrape up the browned bits from the bottom as you go so the chickpeas pick up the rub's flavor. The tall sides of the pot catch most of the popping.
+- Once the rosemary is crisp and dark green, after about **2–3 minutes**, pull it out onto a plate. The oil already has its flavor by then, and the needles turn bitter if they stay in the whole time.
+- They're done when they're golden with crispy edges.
+- ⚠️ **Keep the lid off from here on.** The tall walls already trap some steam, and steam undoes crispy.
 
 ### 7️⃣ Blister the green beans · ⏱ 7–8 min
-- Push the chickpeas to the sides and pile the **8 oz green beans** in the middle
-- **Don't touch them for 3 min**
-  - ✅ Dark blistered spots
-- Toss everything, then repeat once or twice
-  - 💡 The tall sides trap enough steam to cook them through, so no water needed
-- Finish with a pinch of salt and a squeeze of **½ lemon**
+- Push the chickpeas to the sides and pile the **8 oz green beans** in the middle.
+- Leave them alone for **3 minutes**, until they have dark blistered spots.
+- Toss everything together, then let it sit again. Repeat once or twice. The pot's tall sides trap enough steam to cook the beans through, so they shouldn't need any water.
+- Finish with a pinch of salt and a squeeze from the **½ lemon**.
 
 ### 8️⃣ Plate it
-- Chops with their resting butter spooned over
-- Chickpeas and beans alongside, plus lemon wedges
-- Crumble the **crispy rosemary needles** over the chickpeas (toss the stem)
-- Strip a few fresh thyme leaves over everything
+- Spoon the resting butter over the chops and set the chickpeas and beans alongside, with lemon wedges on the side.
+- Crumble the crispy rosemary needles over the chickpeas (toss the stem), and strip a few fresh thyme leaves over everything.
 
 ---
 
