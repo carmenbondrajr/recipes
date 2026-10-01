@@ -69,8 +69,6 @@
 - **What else ruins it: a cloying sauce.** Cider reduces into something very sweet. The Dijon and vinegar aren't optional, they're the balance. If it tastes like apple pie filling, add more vinegar a few drops at a time.
 - **Broken butter sauce?** If it looks greasy and separated, the pan was too hot. Add a splash of water or broth off the heat and swirl hard. It usually comes back.
 - **Only thin chops at the store?** Skip the fat caps and sear them hard on high, 2 minutes per side. Pull at 140°F. The crust won't be as deep, but they'll stay juicy.
-- **Leftovers:** store the sauce separately from the chop. Reheat it covered at 275°F until just warm, about 15 minutes, because the microwave turns it to rubber. Warm the sauce gently on the stove. Cold leftover chop sliced thin over a salad with a little of the sauce is also great.
-- **Cooking for 4?** Double everything, sear the chops 2 at a time (4 thick chops crowd a skillet and steam), and finish them all together on a sheet pan at 400°F until 140°F, about 6–10 minutes.
 - **Hard cider swap:** a dry hard cider makes a less sweet, more grown-up sauce. Same amount.
 - **Normandy-style pivot:** stir in **¼ cup heavy cream** after the reduction and skip the butter. That's basically *porc à la normande*. Normandy is apple and cream country, and pork with cider and cream is their signature move.
 - **Why pork + apples is a classic:** pork season and apple season used to be the same season. Pigs were traditionally fattened in the fall (sometimes on windfall apples in orchards) and slaughtered as it got cold, right when the apples came in.

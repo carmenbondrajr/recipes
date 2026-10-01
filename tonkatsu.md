@@ -10,7 +10,7 @@
 - Scallion (1) — *optional garnish*
 
 **Meat**
-- **Two boneless pork loin chops, ¾ to 1 inch thick** (~1 lb total). *Packs labeled "center-cut boneless loin chops" are perfect. If the pack has 4, fry 2 and freeze 2 for next time (wrap them raw and unbreaded). Avoid anything under ½ inch, because it overcooks before the crust gets golden. Pork tenderloin also works (see Tips).*
+- **Two boneless pork loin chops, ¾ to 1 inch thick** (~1 lb total). *Packs labeled "center-cut boneless loin chops" are perfect. Avoid anything under ½ inch, because it overcooks before the crust gets golden. Pork tenderloin also works (see Tips).*
 
 **Dairy / Eggs**
 - Eggs (you need 1)
@@ -73,9 +73,6 @@
 - **Breading falling off?** Either the chops were wet before the flour, or the panko wasn't pressed in and rested. Pat dry, press hard, wait the 5 minutes.
 - **Burnt outside, raw inside?** Oil too hot (over 375°F), or the chops are thicker than 1 inch. Pound them thinner next time.
 - **Don't be scared of the oil.** Half an inch in a skillet is shallow-frying, not deep-frying. Use a skillet with tall-ish sides and keep a lid nearby. Let the used oil cool, strain it into a jar, and you can fry with it once or twice more.
-- **Leftovers: store the katsu, cabbage, and sauce separately.** Reheat the cutlet on a rack at **400°F for ~10 minutes** (or 5–6 min in an air fryer) to bring the crunch back. **Never microwave**, because the breading turns to wet cardboard. Keep the cabbage dry in a container with a paper towel and it stays crisp for 2–3 days.
-- **Or turn leftovers into katsudon.** Simmer sliced leftover katsu with onion in a little soy-sweetened broth, pour a beaten egg over it, cover until just set, and slide it all onto rice. It's arguably better than the original.
-- **Cooking for 4?** Double everything and fry 2 at a time. Keep the first batch crisp on the rack in a 200°F oven, and let the oil climb back to 340°F before batch two goes in.
 - **Tenderloin version (hire-katsu):** cut a pork tenderloin into 1-inch medallions, pound each to ¾ inch, and fry 2–3 min per side. It's leaner and more tender, and it's what *hire-katsu* means on Japanese menus.
 - **The cabbage isn't just garnish.** It's there to cut through the fried richness. At tonkatsu restaurants in Japan it's usually unlimited and refilled for free, often with a sesame dressing.
 - **Name time:** *ton* (豚) means pork, and *katsu* is short for *katsuretsu*, the Japanese pronunciation of "cutlet." It started as *yōshoku*, Western-style food adapted in Meiji-era Japan. Tokyo's Rengatei restaurant is credited with an early pork cutlet in 1899. Because *katsu* also sounds like "to win" (勝つ), students eat it for luck before big exams.

@@ -55,8 +55,6 @@
 - **The second thing that ruins it: rushing the broth.** Two ladles at once means the pasta boils instead of frying. One at a time, and let each one fully disappear.
 - **Burnt vs. charred.** Dark brown, sticky, and caramelized is the goal. Matte black and ashy is too far. A few black spots are traditional, though, so don't panic.
 - **Spice level is yours.** In Bari it's *ferociously* hot. 1 tsp of flakes for two people is a solid kick. Start at ½ tsp if you're unsure, because you can't take it back out.
-- **Why only 2 servings:** the dish only works in a single layer in one pan, and the crunch doesn't survive the fridge. Leftovers reheat as plain soft spicy spaghetti. If you're feeding 4, run two skillets side by side.
-- **Solo version:** halve everything and use a 10-inch skillet. It's actually easier to get good char with less pasta crowding the pan.
 - **Burrata on top?** It's the popular modern move, and cool creamy cheese against scorched spicy pasta is great. The purists (see below) say absolutely no cheese. Your kitchen, your rules.
 - **Cleanup:** the pan will look like a crime scene. Fill it with hot water while you eat and it'll scrape right off.
 - **The name means "the assassin's spaghetti."** The story goes that around 1967, at Al Sorso Preferito in Bari, chef Enzo Francavilla served it to two diners from northern Italy, and they called him an assassin over the heat. Bari takes it very seriously. There's an *Accademia dell'Assassina* with official rules, and one of them is that you never stir.
