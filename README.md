@@ -21,7 +21,7 @@ grocery department, then the method, then tips.
 - [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe
 - [💍 Marry Me Chicken](marry-me-chicken.md) — one skillet, blistered grape tomatoes, no sun-dried
-- [🌿 Paprika & Bee Balm Pork Chops with Chickpeas & Green Beans](paprika-bee-balm-pork-chops.md) — boneless, yard herbs, thyme-butter baste, crispy chickpeas + green beans in the same pan
+- [🌿 Paprika & Bee Balm Pork Chops with Chickpeas & Green Beans](paprika-bee-balm-pork-chops.md) — boneless, yard herbs, thyme-butter baste, crispy chickpeas + green beans in one Dutch oven
 - [🍲 Instant Pot Pasta Fagioli](pasta-fagioli.md)
 - [🍎 Pork Chops with Apple Cider Pan Sauce](pork-chop-apple-cider.md) — thick seared chops, cider-Dijon butter sauce
 - [🔥 Spaghetti all'Assassina](spaghetti-allassassina.md) — Bari's scorched spicy skillet spaghetti, cooked like risotto, never stirred
