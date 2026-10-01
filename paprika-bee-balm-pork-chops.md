@@ -1,6 +1,6 @@
 # 🌿 Paprika & Bee Balm Pork Chops with Crispy Chickpeas & Green Beans
 
-*One skillet, ~30 minutes, serves 2. Boneless chops in a sweet-paprika and bee balm rub, basted in thyme-garlic butter, with chickpeas and green beans crisped in the same pan, soaking up everything the chops left behind. The herbs come from the yard.*
+*One skillet, ~35 minutes, serves 2. Boneless chops in a sweet-paprika and bee balm rub, basted in thyme-garlic butter, with chickpeas and green beans crisped in the same pan, soaking up everything the chops left behind. The herbs come from the yard.*
 
 ## Shopping List
 
