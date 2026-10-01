@@ -85,7 +85,8 @@
 - ⚠️ **Watch the color.** Paprika and brown sugar scorch much faster than a plain sear. Deep red-brown is perfect. If it's going dark brown toward black, or you smell anything bitter, lift the pot off the burner for a moment. A Dutch oven holds so much heat that turning the burner down takes minutes to make a difference.
 
 ### 4️⃣ Baste with thyme butter · ⏱ 2–4 min
-- Lift the pot off the burner for **30 seconds** to cool it down, then set it back on **medium-low**.
+- Lift the pot off the burner to cool it down, and while it's off, tilt it and spoon most of the oil into a heatproof bowl. Leave the browned bits on the bottom. Without this step, the sear oil mixes into the butter and the baste comes out oily instead of rich.
+- Set the pot back on **medium-low**.
 - Return all the chops to the pot. They can be snug together now, since crowding only matters during the sear.
 - Tuck the **2 tbsp butter**, the **smashed garlic**, and the **thyme sprigs** in around the chops.
 - When the butter foams, tilt the pot toward you so it pools, and spoon it over the chops again and again. The hot butter gently cooks the tops and pulls the thyme and garlic flavor right into the crust.
