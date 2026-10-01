@@ -21,4 +21,6 @@ grocery department, then the method, then tips.
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe
 - [💍 Marry Me Chicken](marry-me-chicken.md) — one skillet, blistered grape tomatoes, no sun-dried
 - [🍲 Instant Pot Pasta Fagioli](pasta-fagioli.md)
+- [🍎 Pork Chop with Apple Cider Pan Sauce](pork-chop-apple-cider.md) — serves 1, thick seared chop, cider-Dijon butter sauce
+- [🔥 Spaghetti all'Assassina](spaghetti-allassassina.md) — Bari's scorched spicy skillet spaghetti, cooked like risotto, never stirred
 - [🇸🇪 Swedish Meatballs with Mashed Potatoes](swedish-meatballs.md) — IKEA's official soy-Dijon cream gravy
