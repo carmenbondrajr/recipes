@@ -9,6 +9,7 @@ grocery department, then the method, then tips.
 - [🍅 Beef Spezzatino](beef-spezzatino.md) — Italian tomato-braised beef, peppers + chickpeas, garlic bread dunker
 - [🍜 Bò Kho](bo-kho.md) — Vietnamese beef stew, lemongrass + star anise, no fish sauce
 - [🔥 Charred Pepper & Hot Sausage Soup](charred-pepper-sausage-soup.md) — stovetop Dutch oven, layered-flavor stuffed pepper soup
+- [🧀 Party Baked Mac & Cheese](baked-mac-and-cheese.md) — serves 6, 9×13, cheddar + fontina, panko top, holds warm for a party
 - [🧀 Cacio e Pepe](cacio-e-pepe.md) — serves 1, three ingredients, cheese-paste trick for a no-clump sauce
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
 - [🥦 Chicken, Broccoli & Orzo Bake](chicken-broccoli-orzo-bake.md) — one pan, raw orzo bakes in the broth
@@ -27,3 +28,4 @@ grocery department, then the method, then tips.
 - [🔥 Spaghetti all'Assassina](spaghetti-allassassina.md) — Bari's scorched spicy skillet spaghetti, cooked like risotto, never stirred
 - [🐷 Tonkatsu](tonkatsu.md) — panko pork cutlets, icy shredded cabbage, homemade katsu sauce
 - [🇸🇪 Swedish Meatballs with Mashed Potatoes](swedish-meatballs.md) — IKEA's official soy-Dijon cream gravy
+- [🍎 Stovetop Mulled Cider](mulled-cider.md) — all-day party pot, whole spices, spike by the mug
