@@ -17,8 +17,12 @@
 - Cinnamon sticks: 4 for the pot, plus extras for mugs if you want them
 - Whole cloves (1 tsp)
 - Star anise (3 pods)
+  - Optional. It adds a soft licorice note, but you won't miss it if you can't find it
 - Whole allspice berries (1 tsp)
   - Optional. If the store doesn't have them, skip it
+- **Where to look:** first check the **Hispanic/international aisle** for cheap bagged spices (Badia, El Guapo). Look for *canela* (cinnamon), *clavo* (cloves), *anís estrella* (star anise), and *pimienta gorda* (allspice)
+  - In the fall, there are often **mulling spice packets** near the cider or in the produce section. One packet can replace all four spices
+  - Asian markets sell star anise cheap, and **bulk bins** let you buy just a spoonful
 
 **Liquor (optional, for spiking)**
 - Bourbon, spiced rum, or apple brandy. Pick one, a 750 ml bottle is plenty
