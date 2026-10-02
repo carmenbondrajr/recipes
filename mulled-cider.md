@@ -57,35 +57,40 @@
 - Cut **1 orange** in half and push the **1 tsp whole cloves** into the peel, pointy end first, like little nails.
 - Studded cloves stay put, so nobody gets a mouthful of loose cloves at the bottom of their mug, and you can pull them all out at once later.
 
-### 2️⃣ Build the pot · ⏱ 5 min
-- Pour the **1 gallon cider** into your biggest pot. You need at least 6 quarts so it doesn't slosh when you ladle.
-- Add the studded orange halves along with:
+### 2️⃣ Toast the spices · ⏱ 1–2 min
+- Set your biggest pot over **medium** heat with nothing in it. You need at least 6 quarts so it doesn't slosh when you ladle.
+- Add the dry spices:
   - **4 cinnamon sticks**
   - **3 star anise pods**
   - **1 tsp allspice berries**
-  - **4–5 slices fresh ginger**
+- Shake the pot every so often for **about 1 minute**, until you can smell them. Heat wakes up the oils inside whole spices, so the cider gets more flavor and the house smells better from the start.
+- ⚠️ **Watch them closely.** Spices go from toasty to burnt in seconds, and burnt spices make the whole pot bitter. If you see smoke or they start to darken, go straight to the next step.
 - Whole spices only. Ground spices never dissolve, so they turn the cider muddy and leave grit in every mug.
 
-### 3️⃣ Warm it up · ⏱ 20–30 min
+### 3️⃣ Build the pot · ⏱ 2 min
+- Pour in the **1 gallon cider** slowly. It'll sizzle and steam when it hits the hot pot, and that's normal.
+- Add the studded orange halves and the **4–5 slices fresh ginger**. The cloves and ginger skip the toasting because the cloves are already in the orange and fresh ginger would just scorch.
+
+### 4️⃣ Warm it up · ⏱ 20–30 min
 - Set the burner to **medium** until the cider is steaming and tiny bubbles form at the edges, then turn it down to **low**.
 - ⚠️ **Don't let it boil.** Boiling pulls bitter tannins out of the cinnamon and cloves and harsh flavors out of the orange pith. The fresh apple flavor cooks off too, and the cider ends up tasting like stewed apples.
 - What you want is steaming with no bubbles breaking the surface. If you see bubbles, turn it down.
 
-### 4️⃣ Taste and sweeten · ⏱ 1 min
+### 5️⃣ Taste and sweeten · ⏱ 1 min
 - After about **30 minutes**, ladle out a little and taste it.
 - Good cider is usually sweet enough already. If yours tastes a little sour once it's spiced, stir in **maple syrup or brown sugar, 1 tbsp at a time**.
 
-### 5️⃣ Pull the orange and cloves · ⏱ around the 1½-hour mark
+### 6️⃣ Pull the orange and cloves · ⏱ around the 1½-hour mark
 - After about **1½ hours**, fish out the studded orange halves.
 - ⚠️ **Over an all-day party, the orange is what goes wrong.** The white pith keeps releasing bitterness the longer it sits in hot liquid, and by hour four it's taking over. The cloves come out with it, which is good, because cloves overpower everything else if they stay in all day.
 - Leave the cinnamon, star anise, and ginger in. They mellow over time instead of turning harsh.
 
-### 6️⃣ Keep it going all day
+### 7️⃣ Keep it going all day
 - Keep the burner on the **lowest setting** and put the lid on halfway. The cider stays warm and the steam keeps the house smelling great.
 - The cider slowly cooks down and gets stronger. When it's about two-thirds gone, top it off with the **½ gallon cider** you saved and let it warm back up for 10–15 minutes.
 - Leave the ladle in the pot and set out mugs, the **sliced orange**, and **extra cinnamon sticks** nearby so people can serve themselves.
 
-### 7️⃣ Spike by the mug (optional)
+### 8️⃣ Spike by the mug (optional)
 - Pour **1–1½ oz bourbon, spiced rum, or apple brandy** into a mug first, then ladle the hot cider over it.
 - ⚠️ **Never add liquor to the pot.** Alcohol cooks off over the day, and this way anyone who isn't drinking can still have a mug. Put the bottle and a shot glass next to the stove.
 
