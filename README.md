@@ -18,6 +18,7 @@ grocery department, then the method, then tips.
 - [🥓 Totaro's Tortellini Tripea](totaros-tortellini-tripea.md) — crispy pancetta + peas in a Parmesan cream sauce, one skillet
 - [🧀 Tortellini with Peas & Pangrattato](tortellini-peas-pangrattato.md) — vegetarian, brown-butter Parmesan cream, toasted breadcrumb crunch
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
+- [🌮 Grilled Steak Tacos](grilled-steak-tacos.md) — lime-chili skirt steak, quick pico, grill-charred corn tortillas
 - [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
 - [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe
