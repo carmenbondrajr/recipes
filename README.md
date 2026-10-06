@@ -21,7 +21,7 @@ grocery department, then the method, then tips.
 - [🌮 Grilled Steak Tacos](grilled-steak-tacos.md) — lime-chili skirt steak, quick pico, grill-charred corn tortillas
 - [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
 - [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
-- [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe
+- [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe, one 1 lb batch of baked parmesan meatballs
 - [💍 Marry Me Chicken](marry-me-chicken.md) — one skillet, blistered grape tomatoes, no sun-dried
 - [🌿 Paprika & Bee Balm Pork Chops with Chickpeas & Green Beans](paprika-bee-balm-pork-chops.md) — boneless, yard herbs, thyme-butter baste, crispy chickpeas + green beans in one Dutch oven
 - [🍲 Instant Pot Pasta Fagioli](pasta-fagioli.md)
