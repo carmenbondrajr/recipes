@@ -17,7 +17,7 @@
 - **Skirt steak or flank steak, ~1 lb**
   - **Skirt is the pick.** It's the classic carne asada and fajita cut: beefier, looser-grained, and it cooks in about 5 minutes
   - **Flank is the backup.** It's thicker and leaner, so it takes a few minutes longer and is a little less forgiving
-  - If the case has both "outside" and "inside" skirt, outside is more tender. Either works
+  - **Get outside skirt.** Wegmans carries it. Inside skirt (most "skirt steak" at the grocery store) is a different, tighter-grained muscle and comes out rubbery in this recipe even when it's cooked right. If outside skirt isn't there, flank is a better backup than inside skirt
 
 **Dairy**
 - Cotija (one small wedge or tub, ~4 oz; you'll use about ⅓ cup). Feta is a fine stand-in if the store is out
@@ -123,6 +123,7 @@
 
 ## Tips & Notes
 - **What ruins this: overcooked steak sliced the wrong way.** Skirt and flank are lean, hard-working muscles. Kept at medium-rare and sliced thin across the grain, they're tender and beefy. Cooked to well-done or sliced along the grain, they're tough.
+- **Stuck with inside skirt?** Check the grain while the steak is raw, before the marinade and char hide it. It often runs on a diagonal instead of straight across, so cut a small notch in one edge, across the grain, to remind you which way to slice. Slice extra thin, and don't take it past medium-rare.
 - **No grill?** Use a cast iron skillet over high heat with a slick of oil, 3–4 minutes per side for skirt. Open a window, it'll smoke. Char the tortillas directly over a gas burner flame with tongs, about 15 seconds a side.
 - **Tortillas tearing?** Use two per taco, stacked, like the taquerías do. Or switch to flour tortillas, which bend without cracking.
 - **Flavor swaps for the marinade:** add 1 tsp Worcestershire or soy sauce for more savory depth, or 1 minced chipotle in adobo for smoky heat.
