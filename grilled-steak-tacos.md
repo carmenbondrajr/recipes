@@ -1,17 +1,16 @@
 # 🌮 Grilled Steak Tacos
 
-*Serves 2 (about 8 tacos), ~40 minutes of hands-on time plus a 2–4 hour marinade. Lime-and-chili marinated skirt steak, hard-seared on the grill and sliced thin, with a quick pico, avocado, and cotija on grill-charred corn tortillas. Adapted from [BBQ Revolt](https://bbqrevolt.com/recipes/grilled-steak-tacos/).*
+*Serves 2 (about 8 tacos), ~40 minutes of hands-on time plus a 2–4 hour marinade. Lime-and-chili marinated skirt steak, hard-seared on the grill and sliced thin, with a quick pico, avocado, cotija, and creamy jalapeño sauce on grill-charred corn tortillas. The pico makes a full bowl, with plenty left over for chips. Adapted from [BBQ Revolt](https://bbqrevolt.com/recipes/grilled-steak-tacos/).*
 
 ## Shopping List
 
 **Produce**
 - Limes (3). 1 for the marinade, 1 for the pico, 1 cut into wedges for serving
 - Garlic (1 head; you need 2 cloves)
-- White onion (1 small)
+- White onion (1 medium). Half goes in the pico, and a little of the rest is for topping
 - Cilantro (1 bunch)
-- Roma tomatoes (2). Romas are less watery than round tomatoes, so the pico doesn't puddle in the tortilla
+- Roma tomatoes (4). Romas are less watery than round tomatoes, so the pico doesn't puddle in the tortilla
 - Avocado (1). Buy one that gives slightly when squeezed, or a firm one two days ahead
-- Jalapeño (1, optional). Grab it if you want some heat in the pico
 
 **Meat**
 - **Skirt steak or flank steak, ~1 lb**
@@ -24,6 +23,8 @@
 
 **Pantry / Center Aisles**
 - Small corn tortillas (6-inch, one pack). Flour works too if you prefer it
+- Siete Creamy Jalapeño sauce (one jar). Check if you still have some. It brings the heat, so there's no fresh jalapeño to buy
+- Tortilla chips (one bag), for the extra pico
 - Ground cumin, smoked paprika, chili powder, dried oregano. Check you have all four. Mexican oregano is ideal if you see it, it's more citrusy than the Mediterranean kind
 
 *You should have at home: olive oil, kosher salt, black pepper*
@@ -46,18 +47,18 @@
 - ½ tsp black pepper
 
 *The quick pico*
-- 2 Roma tomatoes, diced
-- ⅓ cup finely diced white onion
-- ¼ cup chopped cilantro
-- 1 jalapeño, seeded and minced (optional)
-- Juice of ½ lime
-- Pinch of kosher salt
+- 4 Roma tomatoes, diced
+- ½ white onion, finely diced (about ⅔ cup)
+- ½ cup chopped cilantro
+- Juice of 1 lime
+- ¼ tsp kosher salt
 
 *Everything else*
 - ~1 lb skirt or flank steak
 - 8 small corn tortillas
 - 1 avocado, sliced
 - ⅓ cup crumbled cotija
+- Siete Creamy Jalapeño sauce
 - Extra diced onion and cilantro for topping
 - Lime wedges for serving
 
@@ -81,14 +82,13 @@
 ### 2️⃣ Make the quick pico · ⏱ 10 min
 - Do this while the steak marinates, or at least 15 minutes before eating, so the flavors have time to meld.
 - Stir together in a bowl:
-  - **2 diced Roma tomatoes**
-  - **⅓ cup finely diced white onion**
-  - **¼ cup chopped cilantro**
-  - **1 minced jalapeño**, if using
-  - **Juice of ½ lime**
-  - **A pinch of kosher salt**
+  - **4 diced Roma tomatoes**
+  - **½ white onion, finely diced**
+  - **½ cup chopped cilantro**
+  - **Juice of 1 lime**
+  - **¼ tsp kosher salt**
 - The salt pulls juice out of the tomatoes and mellows the raw onion bite as it sits. Give it a stir and a taste before serving, and add salt or lime if it's flat.
-- Dice a little extra onion and chop a little extra cilantro for topping.
+- Dice a little extra onion from the other half and chop a little extra cilantro for topping.
 
 ### 3️⃣ Heat the grill · ⏱ 10–15 min
 - Take the steak out of the fridge when you start the grill so it loses some of its chill.
@@ -116,7 +116,7 @@
 - ⚠️ **This is the step that makes or breaks it.** Sliced with the grain, skirt steak is like chewing a rubber band. Sliced across it, the same steak is tender.
 
 ### 7️⃣ Build the tacos
-- Fill each tortilla with **steak**, a spoonful of **pico**, a couple of **avocado slices**, a sprinkle of **cotija**, and a pinch of the extra **onion and cilantro**.
+- Fill each tortilla with **steak**, a spoonful of **pico**, a couple of **avocado slices**, a sprinkle of **cotija**, a drizzle of **Siete Creamy Jalapeño sauce**, and a pinch of the extra **onion and cilantro**.
 - Serve with **lime wedges** and squeeze one over each taco right before eating.
 
 ---
@@ -127,6 +127,5 @@
 - **No grill?** Use a cast iron skillet over high heat with a slick of oil, 3–4 minutes per side for skirt. Open a window, it'll smoke. Char the tortillas directly over a gas burner flame with tongs, about 15 seconds a side.
 - **Tortillas tearing?** Use two per taco, stacked, like the taquerías do. Or switch to flour tortillas, which bend without cracking.
 - **Flavor swaps for the marinade:** add 1 tsp Worcestershire or soy sauce for more savory depth, or 1 minced chipotle in adobo for smoky heat.
-- **Want a sauce?** Stir lime juice and a pinch of salt into sour cream for a quick crema, thin enough to drizzle.
 - **The names:** *carne asada* just means "grilled meat." *Fajita* means "little belt" or "little sash," the vaqueros' nickname for skirt steak, the cheap belt-shaped cut that ranch hands along the Texas–Mexico border were given as part of their pay starting around the 1930s. When fajitas got popular in the '80s, skirt steak went from a throwaway cut to a pricey one.
 - **Tacos al carbón** is the name for tacos made with charcoal-grilled meat, which is exactly what this is.
