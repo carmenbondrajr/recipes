@@ -111,6 +111,7 @@
 - **For skirt:** cut the steak into 4–5 inch sections first, then turn each section 90° and slice it thin, across those lines.
 - **For flank:** the grain runs the long way, so slice thin across the short side, angling the knife slightly.
 - Chop the slices into bite-size pieces if you like, which makes the tacos easier to eat.
+- **Eating at your own pace?** Cut the 4–5 inch sections now, while the grain is easy to read, but only slice one section at a time as you build each taco. Thin slices go lukewarm fast and lose juice with every cut, while a bigger piece holds onto both.
 - ⚠️ **This is the step that makes or breaks it.** Sliced with the grain, skirt steak is like chewing a rubber band. Sliced across it, the same steak is tender.
 
 ### 7️⃣ Build the tacos
