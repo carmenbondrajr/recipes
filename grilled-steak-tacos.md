@@ -23,7 +23,7 @@
 
 **Pantry / Center Aisles**
 - Small corn tortillas (6-inch, one pack). Flour works too if you prefer it
-- Siete Creamy Jalapeño sauce (one jar). Check if you still have some. It brings the heat, so there's no fresh jalapeño to buy
+- Siete Creamy Jalapeño sauce (one squeeze bottle). Check if you still have some. It brings the heat, so there's no fresh jalapeño to buy
 - Tortilla chips (one bag), for the extra pico
 - Ground cumin, smoked paprika, chili powder, dried oregano. Check you have all four. Mexican oregano is ideal if you see it, it's more citrusy than the Mediterranean kind
 
