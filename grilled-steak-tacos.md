@@ -96,7 +96,8 @@
 - Scrape the grates clean, then oil them with a paper towel dipped in oil and held in tongs. Marinated steak loves to stick.
 
 ### 4️⃣ Grill the steak · ⏱ 5–10 min
-- Lift the steak out of the bag and let the excess drip off, then pat it lightly with a paper towel. A wet surface steams instead of searing, and loose bits of garlic burn on the grill.
+- Lift the steak out of the bag, let the excess drip off, and scrape away any loose bits of garlic, which burn on the grill.
+- ⚠️ **Pat it dry with paper towels on both sides. Don't skip this.** As long as the surface is wet, the grill's heat goes into boiling off marinade, and the steak can't get hotter than water's boiling point, which is too cool to brown. Skirt only gets 2–3 minutes a side, so a wet steak is cooked through before it ever chars, and you end up with gray, steamed meat.
 - Lay it on the hot grates and leave it alone. **Skirt: 2–3 minutes per side. Flank: 4–5 minutes per side.** You want dark char marks before you flip.
 - 🌡️ **Pull at 125–130°F** in the thickest part for medium-rare. It'll coast up about 5 degrees while it rests. Skirt is best at medium-rare to medium. Past that, it gets chewy fast.
 - ⚠️ **Thin ends cook first.** Skirt is uneven, so check the thickest piece and pull the thin pieces early if they're done.
