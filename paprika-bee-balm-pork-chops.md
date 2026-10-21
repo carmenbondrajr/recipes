@@ -22,7 +22,7 @@
   - If the only ones you can find are thin, buy them anyway and check the temperature early
 
 **Dairy**
-- Butter (3 tbsp)
+- Butter (5 tbsp)
 
 **Pantry / Center Aisles**
 - Chickpeas (one 15 oz can)
@@ -47,7 +47,7 @@
 *Everything else*
 - Boneless pork loin chops, ~1¼ lb total (2 or 3 chops)
 - 2–3 tbsp neutral oil
-- 3 tbsp butter
+- 5 tbsp butter
 - 3 garlic cloves, smashed and peeled
 - ~6 sprigs fresh thyme
 - 1 sprig fresh rosemary
@@ -85,7 +85,8 @@
 - ⚠️ **Watch the color.** Paprika and brown sugar scorch much faster than a plain sear. Deep red-brown is perfect. If it's going dark brown toward black, or you smell anything bitter, lift the pot off the burner for a moment. A Dutch oven holds so much heat that turning the burner down takes minutes to make a difference.
 
 ### 4️⃣ Baste with thyme butter · ⏱ 2–4 min
-- Lift the pot off the burner to cool it down, and while it's off, tilt it and spoon most of the oil into a heatproof bowl. Leave the browned bits on the bottom. Without this step, the sear oil mixes into the butter and the baste comes out oily instead of rich.
+- Lift the pot off the burner to cool it down.
+- ⚠️ **Drain the oil. All of it.** While the pot is off the heat, tilt it and spoon every bit of oil you can into a heatproof bowl, leaving only the browned bits on the bottom. Leftover sear oil mixes into the butter, so the baste comes out greasy instead of rich, and it won't foam properly. Don't skip this one.
 - Set the pot back on **medium-low**.
 - Return all the chops to the pot. They can be snug together now, since crowding only matters during the sear.
 - Tuck the **2 tbsp butter**, the **smashed garlic**, and the **thyme sprigs** in around the chops.
@@ -97,10 +98,11 @@
 - **Leave the browned bits in the pot.** That paprika-butter fond is what seasons the chickpeas and beans.
 
 ### 6️⃣ Crisp the rosemary chickpeas · ⏱ 6 min
-- Put the pot back on **medium-high** and add the **last 1 tbsp butter** and **1 tbsp oil**. The oil keeps the butter from burning during the longer cook.
+- Put the pot back on **medium-high** and add **1 tbsp butter** and **1 tbsp oil**. The oil keeps the butter from burning during the longer cook.
 - Add the **chickpeas** with a pinch of salt, and tuck the **rosemary sprig** in among them.
 - Let them fry, stirring now and then, and scrape up the browned bits from the bottom as you go so the chickpeas pick up the rub's flavor. The tall sides of the pot catch most of the popping.
 - Once the rosemary is crisp and dark green, after about **2–3 minutes**, pull it out onto a plate. The oil already has its flavor by then, and the needles turn bitter if they stay in the whole time.
+- **Halfway through (~3 minutes),** add the **last 2 tbsp butter**. The chickpeas drink up fat as they fry, and once the pot goes dry they scorch on the fond instead of crisping. The fresh butter keeps them sizzling and gives them a rich, nutty finish.
 - They're done when they're golden with crispy edges.
 - ⚠️ **Keep the lid off from here on.** The tall walls already trap some steam, and steam undoes crispy.
 
