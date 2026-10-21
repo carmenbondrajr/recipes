@@ -74,6 +74,7 @@
 - Set the empty Dutch oven over **medium** heat while you prep. Heavy pots heat unevenly if you rush them, so giving it a few minutes means no hot spots when the chops go in.
 - Drain and rinse the **chickpeas**, then spread them on a towel and pat them **really** dry. Any water left on them turns to steam in the pot, and wet chickpeas never crisp.
 - Trim the **8 oz green beans** and smash and peel the **3 garlic cloves**.
+- Par-steam the beans: put them in a microwave-safe bowl with **1 tbsp water**, cover with a plate, and microwave for **2 minutes**. Drain and pat them dry. The pot can blister the outsides but can't steam them through without killing the chickpeas' crunch, so the microwave handles the cooking and the pot just adds the char.
 - Set the **thyme sprigs, rosemary sprig, butter, and tongs** next to the stove. The baste happens fast, and tongs are much easier than a spatula in a deep pot.
 
 ### 3️⃣ Sear the chops · ⏱ 6–12 min
@@ -106,10 +107,10 @@
 - They're done when they're golden with crispy edges.
 - ⚠️ **Keep the lid off from here on.** The tall walls already trap some steam, and steam undoes crispy.
 
-### 7️⃣ Blister the green beans · ⏱ 7–8 min
+### 7️⃣ Blister the green beans · ⏱ 5–6 min
 - Push the chickpeas to the sides and pile the **8 oz green beans** in the middle.
 - Leave them alone for **3 minutes**, until they have dark blistered spots.
-- Toss everything together, then let it sit again. Repeat once or twice. The pot's tall sides trap enough steam to cook the beans through, so they shouldn't need any water.
+- Toss everything together, then let it sit again for another **2–3 minutes**. The beans are already tender from the microwave, so this is just about getting more char on them.
 - Finish with a pinch of salt and a squeeze from the **½ lemon**.
 
 ### 8️⃣ Plate it
