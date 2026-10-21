@@ -1,6 +1,6 @@
 # 🌿 Paprika & Bee Balm Pork Chops with Crispy Chickpeas & Green Beans
 
-*One 10-inch Dutch oven, ~40 minutes, serves 2. Paprika and bee balm crusted chops, basted in thyme-garlic butter, with rosemary chickpeas and blistered green beans crisped in the same pot. The herbs come from the yard.*
+*One 10-inch Dutch oven, ~40 minutes, serves 2. Paprika and bee balm crusted chops, basted in thyme-garlic butter, with rosemary chickpeas and blistered green beans crisped in the same pot. The herbs come from the yard. Heat is given as numbers on the stove dial: the whole cook stays around **5**, a notch up or down depending on the step.*
 
 ## Shopping List
 
@@ -71,14 +71,15 @@
 - ⚠️ **Avoid the in-between (5–30 minutes).** That's when the salt has pulled moisture to the surface but the meat hasn't reabsorbed it yet, so the chops steam instead of searing.
 
 ### 2️⃣ Preheat the pot and prep · ⏱ 5 min
-- Set the empty Dutch oven over **medium** heat while you prep. Heavy pots heat unevenly if you rush them, so giving it a few minutes means no hot spots when the chops go in.
-- Drain and rinse the **chickpeas**, then spread them on a towel and pat them **really** dry. Any water left on them turns to steam in the pot, and wet chickpeas never crisp.
+- Set the empty Dutch oven on **5** while you prep. Heavy pots heat unevenly if you rush them, so giving it a few minutes means no hot spots when the chops go in.
+- Drain the **chickpeas** and rinse them right in the can: fill it with water, swirl, and drain again.
+- Tip them onto a kitchen towel, fold the towel over the top, and pat them dry. Then leave them there under the towel until they go in the pot, because the extra time lets them air-dry even more. Any water left on them turns to steam in the pot, and wet chickpeas never crisp.
 - Trim the **8 oz green beans** and smash and peel the **3 garlic cloves**.
 - Par-steam the beans: put them in a microwave-safe bowl with **1 tbsp water**, cover with a plate, and microwave for **2 minutes**. Drain and pat them dry. The pot can blister the outsides but can't steam them through without killing the chickpeas' crunch, so the microwave handles the cooking and the pot just adds the char.
 - Set the **thyme sprigs, rosemary sprig, butter, and tongs** next to the stove. The baste happens fast, and tongs are much easier than a spatula in a deep pot.
 
 ### 3️⃣ Sear the chops · ⏱ 6–12 min
-- Turn the heat to **medium-high**, add **1 tbsp oil**, and wait for it to shimmer.
+- Turn the dial up to **6**, add **1 tbsp oil**, and wait for it to shimmer.
 - Lay in as many chops as fit **without touching**, usually 2 in a 10-inch Dutch oven since the flat bottom is smaller than the rim. Chops that touch trap steam between them and turn gray instead of browning.
 - Leave them alone for **3 minutes**. They're ready to flip when the bottom is a deep brick red and they release from the pot on their own.
 - Flip and sear the second side for **2 minutes**, then move them to a plate.
@@ -88,7 +89,7 @@
 ### 4️⃣ Baste with thyme butter · ⏱ 2–4 min
 - Lift the pot off the burner to cool it down.
 - ⚠️ **Drain the oil. All of it.** While the pot is off the heat, tilt it and spoon every bit of oil you can into a heatproof bowl, leaving only the browned bits on the bottom. Leftover sear oil mixes into the butter, so the baste comes out greasy instead of rich, and it won't foam properly. Don't skip this one.
-- Set the pot back on **medium-low**.
+- Set the pot back on **4**.
 - Return all the chops to the pot. They can be snug together now, since crowding only matters during the sear.
 - Tuck the **2 tbsp butter**, the **smashed garlic**, and the **thyme sprigs** in around the chops.
 - When the butter foams, tilt the pot toward you so it pools, and spoon it over the chops again and again. The hot butter gently cooks the tops and pulls the thyme and garlic flavor right into the crust.
@@ -99,7 +100,7 @@
 - **Leave the browned bits in the pot.** That paprika-butter fond is what seasons the chickpeas and beans.
 
 ### 6️⃣ Crisp the rosemary chickpeas · ⏱ 6 min
-- Put the pot back on **medium-high** and add **1 tbsp butter** and **1 tbsp oil**. The oil keeps the butter from burning during the longer cook.
+- Put the pot back on **6** and add **1 tbsp butter** and **1 tbsp oil**. The oil keeps the butter from burning during the longer cook.
 - Add the **chickpeas** with a pinch of salt, and tuck the **rosemary sprig** in among them.
 - Let them fry, stirring now and then, and scrape up the browned bits from the bottom as you go so the chickpeas pick up the rub's flavor. The tall sides of the pot catch most of the popping.
 - Once the rosemary is crisp and dark green, after about **2–3 minutes**, pull it out onto a plate. The oil already has its flavor by then, and the needles turn bitter if they stay in the whole time.
@@ -120,7 +121,7 @@
 ---
 
 ## Tips & Notes
-- **What ruins this: scorched paprika.** Paprika is dried peppers with natural sugars, and it goes from sweet to bitter fast over high heat. That's why the sear is medium-high and the baste is medium-low. In a Dutch oven, the riskiest moment is the second sear round, when the first round's fond is already sitting in a hot pot.
+- **What ruins this: scorched paprika.** Paprika is dried peppers with natural sugars, and it goes from sweet to bitter fast over high heat. That's why the sear is only a notch above 5 and the baste a notch below. In a Dutch oven, the riskiest moment is the second sear round, when the first round's fond is already sitting in a hot pot.
 - **What else ruins it: dry chops.** Use the thermometer and pull at 140°F. Slightly pink in the middle is correct and safe.
 - **Using a 12-inch skillet instead?** All the chops fit in one round, and turning the burner down works without lifting the pan. The beans blister better in a wider pan. If they're still crunchy, add 2 tbsp water and cover for 1 minute.
 - **One herb per job.** Bee balm goes in the rub, thyme in the baste, rosemary with the chickpeas. Thyme shares bee balm's aromatic compounds, so they blend together. Rosemary would fight the bee balm on the pork, but rosemary and chickpeas are an old Italian pairing (think *pasta e ceci*).
