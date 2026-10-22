@@ -21,7 +21,7 @@ grocery department, then the method, then tips.
 - [🫑 Quick Pepper Soup](quick-pepper-soup.md) — *Instant Pot Stuffed Pepper Soup*
 - [🍋 Sheet Pan Sunday](sheet-pan-sunday.md) — *Italian Sheet Pan Chicken*
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe, one 1 lb batch of baked parmesan meatballs
-- [🌿 Paprika Chops](paprika-chops.md) — *Paprika & Bee Balm Pork Chops with Chickpeas & Green Beans* · boneless, yard herbs, thyme-butter baste, crispy chickpeas + green beans in one Dutch oven
+- [🌿 Chickpea Chops](chickpea-chops.md) — *Paprika & Bee Balm Pork Chops with Chickpeas & Green Beans* · boneless, yard herbs, thyme-butter baste, crispy chickpeas + green beans in one Dutch oven
 - [🍲 Pasta Fazool](pasta-fazool.md) — *Instant Pot Pasta Fagioli*
 - [🇸🇪 IKEA Meatballs](ikea-meatballs.md) — *Swedish Meatballs with Mashed Potatoes* · IKEA's official soy-Dijon cream gravy
 - [🍎 Party Pot Cider](party-pot-cider.md) — *Stovetop Mulled Cider* · all-day party pot, whole spices, spike by the mug
