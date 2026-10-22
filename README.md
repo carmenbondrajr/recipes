@@ -9,7 +9,7 @@ grocery department, then the method, then tips.
 - [🍅 Spezzatino](spezzatino.md) — *Beef Spezzatino* · Italian tomato-braised beef, peppers + chickpeas, garlic bread dunker
 - [🔥 Sausage and Pepper Soup](sausage-and-pepper-soup.md) — *Charred Pepper & Hot Sausage Soup* · stovetop Dutch oven, layered-flavor stuffed pepper soup
 - [🧀 Party Mac](party-mac.md) — *Party Baked Mac & Cheese* · serves 6, 9×13, cheddar + fontina, panko top, holds warm for a party
-- [🧀 Solo Cacio](solo-cacio.md) — *Cacio e Pepe* · serves 2, three ingredients, cheese-paste trick for a no-clump sauce
+- [🧀 Cacio e Pepe](cacio-e-pepe.md) — serves 2, three ingredients, cheese-paste trick for a no-clump sauce
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
 - [🥦 Lazy Orzo](lazy-orzo.md) — *Chicken, Broccoli & Orzo Bake* · one pan, raw orzo bakes in the broth
 - [🍝 Grown-Up Hamburger Helper](grown-up-hamburger-helper.md) — *Creamy Beef and Pasta*

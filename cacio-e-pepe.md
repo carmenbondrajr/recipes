@@ -1,5 +1,4 @@
-# 🧀 Solo Cacio
-### Cacio e Pepe
+# 🧀 Cacio e Pepe
 
 *One skillet + one small pot, ~15 minutes, serves 2. Best eaten right away. Just three ingredients: pasta, Pecorino Romano, and black pepper. The trick is getting them to turn into a creamy sauce instead of a stringy clump.*
 
