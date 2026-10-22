@@ -1,4 +1,5 @@
-# 🥔 Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce
+# 🥔 Freezer Raid Gnocchi
+### Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce
 
 *One large skillet, one saucepan, and the oven, ~30 minutes, serves 2. Frozen gnocchi seared straight from the bag, finished in garlicky brown butter with fennel and bee balm, and piled over saucy meatballs.*
 

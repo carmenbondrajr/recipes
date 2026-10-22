@@ -1,4 +1,5 @@
-# 🧀 Tortellini alla Panna con Piselli e Pangrattato
+# 🧀 Crunchy Tortellini
+### Tortellini alla Panna con Piselli e Pangrattato
 *Vegetarian cheese tortellini in a brown-butter Parmesan cream sauce with peas and garlicky toasted breadcrumbs. Serves 2, about 30 minutes*
 
 ---
@@ -78,5 +79,5 @@
 - **A pinch of nutmeg** in the cream is a classic Emilia-Romagna touch
 - **Want some brightness?** Once the pan is off the heat and the parm is in, squeeze in 1–2 tsp lemon juice and toss. Adding it last matters, because juice in simmering cream can make it split
 - **Leftovers soak up everything.** Reheat on low with a splash of milk or cream. Keep the leftover pangrattato separate
-- **Meat-eaters at the table?** Crisp pancetta in its own pan and top just their bowls. See [Totaro's Tortellini Tripea](totaros-tortellini-tripea.md)
+- **Meat-eaters at the table?** Crisp pancetta in its own pan and top just their bowls. See [Totaro's Tripea](totaros-tripea.md)
 - **The history:** *pangrattato* just means "grated bread." In southern Italy it's called **"poor man's Parmesan."** Families who couldn't afford cheese toasted stale breadcrumbs in olive oil and showered them over pasta for crunch and richness. Here it gets to sit right next to the actual Parmesan

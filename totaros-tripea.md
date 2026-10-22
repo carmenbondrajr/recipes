@@ -1,4 +1,5 @@
-# 🥓 Totaro's Tortellini Tripea
+# 🥓 Totaro's Tripea
+### Totaro's Tortellini Tripea
 
 *Cheese tortellini in a Parmesan cream sauce with crispy pancetta and peas. One skillet plus a pasta pot, ~25 minutes, serves 2.*
 

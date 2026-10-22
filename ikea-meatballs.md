@@ -1,4 +1,5 @@
-# 🇸🇪 Swedish Meatballs with Mashed Potatoes
+# 🇸🇪 IKEA Meatballs
+### Swedish Meatballs with Mashed Potatoes
 *The IKEA plate at home, built on IKEA's own 2020 recipe: tender beef-and-pork meatballs in a silky soy-and-Dijon cream gravy over mashed potatoes. 4 servings (~40 small meatballs), ~1 hour*
 
 ---

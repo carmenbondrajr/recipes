@@ -1,4 +1,5 @@
-# 🔥 Stovetop Charred Pepper & Hot Sausage Soup
+# 🔥 Sausage and Pepper Soup
+### Stovetop Charred Pepper & Hot Sausage Soup
 
 *Serves 6 — Dutch oven, ~55 min. The layered-flavor version of stuffed pepper soup.*
 
@@ -164,4 +165,4 @@ Scoop rice into each bowl, ladle soup over. Chopped parsley and grated parmesan 
   brings acid, salt and a little pepper heat; ease off the finishing salt if you use it.
 - **Freezes well** without the rice. 3 months.
 - **In a hurry?** The dump-and-go Instant Pot version is
-  [here](instant-pot-stuffed-pepper-soup.md) — different tool, different night.
+  [here](quick-pepper-soup.md) — different tool, different night.

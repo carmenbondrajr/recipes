@@ -1,4 +1,5 @@
-# 🧀 Party Baked Mac & Cheese
+# 🧀 Party Mac
+### Party Baked Mac & Cheese
 
 *One 9×13 dish, serves 6 alongside other food. A sharp cheddar and fontina sauce with a crispy Parmesan-panko top. It's made to sit on the table for a while, and it's great piled onto a pulled pork slider. Easiest party plan: assemble it in the morning and bake it when people get hungry.*
 

@@ -1,4 +1,5 @@
-# 🍝 Creamy Beef and Pasta
+# 🍝 Grown-Up Hamburger Helper
+### Creamy Beef and Pasta
 
 ## Shopping List
 

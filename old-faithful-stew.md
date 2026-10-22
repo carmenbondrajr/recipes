@@ -1,4 +1,5 @@
-# 🥘 Stovetop Beef Stew
+# 🥘 Old Faithful Stew
+### Stovetop Beef Stew
 
 ## Shopping List
 

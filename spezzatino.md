@@ -1,4 +1,5 @@
-# 🍅 Italian Beef Spezzatino
+# 🍅 Spezzatino
+### Italian Beef Spezzatino
 
 *Serves 5-6. Tomato-braised beef with sweet peppers and chickpeas: thicker than a stew, chunkier than a ragu, and made for dunking garlic bread. Stovetop, Dutch oven, ~3½-4 hrs (mostly hands-off). Start early, because the beef sets the schedule, not the clock.*
 
@@ -103,5 +104,5 @@ Stir in most of the **½ cup chopped parsley**, then scatter the rest on top. Se
 - **Want it as a true ragu?** Once it's done, shred the beef right in the pot with two forks. Then it's pasta sauce (pappardelle or rigatoni) or a polenta topper. Save this for leftovers night.
 - **No wine?** Use broth to deglaze and add the balsamic splash at the end. You still get the acidity and depth.
 - **Parmesan rind hoarding:** Keep your rinds in a freezer bag. They add savory umami to any tomato braise or soup.
-- **Leftover pantry bits:** The other half of the tomato paste freezes in tablespoon dollops on parchment. The diced tomatoes and second chickpea can are perfect for [pasta fagioli](pasta-fagioli.md).
+- **Leftover pantry bits:** The other half of the tomato paste freezes in tablespoon dollops on parchment. The diced tomatoes and second chickpea can are perfect for [Pasta Fazool](pasta-fazool.md).
 - **Want more stew-ness?** Add 1 lb red potatoes (1.5" chunks) with the peppers at step 7 and give it the full 40 min. They release starch and thicken the sauce, so you may need a splash of the reserved broth.

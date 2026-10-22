@@ -1,4 +1,5 @@
-# 🍋 Italian Sheet Pan Chicken & Veggies
+# 🍋 Sheet Pan Sunday
+### Italian Sheet Pan Chicken & Veggies
 
 ## Shopping List
 

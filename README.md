@@ -5,23 +5,23 @@ grocery department, then the method, then tips.
 
 ## Index
 
-- [🥘 Beef Stew](beef-stew.md) — stovetop, Dutch oven
-- [🍅 Beef Spezzatino](beef-spezzatino.md) — Italian tomato-braised beef, peppers + chickpeas, garlic bread dunker
-- [🔥 Charred Pepper & Hot Sausage Soup](charred-pepper-sausage-soup.md) — stovetop Dutch oven, layered-flavor stuffed pepper soup
-- [🧀 Party Baked Mac & Cheese](baked-mac-and-cheese.md) — serves 6, 9×13, cheddar + fontina, panko top, holds warm for a party
-- [🧀 Cacio e Pepe](cacio-e-pepe.md) — serves 1, three ingredients, cheese-paste trick for a no-clump sauce
+- [🥘 Old Faithful Stew](old-faithful-stew.md) — *Beef Stew* · stovetop, Dutch oven
+- [🍅 Spezzatino](spezzatino.md) — *Beef Spezzatino* · Italian tomato-braised beef, peppers + chickpeas, garlic bread dunker
+- [🔥 Sausage and Pepper Soup](sausage-and-pepper-soup.md) — *Charred Pepper & Hot Sausage Soup* · stovetop Dutch oven, layered-flavor stuffed pepper soup
+- [🧀 Party Mac](party-mac.md) — *Party Baked Mac & Cheese* · serves 6, 9×13, cheddar + fontina, panko top, holds warm for a party
+- [🧀 Solo Cacio](solo-cacio.md) — *Cacio e Pepe* · serves 2, three ingredients, cheese-paste trick for a no-clump sauce
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
-- [🥦 Chicken, Broccoli & Orzo Bake](chicken-broccoli-orzo-bake.md) — one pan, raw orzo bakes in the broth
-- [🍝 Creamy Beef and Pasta](creamy-beef-and-pasta.md)
-- [🥔 Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce](crispy-gnocchi-brown-butter-meatballs.md) — freezer-to-table weeknight
-- [🥓 Totaro's Tortellini Tripea](totaros-tortellini-tripea.md) — crispy pancetta + peas in a Parmesan cream sauce, one skillet
-- [🧀 Tortellini with Peas & Pangrattato](tortellini-peas-pangrattato.md) — vegetarian, brown-butter Parmesan cream, toasted breadcrumb crunch
+- [🥦 Lazy Orzo](lazy-orzo.md) — *Chicken, Broccoli & Orzo Bake* · one pan, raw orzo bakes in the broth
+- [🍝 Grown-Up Hamburger Helper](grown-up-hamburger-helper.md) — *Creamy Beef and Pasta*
+- [🥔 Freezer Raid Gnocchi](freezer-raid-gnocchi.md) — *Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce* · freezer-to-table weeknight
+- [🥓 Totaro's Tripea](totaros-tripea.md) — *Totaro's Tortellini Tripea* · crispy pancetta + peas in a Parmesan cream sauce, one skillet
+- [🧀 Crunchy Tortellini](crunchy-tortellini.md) — *Tortellini with Peas & Pangrattato* · vegetarian, brown-butter Parmesan cream, toasted breadcrumb crunch
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
-- [🌮 Grilled Steak Tacos](grilled-steak-tacos.md) — lime-chili skirt steak, quick pico, grill-charred corn tortillas
-- [🫑 Instant Pot Stuffed Pepper Soup](instant-pot-stuffed-pepper-soup.md)
-- [🍋 Italian Sheet Pan Chicken](italian-sheet-pan-chicken.md)
+- [🌮 Grill Night Tacos](grill-night-tacos.md) — *Grilled Steak Tacos* · lime-chili skirt steak, quick pico, grill-charred corn tortillas
+- [🫑 Quick Pepper Soup](quick-pepper-soup.md) — *Instant Pot Stuffed Pepper Soup*
+- [🍋 Sheet Pan Sunday](sheet-pan-sunday.md) — *Italian Sheet Pan Chicken*
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe, one 1 lb batch of baked parmesan meatballs
-- [🌿 Paprika & Bee Balm Pork Chops with Chickpeas & Green Beans](paprika-bee-balm-pork-chops.md) — boneless, yard herbs, thyme-butter baste, crispy chickpeas + green beans in one Dutch oven
-- [🍲 Instant Pot Pasta Fagioli](pasta-fagioli.md)
-- [🇸🇪 Swedish Meatballs with Mashed Potatoes](swedish-meatballs.md) — IKEA's official soy-Dijon cream gravy
-- [🍎 Stovetop Mulled Cider](mulled-cider.md) — all-day party pot, whole spices, spike by the mug
+- [🌿 Paprika Chops](paprika-chops.md) — *Paprika & Bee Balm Pork Chops with Chickpeas & Green Beans* · boneless, yard herbs, thyme-butter baste, crispy chickpeas + green beans in one Dutch oven
+- [🍲 Pasta Fazool](pasta-fazool.md) — *Instant Pot Pasta Fagioli*
+- [🇸🇪 IKEA Meatballs](ikea-meatballs.md) — *Swedish Meatballs with Mashed Potatoes* · IKEA's official soy-Dijon cream gravy
+- [🍎 Party Pot Cider](party-pot-cider.md) — *Stovetop Mulled Cider* · all-day party pot, whole spices, spike by the mug

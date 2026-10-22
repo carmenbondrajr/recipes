@@ -1,4 +1,5 @@
-# 🍲 Instant Pot Pasta Fagioli
+# 🍲 Pasta Fazool
+### Instant Pot Pasta Fagioli
 
 Makes a big pot — roughly 6 generous servings.
 

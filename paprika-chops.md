@@ -1,4 +1,5 @@
-# 🌿 Paprika & Bee Balm Pork Chops with Crispy Chickpeas & Green Beans
+# 🌿 Paprika Chops
+### Paprika & Bee Balm Pork Chops with Crispy Chickpeas & Green Beans
 
 *One 10-inch Dutch oven, ~40 minutes, serves 2. Paprika and bee balm crusted chops, basted in thyme-garlic butter, with rosemary chickpeas and blistered green beans crisped in the same pot. The herbs come from the yard. Heat is given as numbers on the stove dial: the whole cook stays around **5**, a notch up or down depending on the step.*
 

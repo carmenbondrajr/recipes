@@ -1,4 +1,5 @@
-# 🍎 Stovetop Mulled Cider
+# 🍎 Party Pot Cider
+### Stovetop Mulled Cider
 
 *One big pot on the stove all day, serves 6 with refills. Apple cider kept just under a simmer with whole spices and orange. The house smells like Halloween, and only the host can pull this one off.*
 

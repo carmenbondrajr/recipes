@@ -1,4 +1,5 @@
-# 🥦 Chicken, Broccoli & Orzo Bake
+# 🥦 Lazy Orzo
+### Chicken, Broccoli & Orzo Bake
 
 *One 9x13 pan, serves 4–6. Dry orzo goes in raw and cooks in the broth — no separate pasta pot.*
 
