@@ -1,30 +1,30 @@
 # 🍲 Pasta Fazool
 ### Instant Pot Pasta Fagioli
 
-Makes a big pot — roughly 6 generous servings.
+*One Instant Pot, ~45 minutes including pressure time, makes a big pot (roughly 6 generous servings). Ham and pepperoni render into an orange, smoky base, three kinds of beans make it hearty, and the pasta gets cooked separately so the soup stays soup.*
 
 ## Shopping List
 
 **Produce**
 - 1 yellow onion
-- Baby carrots (2 cups), cut into coins
-- 6 celery stalks, diced
-  - *Shortcut: pre-diced mirepoix instead of chopping onion, carrot, and celery*
+- Baby carrots (2 cups, about half a 1 lb bag)
+- Celery (6 stalks, about one bunch)
+  - *Shortcut: a tub of pre-diced mirepoix instead of chopping onion, carrot, and celery*
 
 **Meat / Deli**
-- Ham steak (14 oz), cut into cubes
-- Pepperoni (5 oz), cut into coins then quartered
+- Ham steak (14 oz)
+- Pepperoni (5 oz stick or bag)
 
 **Dairy**
 - Grated parmesan or pecorino (½ cup, plus more for serving)
 
 **Pantry / Center Aisles**
-- Petite diced tomatoes (1 can, 28 oz)
-- Chicken broth (4 cups / one 32 oz carton)
-- Chickpeas (1 can)
-- Kidney beans (1 can)
-- Cannellini beans (1 can)
-- Ditalini pasta
+- Petite diced tomatoes (one 28 oz can)
+- Chicken broth (4 cups, one 32 oz carton)
+- Chickpeas (one 15 oz can)
+- Kidney beans (one 15 oz can)
+- Cannellini beans (one 15 oz can)
+- Ditalini pasta (one 1 lb box). Any tiny tube or shell works if they're out
 
 *You should have at home: olive oil, garlic powder, dried basil, kosher salt, black pepper, hot sauce*
 
@@ -33,56 +33,76 @@ Makes a big pot — roughly 6 generous servings.
 ## Recipe
 
 **Ingredients**
+
+*The base*
 - 2 tbsp olive oil
 - 14 oz ham steak, cubed
-- 5 oz pepperoni, quartered coins
+- 5 oz pepperoni, cut into coins then quartered
 - 1 yellow onion, diced
+
+*The pot*
 - 2 cups baby carrots, cut into coins
 - 6 celery stalks, diced
-- 4 cups chicken broth
-- 1 can (28 oz) petite diced tomatoes, undrained
-- 1 can chickpeas, drained and rinsed
-- 1 can kidney beans, drained and rinsed
-- 1 can cannellini beans, drained and rinsed
 - 1 tsp garlic powder
 - 1 tsp dried basil
 - 1 tsp kosher salt, plus more to taste
 - ½ tsp black pepper
+- 4 cups chicken broth
+- 1 can (28 oz) petite diced tomatoes, undrained
+- 1 can (15 oz) chickpeas, drained and rinsed
+- 1 can (15 oz) kidney beans, drained and rinsed
+- 1 can (15 oz) cannellini beans, drained and rinsed
+
+*To finish*
 - ½ cup grated parmesan or pecorino
 - Hot sauce, to taste
-- Ditalini pasta — cooked separately, only what you're eating that day
+- Ditalini, cooked separately, only what you're eating that day
 
-### 1. Render the Ham & Pepperoni — ~7 min
-Set the Instant Pot to Sauté on medium-high with the **2 tbsp olive oil**. Add the **14 oz cubed ham** and **5 oz pepperoni**, cook until the fat renders and the pepperoni edges curl. The oil will go orange — that's the flavor base of the whole soup.
+### 1️⃣ Render the ham & pepperoni · ⏱ ~7 min
+- Set the Instant Pot to Sauté on medium-high with the **2 tbsp olive oil**.
+- Add the **14 oz cubed ham** and **5 oz quartered pepperoni** and cook until the fat renders and the pepperoni edges curl. The oil goes orange, and that orange oil is the flavor base of the whole soup.
+- Stir every couple of minutes, and watch the **pot bottom**, not the meat. A light brown crust on the bottom is the goal.
+- ⚠️ **Don't let the bottom scorch.** Overcooked meat isn't the risk here, black fond is: it turns the soup bitter and triggers a BURN error once the pot is under pressure. If it starts going dark, splash in some of the broth right away and scrape it up.
 
-Stir every couple of minutes and watch the **pot bottom**, not the meat. The failure mode isn't overcooking, it's scorching: black fond turns the soup bitter and causes a BURN error later. Light brown crust is the goal. If it starts looking dark, splash in some broth immediately and scrape it up.
+### 2️⃣ Soften the onion · ⏱ ~5 min
+- Add the **diced yellow onion** and cook until translucent.
+- Scrape the bottom clean as you go. The onion's moisture lifts the fond, and a clean bottom is your best insurance against a BURN error later.
 
-### 2. Soften the Onion — ~5 min
-Add the **diced yellow onion** and cook until translucent, scraping the bottom clean as you go.
+### 3️⃣ Load the pot · ⏱ ~5 min
+- Turn off Sauté.
+- Add the vegetables and seasonings:
+  - **2 cups carrot coins**
+  - **6 diced celery stalks**
+  - **1 tsp garlic powder**
+  - **1 tsp dried basil**
+  - **1 tsp kosher salt**
+  - **½ tsp black pepper**
+- Pour in the **4 cups chicken broth** and give it one stir to get everything off the bottom.
+- Pour the **28 oz can of tomatoes** and all three cans of beans (**chickpeas, kidney, cannellini**, drained and rinsed) on top.
+- ⚠️ **Don't stir the tomatoes and beans in.** Broth on the bottom and thick stuff on top keeps the heating element covered in thin liquid, which is what prevents a BURN warning in a pot this full.
+- ⚠️ **Check the fill line.** Soups shouldn't go past the ⅔ mark. If it's close, hold back a cup of broth and stir it in after cooking.
 
-### 3. Load the Pot
-Turn off Sauté. Add the **2 cups carrot coins**, **6 diced celery stalks**, **1 tsp garlic powder**, **1 tsp dried basil**, **1 tsp salt**, and **½ tsp pepper**, then the **4 cups broth**.
+### 4️⃣ Pressure cook · ⏱ 10 min + ~15 min to pressure and release
+- Seal and cook on **High Pressure for 10 minutes**. The carrots set the timer, and the canned beans are already cooked, so they're just along for the ride.
+- Let it release naturally for **5 minutes**, then vent the rest.
+- ⚠️ **Don't quick-release right away.** A thick soup will sputter out through the valve.
 
-Pour the **28 oz can of tomatoes** and all three cans of beans (**chickpea, kidney, cannellini** — drained and rinsed) on top and **do not stir them down**. Broth on the bottom, solids on top — that layering is what prevents a BURN warning in a pot this thick.
+### 5️⃣ Cook the pasta · ⏱ ~10 min
+- While the pot releases, boil the **ditalini** in salted water. Plan on about **¼ cup dry per bowl**. It takes about 8 minutes.
+- Drain and rinse it under cold water. Rinsing washes off the surface starch so it doesn't clump or thicken the soup.
+- Cook only what you're eating today. Pasta stored in the soup keeps drinking broth and goes gluey overnight.
 
-Check the fill line: soups shouldn't go past the ⅔ mark. Hold back a cup of broth if it's close and add it at the end.
-
-### 4. Pressure Cook — 10 min
-Seal and cook on **High Pressure for 10 minutes**. The timer is set by the carrots; the beans are along for the ride.
-
-Natural release for **5 minutes**, then vent the rest. A thick soup will sputter through the valve on an immediate quick release.
-
-### 5. Finish
-Taste and adjust salt. Add hot sauce and the **½ cup grated cheese** at the table.
-
-### 6. Pasta, Whenever
-Boil ditalini separately, drain, and rinse under cold water. Cook only what you're eating — a half cup of dry pasta takes about 8 minutes.
+### 6️⃣ Finish & serve
+- Taste the soup and adjust the salt.
+- Spoon pasta into each bowl and ladle the soup over it.
+- Pass the **½ cup grated cheese** and the **hot sauce** at the table.
 
 ---
 
 ## Tips & Notes
-- **Never cook the pasta in the soup, and never store it in the soup** — it swells and goes gluey overnight
-- **Layer, don't stir** before pressure cooking — broth on the bottom, solids on top
-- **Watch the pot bottom during the render** — scorched fond means bitter soup and a BURN error
-- **All three cans of beans go in for the pressure cook** — works fine, no mush
-- **Leftovers:** keeps 5 days and is better on day two. Freezes well in quart containers — freeze it without pasta
+- **What ruins this: a BURN error.** It almost always comes from scorched fond in step 1 or stirred-down beans and tomatoes in step 3. Clean bottom, thin liquid underneath, thick stuff on top.
+- **Never cook the pasta in the soup, and never store it in the soup.** It swells and goes gluey, and in a pressure cooker it turns to mush.
+- **All three cans of beans go in for the pressure cook.** Canned beans hold up fine for 10 minutes. No mush.
+- **Leftovers:** keeps 5 days in the fridge and is better on day two. Freezes well in quart containers, without the pasta.
+- **Want it creamier?** Mash a ladle of the beans against the side of the pot after cooking and stir them back in. The starch thickens the broth.
+- **The name:** *pasta e fagioli* just means "pasta and beans." In Neapolitan dialect, *fagioli* is *fasule*, which Italian-American kitchens turned into "fazool." Dean Martin made it famous in "That's Amore": *"When the stars make you drool just like pasta e fazool."*
