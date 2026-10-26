@@ -1,7 +1,7 @@
 # ⚾ World Series Nachos
 ### Grilled Chili-Lime Chicken Sheet Pan Nachos
 
-*Serves 2 as dinner, or 4 as a game-time snack. ~1 hour of hands-on time plus a 30-minute-to-4-hour marinade. Chili-lime chicken thighs charred on the grill and chopped small, layered twice over sturdy chips with Jack, cheddar, and black beans, baked until bubbly, then piled with fresh pico, quick guac, and a lime crema drizzle. One half sheet pan, eaten straight off it.*
+*Serves 2 as dinner, or 4 as a game-time snack. ~1 hour of hands-on time plus a 30-minute-to-4-hour marinade. Chili-lime chicken thighs charred on the grill and chopped small, layered twice over sturdy chips with Mexican-blend cheese and black beans, baked until bubbly, then piled with fresh pico and a lime crema drizzle. One half sheet pan, eaten straight off it.*
 
 ## Shopping List
 
@@ -10,8 +10,7 @@
 - White onion (1 medium). Half goes in the pico
 - Jalapeño (1), for the pico. Skip it if you want the heat to come only from the pickled ones
 - Cilantro (1 bunch)
-- Limes (4). 1 for the marinade, 1 for the pico, 1 for the guac and crema, 1 cut into wedges
-- Avocados (2). Buy ones that give slightly when squeezed. Rock-hard ones won't be ready by tonight
+- Limes (3). 1 for the marinade, 1 for the pico, 1 for the crema and wedges
 - Garlic (1 head; you need 2 cloves)
 
 **Meat**
@@ -19,9 +18,7 @@
   - **Thighs, not breasts.** Thighs stay juicy at the higher temp it takes to get a good char, and they forgive a couple of extra minutes on the grill. Breasts dry out fast and taste like nothing once they're chopped small
 
 **Dairy**
-- **Monterey Jack, one 8 oz block.** The melter: smooth and stretchy
-- **Sharp cheddar, one 8 oz block** (you'll use half). The flavor: Jack alone is mild
-  - ⚠️ **Buy blocks, not bags.** Pre-shredded cheese is coated in potato starch so it doesn't clump in the bag, and that same coating keeps it from melting smoothly. It comes out greasy and grainy instead of gooey
+- **Shredded Mexican-blend cheese, two 8 oz bags** (you'll use about 3 cups / 12 oz of the 4 cups). Any blend works, whether it's "Mexican," "Fiesta," or "Taco." Grab one with Monterey Jack in it if you have a choice, since Jack is the smoothest melter
 - Sour cream (one 8 oz tub; you'll use ½ cup)
 
 **Pantry / Center Aisles**
@@ -64,17 +61,10 @@
 - Pinch of kosher salt
 - 1–2 tsp water
 
-*The quick guac*
-- 2 avocados
-- 1 tbsp lime juice
-- ¼ tsp kosher salt
-- 2 heaping tbsp of the drained pico
-
 *Everything else*
 - ~1¼ lb boneless skinless chicken thighs
 - ~10 oz sturdy tortilla chips
-- 8 oz Monterey Jack, shredded (about 2 cups)
-- 4 oz sharp cheddar, shredded (about 1 cup)
+- 3 cups (12 oz) shredded Mexican-blend cheese
 - 1 can (15 oz) black beans
 - ¼ cup pickled jalapeño slices
 - Extra cilantro and lime wedges for serving
@@ -105,10 +95,9 @@
   - **Juice of 1 lime**
   - **½ tsp kosher salt**
 - Let it sit at least 15 minutes. The salt pulls juice out of the tomatoes and mellows the raw onion. That juice is good for flavor in the bowl, but it's exactly what you don't want on the chips later, so you'll drain it before serving.
-- **Shred the cheese.** Shred the whole **8 oz block of Jack** and half of the **cheddar block (4 oz)**, and toss them together in one bowl so every handful is a mix.
+- **Measure the cheese.** Dump **3 cups of the shredded cheese** into a bowl and let it sit out on the counter until it's time to build. Room-temperature cheese melts faster and smoother, so it's fully gooey before the chips have a chance to burn.
 - **Rinse the beans.** Drain the **black beans**, rinse them in a strainer, then spread them on a kitchen towel and pat them dry. Wet beans steam the chips from underneath.
 - **Make the lime crema.** Stir together **½ cup sour cream**, **1 tbsp lime juice**, and a pinch of salt, then add water **1 tsp at a time** until it falls off the spoon in a ribbon. Spoon it into a zip-top bag and keep it in the fridge. Later you'll snip a tiny corner off and drizzle it like a pro.
-- Don't make the guac yet. Avocado browns once it's cut, so it waits until the nachos are in the oven.
 
 ### 3️⃣ Heat the grill and the oven · ⏱ 10–15 min
 - Take the chicken out of the fridge.
@@ -139,21 +128,20 @@
 - **Layer 2:** Lay the **rest of the chips** over that, then repeat with the rest of the chicken, beans, and jalapeños, and finish with **all the remaining cheese**.
 - ⚠️ **This is the step that makes or breaks it.** Dump everything on top of one tall pile of chips and you end up with a cheesy lid over a pile of naked chips. Two thin layers mean every chip gets something. The cheese on top of each layer melts over the chicken and beans and holds them on the chips, so they don't fall off when you pick one up.
 
-### 7️⃣ Bake and make the guac · ⏱ 6–10 min
+### 7️⃣ Bake · ⏱ 6–10 min
 - Bake at **425°F for 6–10 minutes**, until the cheese is completely melted and bubbling and the chip edges are just turning golden.
 - ⚠️ **Watch the edges, not the clock.** Chips go from toasty to scorched quickly, and the corners of the pan brown first. Pull them as soon as all the cheese has melted, even if it's only been 6 minutes.
-- **While it bakes, make the guac.** Mash the **2 avocados** with **1 tbsp lime juice** and **¼ tsp salt** with a fork, leaving it a little chunky. Fold in **2 heaping tbsp of pico**, lifted out with a slotted spoon so the juice stays behind.
 
 ### 8️⃣ Top it and eat it · ⏱ 2 min
 - Spoon the **pico** over the top with a **slotted spoon**, shaking off the juice as you go.
 - ⚠️ **Don't pour it on from the bowl.** That tomato juice settles at the bottom and soaks into the chips in about 3 minutes. Save the juice. It's good spooned over individual bites if you want it.
-- Dollop the **guac** around the pan, snip a tiny corner off the crema bag and drizzle it across everything, then scatter on extra **cilantro**.
+- Snip a tiny corner off the crema bag and drizzle it across everything, then scatter on extra **cilantro**.
 - Serve right on the sheet pan with **lime wedges**. Nachos are at their best in the first 15 minutes, so get them in front of the TV fast.
 
 ---
 
 ## Tips & Notes
-- **What ruins this: soggy chips.** Every source of moisture is the enemy: pico juice, wet beans, thin chips, and toppings that get baked when they should go on cold. That's why the cold toppings (pico, guac, crema) only go on after the oven, and why the pico goes on with a slotted spoon.
+- **What ruins this: soggy chips.** Every source of moisture is the enemy: pico juice, wet beans, thin chips, and toppings that get baked when they should go on cold. That's why the cold toppings (pico and crema) only go on after the oven, and why the pico goes on with a slotted spoon.
 - **What else ruins it: dry, flavorless chicken.** Use thighs, use the marinade, and pull at 175°F. Plain grilled breast chopped into cubes just disappears under the cheese.
 - **Bake it on the grill instead?** Once the chicken comes off, set the sheet pan on the **cool side** of the grill, close the lid, and give it **8–12 minutes** at around 400–450°F. It picks up a little smoke. Check the bottoms halfway, because direct heat under the pan burns chips fast.
 - **Want more heat?** Leave the seeds in the jalapeño, or mince 1 chipotle in adobo into the marinade for smoky heat. A few dashes of hot sauce in the crema works too.
