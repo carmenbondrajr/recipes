@@ -18,6 +18,7 @@ grocery department, then the method, then tips.
 - [🧀 Crunchy Tortellini](crunchy-tortellini.md) — *Tortellini with Peas & Pangrattato* · vegetarian, brown-butter Parmesan cream, toasted breadcrumb crunch
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
 - [🌮 Grill Night Tacos](grill-night-tacos.md) — *Grilled Steak Tacos* · lime-chili skirt steak, quick pico, grill-charred corn tortillas
+- [⚾ World Series Nachos](world-series-nachos.md) — *Grilled Chili-Lime Chicken Sheet Pan Nachos* · grilled thighs, double-layer bake, pico + guac + lime crema
 - [🫑 Quick Pepper Soup](quick-pepper-soup.md) — *Instant Pot Stuffed Pepper Soup*
 - [🍋 Sheet Pan Sunday](sheet-pan-sunday.md) — *Italian Sheet Pan Chicken*
 - [🥣 Italian Wedding Soup](italian-wedding-soup.md) — acini di pepe, one 1 lb batch of baked parmesan meatballs
