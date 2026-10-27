@@ -21,6 +21,7 @@
 - Honey (3 tbsp)
 - **Low-sodium soy sauce** (¼ cup). Check yours first. Regular soy works too, just use 3 tbsp plus 1 tbsp water so it's not a salt bomb
 - Cornstarch (2 tsp)
+- **Pickled ginger** (1 small jar, the sushi kind). Asian aisle near the soy sauce. Pink or pale both work, and it keeps for months in the fridge
 - *Optional:* toasted sesame oil, sesame seeds
 
 *You should have at home: neutral oil (vegetable/canola), kosher salt*
@@ -53,6 +54,7 @@
 - 2 garlic cloves, grated or minced
 - 2 tbsp neutral oil, divided
 - Kosher salt
+- Pickled ginger, a few slices per bowl
 
 ---
 
@@ -115,7 +117,8 @@ Sort everything into bowls by when it hits the pan, so each later step is one du
 
 ### 8️⃣ Bowl it up
 - Fluff the rice with a fork and pull out the ginger coins.
-- Pile **rice** into bowls, spoon the **turkey and veggies** over the top along with any sauce left in the pan, and finish with the **raw green onion tops** and sesame seeds if you have them.
+- Pile **rice** into bowls, spoon the **turkey and veggies** over the top along with any sauce left in the pan, and finish with the **raw green onion tops**, a few slices of **pickled ginger**, and sesame seeds if you have them.
+- The pickled ginger is the bright, tangy part. It cuts through the rich, savory glaze, so take a bit of it with each bite.
 
 ---
 
