@@ -1,7 +1,7 @@
 # 🫚 Ember Bowls
 ### Honey Ginger Turkey Rice Bowls with Carrots & Zucchini
 
-*One 12-inch skillet plus a saucepan for rice, ~40 minutes, makes 3 bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred in a dry pan first, which turns them sweet and smoky, and that's where the name comes from. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
+*One 12-inch skillet plus the Instant Pot for rice, ~40 minutes, makes 3 bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred in a dry pan first, which turns them sweet and smoky, and that's where the name comes from. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
 
 ## Shopping List
 
@@ -33,7 +33,7 @@
 
 *Rice*
 - 1½ cups jasmine rice
-- 2 cups water
+- 1½ cups water
 - 2 thin coins of ginger
 - ½ tsp kosher salt
 
@@ -56,12 +56,13 @@
 
 ---
 
-### 1️⃣ Start the rice · ⏱ 5 min, then 25 min hands-off
+### 1️⃣ Start the rice · ⏱ 5 min, then ~22 min hands-off
 - Rinse the **1½ cups jasmine rice** in a strainer under cold water, swishing with your fingers, until the water runs mostly clear. That rinses off loose surface starch, which is what makes rice gummy and clumpy.
 - Peel the ginger by scraping it with the edge of a spoon, which gets into the knobby bits without wasting any. Slice off **2 thin coins** for the rice.
-- Put the rice, **2 cups water**, the **ginger coins**, and **½ tsp salt** in a saucepan. Bring it to a boil, then put the lid on and turn it to the lowest setting for **15 minutes**.
-- Turn off the heat and leave it covered for **10 more minutes**. The rest finishes the cooking with steam so the bottom doesn't scorch.
-- ⚠️ **Don't lift the lid** during either part. Every peek lets the steam out, and the rice ends up crunchy on top and soggy on the bottom.
+- Put the rice, **1½ cups water**, the **ginger coins**, and **½ tsp salt** in the Instant Pot. Seal the valve and cook on **high pressure for 3 minutes**, then let it **natural release for 10 minutes** before venting. That's about 22 minutes total, counting the ~8 it takes to come to pressure.
+- It's 1:1 rice to water, less than on the stove, because nothing evaporates out of a sealed pot.
+- ⚠️ **Don't quick-release early.** The 10-minute natural release is when the rice finishes cooking with steam. Venting right away gets you wet, sputtery rice.
+- Once it's released it can sit on Keep Warm, so don't stress if the skillet runs long.
 - The ginger coins make the rice smell gently gingery without any bite. Fish them out before serving.
 
 ### 2️⃣ Prep · ⏱ 10 min
@@ -122,6 +123,7 @@ Sort everything into bowls by when it hits the pan, so each later step is one du
 - **What else ruins it: mushy zucchini.** High heat, thick cuts, salt at the end, and don't stir constantly.
 - **Stomach still iffy?** Drop to 1 garlic clove and skip the sesame oil. Garlic and rich fats are the two things in here most likely to bug a sensitive stomach. Ginger is your friend, so don't cut that back.
 - **Feeling 100% again?** Add a squirt of sriracha or a spoonful of chili crisp to the sauce, and a splash of rice vinegar (about 1 tsp) for brightness. You can also cook the rice in chicken broth instead of water.
+- **No Instant Pot?** Use **2 cups water** in a saucepan. Bring it to a boil, cover, and cook on the lowest setting for **15 minutes**, then turn off the heat and let it rest covered for **10 more**. Don't lift the lid during either part.
 - **Leftovers:** keep the rice and the turkey separately. Reheat the rice with a damp paper towel over the top so it steams back soft instead of drying out.
 - **No cornstarch?** Skip it and simmer the sauce a minute longer. It'll be thinner and soak into the rice more, which is pretty great too.
 - **Why ginger settles a stomach:** its spicy compounds, **gingerols** (fresh) and **shogaols** (cooked or dried), seem to calm the gut and the nausea signals it sends, which is why there's ginger ale on every sick day. People have used it for this for over 2,000 years. Chinese sailors chewed it for seasickness.
