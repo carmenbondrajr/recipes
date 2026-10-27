@@ -1,7 +1,7 @@
 # 🫚 Ember Bowls
 ### Honey Ginger Turkey Rice Bowls with Carrots & Zucchini
 
-*One 12-inch skillet plus the Instant Pot for rice, ~45 minutes, makes 3 big bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred in a dry pan first, which turns them sweet and smoky, and that's where the name comes from. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
+*One 10-inch Dutch oven plus the Instant Pot for rice, ~50 minutes, makes 3 big bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred first, which turns them sweet and smoky, and that's where the name comes from. The Dutch oven's tall walls hold all the turkey and doubled veggies at the end with room to toss. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
 
 ## Shopping List
 
@@ -52,7 +52,7 @@
 - 1 bunch green onions
 - 1½ tbsp grated ginger (the rest of the thumb)
 - 2 garlic cloves, grated or minced
-- 3 tbsp neutral oil, divided
+- 3 tbsp + 1 tsp neutral oil, divided
 - Kosher salt
 - Pickled ginger, a few slices per bowl
 
@@ -64,11 +64,11 @@
 - Put the rice, **1½ cups water**, the **ginger coins**, and **½ tsp salt** in the Instant Pot. Seal the valve and cook on **high pressure for 3 minutes**, then let it **natural release for 10 minutes** before venting. That's about 22 minutes total, counting the ~8 it takes to come to pressure.
 - It's 1:1 rice to water, less than on the stove, because nothing evaporates out of a sealed pot.
 - ⚠️ **Don't quick-release early.** The 10-minute natural release is when the rice finishes cooking with steam. Venting right away gets you wet, sputtery rice.
-- Once it's released it can sit on Keep Warm, so don't stress if the skillet runs long.
+- Once it's released it can sit on Keep Warm, so don't stress if the pot runs long.
 - The ginger coins make the rice smell gently gingery without any bite. Fish them out before serving.
 
 ### 2️⃣ Prep · ⏱ 10 min
-Sort everything into bowls by when it hits the pan, so each later step is one dump:
+Sort everything into bowls by when it hits the pot, so each later step is one dump:
 - **Bowl 1, the carrots:** peel the **4 carrots** and slice them into thin coins on a slant, about ⅛ inch. Thin slices cook all the way tender, which is easier on your stomach than crunchy carrots.
 - **Bowl 2, the zucchini:** halve the **2 zucchini** lengthwise and slice it into ½-inch half-moons. Thicker than the carrots, because zucchini cooks faster and goes mushy if it's cut thin.
 - **Bowl 3, the aromatics:**
@@ -81,51 +81,52 @@ Sort everything into bowls by when it hits the pan, so each later step is one du
   - **2 tsp cornstarch**
 - **Bowl 5, the green onions for charring:** trim the roots and cut the bunch in half crosswise where it turns dark green. Chop the **pale halves** into **1-inch pieces**.
 - **For the top:** thinly slice the **dark green halves** and set them aside.
+- **Halfway through prepping,** set the empty Dutch oven on **6**. A heavy pot needs about 5 minutes to heat evenly, and a cold spot in the middle means the onions char on one side of the pot and steam on the other.
 
 ### 3️⃣ Char the green onions · ⏱ 4–5 min
-- Put the **1-inch green onion pieces** in the dry skillet, no oil, and turn it to **6**.
+- Add **1 tsp oil** to the hot pot, then the **1-inch green onion pieces**. That's just a thin film, enough to keep the pot from heating totally dry, but not so much that the onions fry instead of char.
 - Leave them alone for **2 minutes**, then stir every minute or so for another **2–3 minutes**, until they're blistered with black spots and soft. A few extra-crispy bits are a bonus.
 - Tip them into a bowl and set them aside.
 - Charring cooks out the sharp raw-onion bite and brings out their sugar, so they taste sweet and a little smoky. Cooked onion is also gentler on your stomach than raw.
 - ⚠️ **Blistered, not burnt to ash.** You want black freckles on soft, bright green onions. If they're going black all over before they soften, turn the dial down to **5**.
 
 ### 4️⃣ Steam-sear the carrots · ⏱ 5–6 min
-- Keep the skillet on **6**. Add **1 tbsp oil** and heat until it shimmers.
-- Add the **carrots** and **¼ cup water**, then cover. Let them steam for **3–4 minutes**. This gets them tender through the middle, which the pan alone can't do before the outsides burn.
-- Uncover and let the water cook off. Once the pan sizzles again, leave the carrots alone for **1–2 minutes** so they pick up some golden spots.
+- Keep the pot on **6**. Add **1 tbsp oil** and heat until it shimmers.
+- Add the **carrots** and **¼ cup water**, then cover. Let them steam for **3–4 minutes**. This gets them tender through the middle, which the pot alone can't do before the outsides burn.
+- Uncover and let the water cook off. Once the pot sizzles again, leave the carrots alone for **1–2 minutes** so they pick up some golden spots.
 - Tip them into a big bowl.
 
-### 5️⃣ Brown the zucchini · ⏱ 4–8 min
-- Add **1 tbsp oil** and spread the **zucchini** across the pan, cut sides down, in one layer.
+### 5️⃣ Brown the zucchini, in two batches · ⏱ 8 min
+- Add **½ tbsp oil** and spread **half the zucchini** across the pot, cut sides down, in one layer.
 - Leave it alone for **2 minutes** until the bottoms are golden, then toss and cook **1–2 minutes** more. The zucchini should still hold its shape.
-- Season with a pinch of salt and tip it into the bowl with the carrots.
-- ⚠️ **One layer, even if that means two batches.** Two zucchini might not fit flat in the pan at once. Piled up, they trap their own steam and go soft and gray instead of golden. If the pan is full before you run out, brown the rest in a second round.
+- Season with a pinch of salt and tip it into the bowl with the carrots. Repeat with the other **½ tbsp oil** and the rest of the zucchini.
+- ⚠️ **Two batches, every time.** The flat bottom of a Dutch oven is smaller than its rim, so two zucchini won't fit in one layer. Piled up, they trap their own steam and go soft and gray instead of golden.
 - ⚠️ **Salt the zucchini at the end, not the start.** Salt pulls water out of zucchini, and the extra water makes it steam into mush instead of browning.
 
 ### 6️⃣ Brown the turkey · ⏱ 8–10 min
-- Keep the pan on **6** and add **1 tbsp oil**.
-- Press the **1 lb turkey** into the pan as one big flat patty and leave it alone for **4 minutes**, until the bottom is deep golden. Then flip it in sections and break it into bite-size crumbles.
+- Keep the pot on **6** and add **1 tbsp oil**.
+- Press the **1 lb turkey** into the pot as one big flat patty, edge to edge, and leave it alone for **5 minutes**, until the bottom is deep golden. Then flip it in sections and break it into bite-size crumbles.
 - Cook another **3–4 minutes**, until there's no pink left.
 - ⚠️ **Leave it alone at the start.** Ground turkey is lean and wet, and if you break it up right away it all lets off liquid at once, simmers, and turns gray and rubbery. A big patty sears like a burger first, so you get real browned flavor.
 - 🌡️ **Done at 165°F**, or when no pink is left in the biggest crumble.
-- Tilt the pan and spoon off the fat, leaving about **1 tbsp** behind. 85/15 gives off a fair amount, and a greasy bowl is the last thing a touchy stomach wants. The tablespoon you leave keeps the aromatics from sticking.
+- Tilt the pot and spoon off the fat, leaving about **1 tbsp** behind. 85/15 gives off a fair amount, and a greasy bowl is the last thing a touchy stomach wants. The tablespoon you leave keeps the aromatics from sticking.
 
 ### 7️⃣ Aromatics and glaze · ⏱ 3 min
-- Turn the dial down to **5** and add the **aromatics bowl** (ginger and garlic). Stir for **30–60 seconds**, just until it smells amazing.
+- Turn the dial down to **5** and wait **1 minute** before adding anything. A Dutch oven holds so much heat that it stays on full blast for a while after you turn it down. Then add the **aromatics bowl** (ginger and garlic). Stir for **30–60 seconds**, just until it smells amazing.
 - Whisk the **sauce** again, since the cornstarch settles to the bottom, and pour it in.
 - Let it bubble for **1–2 minutes**, stirring, until it turns glossy and coats the turkey.
 - Add the **veggies** and the **charred green onions** back in and toss to coat. Drizzle with **1 tsp toasted sesame oil** if you're using it.
-- ⚠️ **Watch the garlic and the honey.** Garlic burns in about a minute on high heat and turns bitter, which is why the dial comes down first. Honey scorches quickly too, so the glaze is a short simmer, not a long reduce. If it gets too thick, add a splash of water.
+- ⚠️ **Watch the garlic and the honey.** Garlic burns in about a minute on high heat and turns bitter, which is why the dial comes down first. Honey scorches quickly too, so the glaze is a short simmer, not a long reduce. If it's going too fast, lift the pot off the burner for a moment. If it gets too thick, add a splash of water.
 
 ### 8️⃣ Bowl it up
 - Fluff the rice with a fork and pull out the ginger coins.
-- Pile **rice** into bowls, spoon the **turkey and veggies** over the top along with any sauce left in the pan, and finish with the **raw green onion tops**, a few slices of **pickled ginger**, and sesame seeds if you have them.
+- Pile **rice** into bowls, spoon the **turkey and veggies** over the top along with any sauce left in the pot, and finish with the **raw green onion tops**, a few slices of **pickled ginger**, and sesame seeds if you have them.
 - The pickled ginger is the bright, tangy part. It cuts through the rich, savory glaze, so take a bit of it with each bite.
 
 ---
 
 ## Tips & Notes
-- **What ruins this: gray, steamed turkey.** Crowding and stirring too early are the usual culprits. A 12-inch skillet fits 1 lb as one patty. In the 10-inch Dutch oven, brown it in two batches.
+- **What ruins this: gray, steamed turkey.** Stirring too early is the usual culprit. In the Dutch oven, 1 lb makes a patty about ¾ inch thick. That's fine, because it sears like one big burger rather than a crowd of wet crumbles.
 - **What else ruins it: mushy zucchini.** High heat, thick cuts, one layer, salt at the end, and don't stir constantly.
 - **Why so many veggies:** with less veg, the turkey takes over and the whole bowl tastes heavy and fatty. Twice the veggies balances it out. Every bite gets some veg and it tastes lighter.
 - **Stomach still iffy?** Drop to 1 garlic clove and skip the sesame oil. Garlic and rich fats are the two things in here most likely to bug a sensitive stomach. Ginger is your friend, so don't cut that back.
