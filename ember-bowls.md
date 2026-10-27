@@ -1,7 +1,7 @@
-# 🫚 Tummy Tamer Bowls
+# 🫚 Ember Bowls
 ### Honey Ginger Turkey Rice Bowls with Carrots & Zucchini
 
-*One 12-inch skillet plus a saucepan for rice, ~40 minutes, makes 3 bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
+*One 12-inch skillet plus a saucepan for rice, ~40 minutes, makes 3 bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred in a dry pan first, which turns them sweet and smoky, and that's where the name comes from. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
 
 ## Shopping List
 
@@ -71,26 +71,32 @@ Sort everything into bowls by when it hits the pan, so each later step is one du
 - **Bowl 3, the aromatics:**
   - **1½ tbsp grated ginger** (the rest of the thumb, grated on a microplane or the small holes of a box grater)
   - **2 garlic cloves**, grated or minced
-  - The **white and light green parts** of the green onions, thinly sliced
 - **Bowl 4, the sauce.** Whisk it together until the cornstarch fully dissolves:
   - **¼ cup low-sodium soy sauce**
   - **3 tbsp honey**
   - **¼ cup water**
   - **2 tsp cornstarch**
-- **For the top:** thinly slice the **dark green parts** of the green onions and set them aside.
+- **The green onions:** trim off the roots and cut off the **dark green tops**. Leave the **white and light green parts** whole for charring. Thinly slice the tops and set them aside for the end.
 
-### 3️⃣ Steam-sear the carrots · ⏱ 5–6 min
-- Heat **1 tbsp oil** in the skillet on **6** until it shimmers.
+### 3️⃣ Char the green onions · ⏱ 4–5 min
+- Put the **whole white and light green onion pieces** in the dry skillet, no oil, and turn it to **6**.
+- Leave them alone for **2 minutes**, then roll them over and cook another **2–3 minutes**, until they're blistered with black spots and floppy-soft.
+- Move them to the cutting board, let them cool a minute, and cut them into **1-inch pieces**.
+- Charring cooks out the sharp raw-onion bite and brings out their sugar, so they taste sweet and a little smoky. Cooked onion is also gentler on your stomach than raw.
+- ⚠️ **Blistered, not burnt to ash.** You want black freckles on soft, bright green onions. If they're going black all over before they soften, turn the dial down to **5**.
+
+### 4️⃣ Steam-sear the carrots · ⏱ 5–6 min
+- Keep the skillet on **6**. Add **1 tbsp oil** and heat until it shimmers.
 - Add the **carrots** and **3 tbsp water**, then cover. Let them steam for **3 minutes**. This gets them tender through the middle, which the pan alone can't do before the outsides burn.
 - Uncover and let the water cook off. Once the pan sizzles again, leave the carrots alone for **1–2 minutes** so they pick up some golden spots.
 
-### 4️⃣ Brown the zucchini · ⏱ 4 min
+### 5️⃣ Brown the zucchini · ⏱ 4 min
 - Push the carrots to the edges and add the **zucchini** to the middle in one layer.
 - Leave it alone for **2 minutes** until the bottoms are golden, then toss everything and cook **1–2 minutes** more. The zucchini should still hold its shape.
 - Season with a pinch of salt and tip all the veggies into a bowl.
 - ⚠️ **Salt the zucchini at the end, not the start.** Salt pulls water out of zucchini, and the extra water makes it steam into mush instead of browning.
 
-### 5️⃣ Brown the turkey · ⏱ 8–10 min
+### 6️⃣ Brown the turkey · ⏱ 8–10 min
 - Keep the pan on **6** and add **1 tbsp oil**.
 - Press the **1 lb turkey** into the pan as one big flat patty and leave it alone for **4 minutes**, until the bottom is deep golden. Then flip it in sections and break it into bite-size crumbles.
 - Cook another **3–4 minutes**, until there's no pink left.
@@ -98,16 +104,16 @@ Sort everything into bowls by when it hits the pan, so each later step is one du
 - 🌡️ **Done at 165°F**, or when no pink is left in the biggest crumble.
 - Tilt the pan and spoon off the fat, leaving about **1 tbsp** behind. 85/15 gives off a fair amount, and a greasy bowl is the last thing a touchy stomach wants. The tablespoon you leave keeps the aromatics from sticking.
 
-### 6️⃣ Aromatics and glaze · ⏱ 3 min
-- Turn the dial down to **5** and add the **aromatics bowl** (ginger, garlic, green onion whites). Stir for **30–60 seconds**, just until it smells amazing.
+### 7️⃣ Aromatics and glaze · ⏱ 3 min
+- Turn the dial down to **5** and add the **aromatics bowl** (ginger and garlic). Stir for **30–60 seconds**, just until it smells amazing.
 - Whisk the **sauce** again, since the cornstarch settles to the bottom, and pour it in.
 - Let it bubble for **1–2 minutes**, stirring, until it turns glossy and coats the turkey.
-- Add the **veggies** back in and toss to coat. Drizzle with **1 tsp toasted sesame oil** if you're using it.
+- Add the **veggies** and the **charred green onions** back in and toss to coat. Drizzle with **1 tsp toasted sesame oil** if you're using it.
 - ⚠️ **Watch the garlic and the honey.** Garlic burns in about a minute on high heat and turns bitter, which is why the dial comes down first. Honey scorches quickly too, so the glaze is a short simmer, not a long reduce. If it gets too thick, add a splash of water.
 
-### 7️⃣ Bowl it up
+### 8️⃣ Bowl it up
 - Fluff the rice with a fork and pull out the ginger coins.
-- Pile **rice** into bowls, spoon the **turkey and veggies** over the top along with any sauce left in the pan, and finish with the **green onion tops** and sesame seeds if you have them.
+- Pile **rice** into bowls, spoon the **turkey and veggies** over the top along with any sauce left in the pan, and finish with the **raw green onion tops** and sesame seeds if you have them.
 
 ---
 
@@ -119,4 +125,5 @@ Sort everything into bowls by when it hits the pan, so each later step is one du
 - **Leftovers:** keep the rice and the turkey separately. Reheat the rice with a damp paper towel over the top so it steams back soft instead of drying out.
 - **No cornstarch?** Skip it and simmer the sauce a minute longer. It'll be thinner and soak into the rice more, which is pretty great too.
 - **Why ginger settles a stomach:** its spicy compounds, **gingerols** (fresh) and **shogaols** (cooked or dried), seem to calm the gut and the nausea signals it sends, which is why there's ginger ale on every sick day. People have used it for this for over 2,000 years. Chinese sailors chewed it for seasickness.
-- **The name:** "ginger" goes back through Latin *zingiber* and Greek *zingiberis* to the Sanskrit *śṛṅgavera*, roughly "horn-shaped," for the knobby rhizome. Which, technically, is what a thumb of ginger is: an underground stem, not a root.
+- **Ginger's name:** "ginger" goes back through Latin *zingiber* and Greek *zingiberis* to the Sanskrit *śṛṅgavera*, roughly "horn-shaped," for the knobby rhizome. Which, technically, is what a thumb of ginger is: an underground stem, not a root.
+- **Ember's name:** from Old English *æmyrge*, "glowing ash." The Firecracker Meatballs are the loud cousin. These are the quiet, smoky one.
