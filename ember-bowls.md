@@ -79,7 +79,7 @@ Sort everything into bowls by when it hits the pan, so each later step is one du
   - **2 tsp cornstarch**
 - **The green onions** get cut into two parts, one for charring and one for the top:
   - Line up the whole bunch on the cutting board with the roots together. Slice off the hairy roots, just the very end.
-  - Cut straight across the whole bunch where the onions go from pale to dark green, about **halfway up (4–5 inches from the root end)**. Don't fuss over the exact spot.
+  - Cut the bunch **in half the short way**, like snapping a pencil in two, *not* lengthwise like the zucchini. Make the cut where the onions go from pale to dark green, about **halfway up (4–5 inches from the root end)**. Don't fuss over the exact spot. You end up with a pile of short pale sticks and a pile of dark green tops.
   - **Bottom halves (white and light green):** leave them whole, as long sticks. They char whole so they don't fall through or scatter around the pan. Set them on the cutting board.
   - **Top halves (dark green):** slice them thin, about ⅛ inch, like little rings. These go on raw at the end.
 
