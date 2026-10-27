@@ -21,6 +21,7 @@
 - Honey (3 tbsp)
 - **Low-sodium soy sauce** (¼ cup). Check yours first. Regular soy works too, just use 3 tbsp plus 1 tbsp water so it's not a salt bomb
 - Cornstarch (2 tsp)
+- **Rice vinegar** (1 tbsp). Get plain, not "seasoned" — seasoned has added sugar and salt
 - **Pickled ginger** (1 small jar, the sushi kind). Asian aisle near the soy sauce. Pink or pale both work, and it keeps for months in the fridge
 - *Optional:* toasted sesame oil, sesame seeds
 
@@ -43,6 +44,7 @@
 - 3 tbsp honey
 - ¼ cup water
 - 2 tsp cornstarch
+- 1 tbsp rice vinegar
 - 1 tsp toasted sesame oil (optional)
 
 *Everything else*
@@ -79,6 +81,7 @@ Sort everything into bowls by when it hits the pot, so each later step is one du
   - **3 tbsp honey**
   - **¼ cup water**
   - **2 tsp cornstarch**
+  - **1 tbsp rice vinegar**. It's the tangy note that keeps the soy and honey from tasting heavy and one-note
 - **Bowl 5, the green onions for charring:** trim the roots and cut **both bunches** in half crosswise where it turns dark green. Chop the **pale halves** into **1-inch pieces**.
 - **For the top:** thinly slice the **dark green halves** and set them aside.
 - **Halfway through prepping,** set the empty Dutch oven on **6**. A heavy pot needs about 5 minutes to heat evenly, and a cold spot in the middle means the onions char on one side of the pot and steam on the other.
@@ -130,7 +133,7 @@ Sort everything into bowls by when it hits the pot, so each later step is one du
 - **What else ruins it: mushy zucchini.** High heat, thick cuts, one layer, salt at the end, and don't stir constantly.
 - **Why so many veggies:** with less veg, the turkey takes over and the whole bowl tastes heavy and fatty. Lots of carrots and a double dose of charred green onions balance it out. Every bite gets some veg and it tastes lighter.
 - **Stomach still iffy?** Drop to 1 garlic clove and skip the sesame oil. Garlic and rich fats are the two things in here most likely to bug a sensitive stomach. Ginger is your friend, so don't cut that back.
-- **Feeling 100% again?** Add a squirt of sriracha or a spoonful of chili crisp to the sauce, and a splash of rice vinegar (about 1 tsp) for brightness. You can also cook the rice in chicken broth instead of water.
+- **Feeling 100% again?** Add a squirt of sriracha or a spoonful of chili crisp to the sauce. You can also cook the rice in chicken broth instead of water.
 - **No Instant Pot?** Use **2 cups water** in a saucepan. Bring it to a boil, cover, and cook on the lowest setting for **15 minutes**, then turn off the heat and let it rest covered for **10 more**. Don't lift the lid during either part.
 - **Leftovers:** keep the rice and the turkey separately. Reheat the rice with a damp paper towel over the top so it steams back soft instead of drying out.
 - **No cornstarch?** Skip it and simmer the sauce a minute longer. It'll be thinner and soak into the rice more, which is pretty great too.
