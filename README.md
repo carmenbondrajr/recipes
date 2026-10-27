@@ -26,4 +26,4 @@ grocery department, then the method, then tips.
 - [🍲 Pasta Fazool](pasta-fazool.md) — *Instant Pot Pasta Fagioli* · ham + pepperoni base, three beans, Dutch oven option
 - [🇸🇪 IKEA Meatballs](ikea-meatballs.md) — *Swedish Meatballs with Mashed Potatoes* · IKEA's official soy-Dijon cream gravy
 - [🍎 Party Pot Cider](party-pot-cider.md) — *Stovetop Mulled Cider* · all-day party pot, whole spices, spike by the mug
-- [🫚 Ember Bowls](ember-bowls.md) — *Honey Ginger Turkey Rice Bowls* · gentle on the stomach, charred green onions, ground turkey, carrots + zucchini, ginger-scented jasmine rice
+- [🫚 Turkey Honey Ginger Bowls](turkey-honey-ginger-bowls.md) · gentle on the stomach, charred green onions, ground turkey, carrots + zucchini, ginger-scented jasmine rice

@@ -1,7 +1,7 @@
-# 🫚 Ember Bowls
-### Honey Ginger Turkey Rice Bowls with Carrots & Zucchini
+# 🫚 Turkey Honey Ginger Bowls
+### with Charred Green Onions, Carrots & Zucchini
 
-*One 10-inch Dutch oven plus the Instant Pot for rice, ~45 minutes, makes 3 big bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred first, which turns them sweet and smoky, and that's where the name comes from. The Dutch oven's tall walls hold all the turkey and veggies at the end with room to toss. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
+*One 10-inch Dutch oven plus the Instant Pot for rice, ~45 minutes, makes 3 big bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred first, which turns them sweet and smoky. The Dutch oven's tall walls hold all the turkey and veggies at the end with room to toss. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
 
 ## Shopping List
 
@@ -139,4 +139,3 @@ Sort everything into bowls by when it hits the pot, so each later step is one du
 - **No cornstarch?** Skip it and simmer the sauce a minute longer. It'll be thinner and soak into the rice more, which is pretty great too.
 - **Why ginger settles a stomach:** its spicy compounds, **gingerols** (fresh) and **shogaols** (cooked or dried), seem to calm the gut and the nausea signals it sends, which is why there's ginger ale on every sick day. People have used it for this for over 2,000 years. Chinese sailors chewed it for seasickness.
 - **Ginger's name:** "ginger" goes back through Latin *zingiber* and Greek *zingiberis* to the Sanskrit *śṛṅgavera*, roughly "horn-shaped," for the knobby rhizome. Which, technically, is what a thumb of ginger is: an underground stem, not a root.
-- **Ember's name:** from Old English *æmyrge*, "glowing ash." The Firecracker Meatballs are the loud cousin. These are the quiet, smoky one.
