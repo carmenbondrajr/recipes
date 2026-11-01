@@ -12,6 +12,7 @@
 - Shallots (3 medium). Firm, with dry papery skins. Or skip them entirely and grab a second bell pepper
 - Lemon (1)
 - Fresh basil (1 small pack, ~½ cup leaves)
+- Garlic (1 head). You'll use about 6 cloves
 
 **Meat**
 - **Boneless skinless chicken breasts, ~1½ lb** (2 large)
@@ -25,7 +26,6 @@
 - **Orzo (1½ cups dry / ~9 oz).** A 1 lb box is about 2⅔ cups, so you'll use a little over half
 - **Low-sodium chicken broth (one 32 oz carton).** You'll use about 3½ cups. Low-sodium matters here, because the broth cooks down into the orzo and the parm brings plenty of salt
 - Panko breadcrumbs (¾ cup)
-- Minced garlic (jar)
 - Dijon mustard (1 tsp). Check yours first
 
 *You should have at home: olive oil, kosher salt, black pepper, garlic powder, Italian seasoning, paprika*
@@ -52,7 +52,7 @@
 - Zest of 1 lemon (save the lemon itself)
 - 3 tbsp full-fat sour cream
 - 1 tsp Dijon mustard
-- 1 tsp minced garlic
+- 1 clove garlic, finely grated or minced
 
 *Veggies*
 - 1 pint cherry tomatoes (~2 cups), left whole
@@ -60,7 +60,7 @@
 - 1 bell pepper
 - 3 medium shallots
 - 2 tbsp olive oil
-- 2 tsp minced garlic
+- 5 cloves garlic, smashed
 - ½ tsp kosher salt
 - ½ tsp Italian seasoning
 - Black pepper
@@ -88,7 +88,8 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
   - **1 zucchini**, halved lengthwise and cut into **¾-inch half-moons**. Thinner pieces go mushy before the tomatoes are done
   - **1 bell pepper**, cut into **1-inch squares**
   - **3 shallots**, peeled and halved lengthwise through the root so the layers hold together. Quarter any big ones. Roasted, they go soft and jammy and lose the sharp raw-onion bite completely
-  - **2 tbsp olive oil**, **2 tsp minced garlic**, **½ tsp salt**, **½ tsp Italian seasoning**, and pepper. Toss until everything's glossy. Mixed into the oil and tucked between the veggies, the garlic doesn't burn the way it does sitting bare on a 450°F pan.
+  - **5 garlic cloves**, peeled and smashed with the flat of your knife so they crack open but stay in one piece. Whole cloves roast soft, sweet and jammy at 450°F, where minced garlic would scorch
+  - **2 tbsp olive oil**, **½ tsp salt**, **½ tsp Italian seasoning**, and pepper. Toss until everything's glossy, and tuck the garlic between the veggies when you spread them out so it's not sitting bare on the hot pan.
 - **Bowl 2, the crumbs.** Rub these together with your fingers until it looks like damp sand:
   - **¾ cup panko**
   - **½ cup Parmesan**
@@ -96,7 +97,7 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
   - **1 tsp garlic powder**, **1 tsp Italian seasoning**, **½ tsp paprika**
   - **Zest of the lemon**
   - The oil is what toasts the panko. Dry crumbs stay pale and sandy in the oven no matter how long they go.
-- **Bowl 3, the glue.** Stir together **3 tbsp sour cream**, **1 tsp Dijon**, and **1 tsp minced garlic**.
+- **Bowl 3, the glue.** Stir together **3 tbsp sour cream**, **1 tsp Dijon**, and **1 clove garlic**, grated on a microplane or minced fine. Chunks would make lumps under the crust.
 - **For the orzo:** measure out the **1½ cups orzo** and **3 cups broth** and set them by the stove, with the Dutch oven ready on a burner. Once the pans are in, things move fast.
 - **The chicken, last,** so raw chicken never touches the veggie board:
   - Lay each breast flat, hold it down with your palm, and slice it **horizontally** into **2 thin cutlets**, about **½ inch** thick. If the thick end is still chunky, press it down with the heel of your hand.
@@ -131,7 +132,7 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
 
 ### 6️⃣ Finish the orzo · ⏱ 3 min
 - Turn off the burner. Scrape the **whole veggie pan** into the orzo pot, including every bit of the garlicky oil and tomato juice. That's the sauce.
-- Smash about **half the tomatoes** against the side of the pot with a spoon.
+- Smash about **half the tomatoes** and all the **roasted garlic cloves** against the side of the pot with a spoon. The garlic is soft enough to melt right into the sauce.
 - Add the **¼ cup Parmesan**, tear in the **basil**, and squeeze in **half the lemon**. Stir in more **broth**, a splash at a time, until it's creamy and loose.
 - Because nothing gets drained, the starch from the orzo stays in the pot. That's what pulls the oil, tomato juice and parm together into a creamy, almost risotto-like sauce.
 
