@@ -1,7 +1,7 @@
-# 🫚 Turkey Honey Ginger Bowls
+# 🫚 Honey Ginger Chicken Bowls
 ### with Charred Green Onions, Carrots & Zucchini
 
-*One 10-inch Dutch oven plus the Instant Pot for rice, ~45 minutes, makes 3 big bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, the turkey fat mostly drained off, and the veggies cooked tender instead of crunchy. The green onions get charred first, which turns them sweet and smoky. The Dutch oven's tall walls hold all the turkey and veggies at the end with room to toss. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
+*One 10-inch Dutch oven plus the Instant Pot for rice, ~50 minutes, makes 3 big bowls (dinner for 2 plus a lunch). Built for a slightly grumpy stomach: lots of fresh ginger, no chili heat, lean chicken breast instead of anything greasy, and the veggies cooked tender instead of crunchy. The green onions get charred first, which turns them sweet and smoky. The Dutch oven's tall walls hold all the chicken and veggies at the end with room to toss. Heat is given as numbers on the stove dial, same as [Chickpea Chops](chickpea-chops.md): **6** for browning, **5** for everything else.*
 
 ## Shopping List
 
@@ -13,14 +13,15 @@
 - Garlic (2 cloves)
 
 **Meat**
-- Ground turkey, 85/15 (1 lb)
-  - 93/7 works too but browns less and can go dry. If that's what you have, add an extra splash of oil
+- Boneless skinless chicken breast (1 lb, about 2 small or 1 big one)
+  - Chicken tenders work too and save you some trimming
+  - Pivot: boneless thighs are juicier and much harder to overcook. Same cut and timing, and they're done at 175°F
 
 **Pantry / Center Aisles**
 - Jasmine rice (1½ cups dry)
 - Honey (3 tbsp)
 - **Low-sodium soy sauce** (¼ cup). Check yours first. Regular soy works too, just use 3 tbsp plus 1 tbsp water so it's not a salt bomb
-- Cornstarch (2 tsp)
+- Cornstarch (1 tbsp)
 - **Rice vinegar** (1 tbsp). Get plain, not "seasoned" — seasoned has added sugar and salt
 - **Pickled ginger** (1 small jar, the sushi kind). Asian aisle near the soy sauce. Pink or pale both work, and it keeps for months in the fridge
 - *Optional:* toasted sesame oil, sesame seeds
@@ -48,13 +49,14 @@
 - 1 tsp toasted sesame oil (optional)
 
 *Everything else*
-- 1 lb ground turkey (85/15)
+- 1 lb boneless skinless chicken breast
+- 1 tsp cornstarch + ½ tsp kosher salt, for the chicken
 - 4 medium carrots
 - 1 medium zucchini
 - 2 bunches green onions
 - 1½ tbsp grated ginger (the rest of the thumb)
 - 2 garlic cloves, grated or minced
-- 3 tbsp + 2 tsp neutral oil, divided
+- ¼ cup neutral oil, divided
 - Kosher salt
 - Pickled ginger, a few slices per bowl
 
@@ -69,7 +71,7 @@
 - Once it's released it can sit on Keep Warm, so don't stress if the pot runs long.
 - The ginger coins make the rice smell gently gingery without any bite. Fish them out before serving.
 
-### 2️⃣ Prep · ⏱ 10 min
+### 2️⃣ Prep · ⏱ 15 min
 Sort everything into bowls by when it hits the pot, so each later step is one dump:
 - **Bowl 1, the carrots:** peel the **4 carrots** and slice them into thin coins on a slant, about ⅛ inch. Thin slices cook all the way tender, which is easier on your stomach than crunchy carrots.
 - **Bowl 2, the zucchini:** halve the **zucchini** lengthwise and slice it into ½-inch half-moons. Thicker than the carrots, because zucchini cooks faster and goes mushy if it's cut thin.
@@ -84,6 +86,9 @@ Sort everything into bowls by when it hits the pot, so each later step is one du
   - **1 tbsp rice vinegar**. It's the tangy note that keeps the soy and honey from tasting heavy and one-note
 - **Bowl 5, the green onions for charring:** trim the roots and cut **both bunches** in half crosswise where it turns dark green. Chop the **pale halves** into **1-inch pieces**.
 - **For the top:** thinly slice the **dark green halves** and set them aside.
+- **Bowl 6, the chicken.** Cut it last, so raw chicken never touches the veggie board:
+  - Pat the **1 lb chicken breast** dry and cut it into even **¾-inch bite-size pieces**. Even pieces all finish at the same moment, so none dry out waiting on the big ones.
+  - Toss with **1 tsp cornstarch** and **½ tsp salt** until there's no dry powder left. The thin cornstarch coat browns fast and shields the outside from drying out, and it gives the glaze something to cling to.
 - **Halfway through prepping,** set the empty Dutch oven on **6**. A heavy pot needs about 5 minutes to heat evenly, and a cold spot in the middle means the onions char on one side of the pot and steam on the other.
 
 ### 3️⃣ Char the green onions · ⏱ 5–6 min
@@ -106,36 +111,38 @@ Sort everything into bowls by when it hits the pot, so each later step is one du
 - ⚠️ **One layer.** Piled up, zucchini traps its own steam and goes soft and gray instead of golden. One zucchini just fits the bottom of the Dutch oven.
 - ⚠️ **Salt the zucchini at the end, not the start.** Salt pulls water out of zucchini, and the extra water makes it steam into mush instead of browning.
 
-### 6️⃣ Brown the turkey · ⏱ 8–10 min
-- Keep the pot on **6** and add **1 tbsp oil**.
-- Press the **1 lb turkey** into the pot as one big flat patty, edge to edge, and leave it alone for **5 minutes**, until the bottom is deep golden. Then flip it in sections and break it into bite-size crumbles.
-- Cook another **3–4 minutes**, until there's no pink left.
-- ⚠️ **Leave it alone at the start.** Ground turkey is lean and wet, and if you break it up right away it all lets off liquid at once, simmers, and turns gray and rubbery. A big patty sears like a burger first, so you get real browned flavor.
-- 🌡️ **Done at 165°F**, or when no pink is left in the biggest crumble.
-- Tilt the pot and spoon off the fat, leaving about **1 tbsp** behind. 85/15 gives off a fair amount, and a greasy bowl is the last thing a touchy stomach wants. The tablespoon you leave keeps the aromatics from sticking.
+### 6️⃣ Sear the chicken · ⏱ 6–7 min
+- Keep the pot on **6**, add **1 tbsp oil**, and heat until it shimmers.
+- Spread the **chicken** across the pot in one layer and leave it alone for **3 minutes**, until the bottoms are deep golden.
+- Toss and cook **2–3 minutes** more, just until the biggest piece has no pink in the middle.
+- Tip it into the bowl with the veggies, juices and all.
+- ⚠️ **Don't stir early.** It sticks at first, then lets go on its own once it's browned. Scraping it loose too soon tears off the golden crust and leaves it in the pot.
+- ⚠️ **Overcooked breast goes dry and stringy**, and it only takes a couple minutes past done. That's why it leaves the pot now instead of simmering in the sauce.
+- 🌡️ **Pull at 160°F.** It coasts up to 165°F while it rests in the bowl.
 
-### 7️⃣ Aromatics and glaze · ⏱ 3 min
-- Turn the dial down to **5** and wait **1 minute** before adding anything. A Dutch oven holds so much heat that it stays on full blast for a while after you turn it down. Then add the **aromatics bowl** (ginger and garlic). Stir for **30–60 seconds**, just until it smells amazing.
-- Whisk the **sauce** again, since the cornstarch settles to the bottom, and pour it in.
-- Let it bubble for **1–2 minutes**, stirring, until it turns glossy and coats the turkey.
-- Add the **veggies** and the **charred green onions** back in and toss to coat. Drizzle with **1 tsp toasted sesame oil** if you're using it.
+### 7️⃣ Aromatics and glaze · ⏱ 3–4 min
+- Turn the dial down to **5** and wait **1 minute** before adding anything. A Dutch oven holds so much heat that it stays on full blast for a while after you turn it down. Then add **1 tsp oil** and the **aromatics bowl** (ginger and garlic). Stir for **30–60 seconds**, just until it smells amazing.
+- Whisk the **sauce** again, since the cornstarch settles to the bottom, and pour it in. It'll lift up the browned bits the chicken left behind, which is free flavor.
+- Let it bubble for **1–2 minutes**, stirring, until it turns glossy.
+- Add the **chicken**, **veggies**, and **charred green onions** back in and toss for about **1 minute**, just to coat and warm through. Drizzle with **1 tsp toasted sesame oil** if you're using it.
 - ⚠️ **Watch the garlic and the honey.** Garlic burns in about a minute on high heat and turns bitter, which is why the dial comes down first. Honey scorches quickly too, so the glaze is a short simmer, not a long reduce. If it's going too fast, lift the pot off the burner for a moment. If it gets too thick, add a splash of water.
 
 ### 8️⃣ Bowl it up
 - Fluff the rice with a fork and pull out the ginger coins.
-- Pile **rice** into bowls, spoon the **turkey and veggies** over the top along with any sauce left in the pot, and finish with the **raw green onion tops**, a few slices of **pickled ginger**, and sesame seeds if you have them.
+- Pile **rice** into bowls, spoon the **chicken and veggies** over the top along with any sauce left in the pot, and finish with the **raw green onion tops**, a few slices of **pickled ginger**, and sesame seeds if you have them.
 - The pickled ginger is the bright, tangy part. It cuts through the rich, savory glaze, so take a bit of it with each bite.
 
 ---
 
 ## Tips & Notes
-- **What ruins this: gray, steamed turkey.** Stirring too early is the usual culprit. In the Dutch oven, 1 lb makes a patty about ¾ inch thick. That's fine, because it sears like one big burger rather than a crowd of wet crumbles.
+- **What ruins this: dry, stringy chicken.** Uneven pieces, skipping the cornstarch, or letting it simmer in the sauce. A thermometer is the easiest fix. Pull at 160°F and trust the carryover.
 - **What else ruins it: mushy zucchini.** High heat, thick cuts, one layer, salt at the end, and don't stir constantly.
-- **Why so many veggies:** with less veg, the turkey takes over and the whole bowl tastes heavy and fatty. Lots of carrots and a double dose of charred green onions balance it out. Every bite gets some veg and it tastes lighter.
+- **Why so many veggies:** with less veg, it's just chicken and sweet glaze, and the bowl tastes heavy and one-note. Lots of carrots and a double dose of charred green onions balance it out. Every bite gets some veg and it tastes lighter.
 - **Stomach still iffy?** Drop to 1 garlic clove and skip the sesame oil. Garlic and rich fats are the two things in here most likely to bug a sensitive stomach. Ginger is your friend, so don't cut that back.
 - **Feeling 100% again?** Add a squirt of sriracha or a spoonful of chili crisp to the sauce. You can also cook the rice in chicken broth instead of water.
 - **No Instant Pot?** Use **2 cups water** in a saucepan. Bring it to a boil, cover, and cook on the lowest setting for **15 minutes**, then turn off the heat and let it rest covered for **10 more**. Don't lift the lid during either part.
-- **Leftovers:** keep the rice and the turkey separately. Reheat the rice with a damp paper towel over the top so it steams back soft instead of drying out.
+- **Leftovers:** keep the rice and the chicken separately. Reheat both with a damp paper towel over the top, at half power for the chicken, so they steam back soft instead of drying out.
+- **The cornstarch trick** is a home version of **velveting**, the Chinese restaurant technique that makes stir-fry chicken so silky. The full version adds egg white and a quick blanch in oil or water.
 - **No cornstarch?** Skip it and simmer the sauce a minute longer. It'll be thinner and soak into the rice more, which is pretty great too.
 - **Why ginger settles a stomach:** its spicy compounds, **gingerols** (fresh) and **shogaols** (cooked or dried), seem to calm the gut and the nausea signals it sends, which is why there's ginger ale on every sick day. People have used it for this for over 2,000 years. Chinese sailors chewed it for seasickness.
 - **Ginger's name:** "ginger" goes back through Latin *zingiber* and Greek *zingiberis* to the Sanskrit *śṛṅgavera*, roughly "horn-shaped," for the knobby rhizome. Which, technically, is what a thumb of ginger is: an underground stem, not a root.
