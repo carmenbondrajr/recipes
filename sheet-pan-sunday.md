@@ -19,12 +19,13 @@
 
 **Dairy**
 - **Parmesan, grated (¾ cup).** A wedge you grate yourself, or the tub of fresh-grated. Not the shelf-stable shaker can, which doesn't brown or melt the same
+- **Sour cream, full-fat (3 tbsp).** Light sour cream is watery and can make the crust soggy
 
 **Pantry / Center Aisles**
 - **Shelf-stable potato gnocchi (1 lb pack).** Near the dry pasta, in a vacuum-sealed pouch. Skip the frozen kind, which steams instead of crisping
 - Panko breadcrumbs (¾ cup)
 - Minced garlic (jar)
-- Mayonnaise (3 tbsp) and Dijon mustard (1 tsp). Check yours first
+- Dijon mustard (1 tsp). Check yours first
 
 *You should have at home: olive oil, kosher salt, black pepper, garlic powder, Italian seasoning, paprika*
 
@@ -47,7 +48,7 @@
 - 1 tsp Italian seasoning
 - ½ tsp paprika
 - Zest of 1 lemon (save the lemon itself)
-- 3 tbsp mayonnaise
+- 3 tbsp full-fat sour cream
 - 1 tsp Dijon mustard
 - 1 tsp minced garlic
 
@@ -93,16 +94,17 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
   - **1 tsp garlic powder**, **1 tsp Italian seasoning**, **½ tsp paprika**
   - **Zest of the lemon**
   - The oil is what toasts the panko. Dry crumbs stay pale and sandy in the oven no matter how long they go.
-- **Bowl 4, the glue.** Stir together **3 tbsp mayo**, **1 tsp Dijon**, and **1 tsp minced garlic**.
+- **Bowl 4, the glue.** Stir together **3 tbsp sour cream**, **1 tsp Dijon**, and **1 tsp minced garlic**.
 - **The chicken, last,** so raw chicken never touches the veggie board:
   - Lay each breast flat, hold it down with your palm, and slice it **horizontally** into **2 thin cutlets**, about **½ inch** thick. If the thick end is still chunky, press it down with the heel of your hand.
   - Pat them dry and season **both sides** with **1 tsp salt** and pepper.
   - Even thickness matters more than anything else here. A cutlet that's thick at one end and thin at the other is dry at one end and raw at the other.
 
 ### 3️⃣ Crust the cutlets · ⏱ 5 min
-- Lay the cutlets on the cutting board. Spread the **mayo glue** thinly over the **tops only**.
+- Lay the cutlets on the cutting board. Spread the **sour cream glue** in a thin layer over the **tops only**, just enough to look shiny.
 - Pile the **crumbs** on top and press them down firmly with your palm so they stick.
-- The mayo is glue, fat, and seasoning all at once. It holds the crust on, keeps the breast meat juicy, and helps the crumbs brown. You won't taste mayo.
+- The sour cream holds the crust on and keeps the breast meat juicy. It also adds a little tang that goes with the lemon and parm.
+- ⚠️ **Thin layer only.** Sour cream is wetter than most crumb glues. Too much of it steams the panko from underneath and leaves the crust soft.
 - The crust only goes on top, so you never flip the cutlets and knock it off. The bottoms sear on the hot pan instead.
 
 ### 4️⃣ Load the hot pans · ⏱ 3 min
@@ -132,10 +134,10 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
 ---
 
 ## Tips & Notes
-- **What ruins this: a soggy, pale crust.** The usual causes are dry crumbs with no oil, a thick layer of mayo, or a pan that went in cold. If the chicken is at 160°F but the crust still looks pale, **broil for 1–2 minutes** and watch it the whole time, because panko goes from golden to burnt fast.
+- **What ruins this: a soggy, pale crust.** The usual causes are dry crumbs with no oil, a thick layer of sour cream, or a pan that went in cold. If the chicken is at 160°F but the crust still looks pale, **broil for 1–2 minutes** and watch it the whole time, because panko goes from golden to burnt fast.
 - **What else ruins it: dry chicken.** Usually that's uneven cutlets. Slice evenly, press the thick end down, and use a thermometer.
 - **Get an oven thermometer.** They're ~$8, and since your oven runs cold, it tells you how far off it really is. If it's way off, set the dial higher to make up the difference.
-- **Prep ahead:** cut the veggies and mix the crumbs in the morning, and keep them in the fridge. Crust the chicken right before it goes in, though. The crumbs go soft if they sit on the mayo for hours.
+- **Prep ahead:** cut the veggies and mix the crumbs in the morning, and keep them in the fridge. Crust the chicken right before it goes in, though. The crumbs go soft if they sit on the sour cream for hours.
 - **Leftovers:** re-crisp the cutlets at **375°F for 8–10 minutes** in the oven or air fryer. The microwave turns the crust soggy. The gnocchi side reheats fine either way.
 - **Other starches:** crusty bread to mop up the tomato juice, or orzo cooked on the stove and tossed with the tomatoes instead of gnocchi.
 - **Want it more Parm-ish?** Put a slice of fresh mozzarella on each cutlet for the last 5 minutes.
