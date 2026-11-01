@@ -1,7 +1,7 @@
 # 🍅 Sheet Pan Sunday
 ### Parmesan Panko Chicken with Burst Tomato & Veggie Orzo
 
-*Two half-sheet pans, one trip into the oven, plus a pot of orzo on the stove. ~50 minutes, serves 3–4 (dinner for 2 plus lunches). Thin chicken cutlets with a crunchy parm-panko crust go on one pan with plenty of space around them. The other pan holds cherry tomatoes that burst into a garlicky sauce, plus zucchini, pepper and onion. At the end the whole veggie pan, juices and all, gets scraped into the orzo pot. Everything roasts at **450°F** on pans that preheat with the oven, so the bottoms start sizzling the second they land.*
+*Two half-sheet pans, one trip into the oven, plus a pot of orzo on the stove. ~50 minutes, serves 3–4 (dinner for 2 plus lunches). Thin chicken cutlets with a crunchy parm-panko crust go on one pan with plenty of space around them. The other pan holds cherry tomatoes that burst into a garlicky sauce, plus zucchini, pepper and shallots. At the end the whole veggie pan, juices and all, gets scraped into the orzo pot. Everything roasts at **450°F** on pans that preheat with the oven, so the bottoms start sizzling the second they land.*
 
 ## Shopping List
 
@@ -9,7 +9,7 @@
 - Cherry or grape tomatoes (1 pint / 10 oz, ~2 cups)
 - Zucchini (1 medium)
 - Bell pepper (1). Red, orange or yellow, which are sweeter than green
-- Red onion (1 small)
+- Shallots (3 medium). Firm, with dry papery skins. Or skip them entirely and grab a second bell pepper
 - Lemon (1)
 - Fresh basil (1 small pack, ~½ cup leaves)
 
@@ -57,7 +57,7 @@
 - 1 pint cherry tomatoes (~2 cups), left whole
 - 1 medium zucchini
 - 1 bell pepper
-- 1 small red onion
+- 3 medium shallots
 - 2 tbsp olive oil
 - 2 tsp minced garlic
 - ½ tsp kosher salt
@@ -85,7 +85,7 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
   - **1 pint cherry tomatoes**, left whole so they burst in the oven
   - **1 zucchini**, halved lengthwise and cut into **¾-inch half-moons**. Thinner pieces go mushy before the tomatoes are done
   - **1 bell pepper**, cut into **1-inch squares**
-  - **1 red onion**, cut into **½-inch wedges** through the root so they hold together
+  - **3 shallots**, peeled and halved lengthwise through the root so the layers hold together. Quarter any big ones. Roasted, they go soft and jammy and lose the sharp raw-onion bite completely
   - **2 tbsp olive oil**, **2 tsp minced garlic**, **½ tsp salt**, **½ tsp Italian seasoning**, and pepper. Toss until everything's glossy. Mixed into the oil and tucked between the veggies, the garlic doesn't burn the way it does sitting bare on a 450°F pan.
 - **Bowl 2, the crumbs.** Rub these together with your fingers until it looks like damp sand:
   - **¾ cup panko**
