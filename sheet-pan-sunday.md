@@ -19,7 +19,7 @@
   - Or grab **thin-sliced cutlets** (~1½ lb, about 4) and skip the slicing. Aim for about ½ inch thick either way
 
 **Dairy**
-- **Parmesan, grated (¾ cup).** A wedge you grate yourself, or the tub of fresh-grated. Not the shelf-stable shaker can, which doesn't brown or melt the same
+- **Parmesan, grated (¾ cup / ~60 g / 2 oz).** A small wedge you grate yourself, or the tub of fresh-grated. Not the shelf-stable shaker can, which doesn't brown or melt the same
 - **Sour cream, full-fat (3 tbsp).** Light sour cream is watery and can make the crust soggy
 
 **Pantry / Center Aisles**
@@ -44,7 +44,7 @@
 
 *Crust*
 - ¾ cup panko
-- ½ cup grated Parmesan
+- ½ cup grated Parmesan (~40 g / 1½ oz)
 - 2 tbsp olive oil
 - 1 tsp garlic powder
 - 1 tsp Italian seasoning
@@ -70,7 +70,7 @@
 - 1 tbsp olive oil
 - 3 cups low-sodium chicken broth, plus about ½ cup more for loosening
 - ½ tsp kosher salt
-- ¼ cup grated Parmesan
+- ¼ cup grated Parmesan (~20 g / ¾ oz)
 - ~½ cup fresh basil leaves
 - The zested lemon
 
@@ -92,7 +92,7 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
   - **2 tbsp olive oil**, **½ tsp salt**, **½ tsp Italian seasoning**, and pepper. Toss until everything's glossy, and tuck the garlic between the veggies when you spread them out so it's not sitting bare on the hot pan.
 - **Bowl 2, the crumbs.** Rub these together with your fingers until it looks like damp sand:
   - **¾ cup panko**
-  - **½ cup Parmesan**
+  - **½ cup Parmesan (~40 g)**. Grating your own? Tare the bowl on the scale and grate straight into it. Fresh-grated cheese is fluffy, so a cup measure can hold almost twice as much depending on how you pack it, but weight stays the same
   - **2 tbsp olive oil**
   - **1 tsp garlic powder**, **1 tsp Italian seasoning**, **½ tsp paprika**
   - **Zest of the lemon**
@@ -133,7 +133,7 @@ Sort everything into bowls by which pan it goes on, so loading the hot pans is f
 ### 6️⃣ Finish the orzo · ⏱ 3 min
 - Turn off the burner. Scrape the **whole veggie pan** into the orzo pot, including every bit of the garlicky oil and tomato juice. That's the sauce.
 - Smash about **half the tomatoes** and all the **roasted garlic cloves** against the side of the pot with a spoon. The garlic is soft enough to melt right into the sauce.
-- Add the **¼ cup Parmesan**, tear in the **basil**, and squeeze in **half the lemon**. Stir in more **broth**, a splash at a time, until it's creamy and loose.
+- Add the **¼ cup Parmesan (~20 g)**, tear in the **basil**, and squeeze in **half the lemon**. Stir in more **broth**, a splash at a time, until it's creamy and loose.
 - Because nothing gets drained, the starch from the orzo stays in the pot. That's what pulls the oil, tomato juice and parm together into a creamy, almost risotto-like sauce.
 
 ### 7️⃣ Serve
