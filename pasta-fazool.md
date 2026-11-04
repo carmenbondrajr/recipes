@@ -95,17 +95,17 @@
 - Pour in the **whole 32 oz carton of chicken broth**, the **28 oz can of tomatoes**, and all three cans of beans (**chickpeas, kidney, cannellini**, drained and rinsed), then stir everything together.
 - ⚠️ **Check the fill line.** Soups shouldn't go past the ⅔ mark. If it's close, hold back a cup of broth and stir it in after cooking.
 
-### 5️⃣ Pressure cook · ⏱ 10 min + ~15 min to pressure and release
+### 5️⃣ Pressure cook & cook the pasta · ⏱ 10 min + ~15 min to pressure and release
 - Seal and cook on **High Pressure for 10 minutes**. The carrots set the timer, and the canned beans are already cooked, so they're just along for the ride.
-- Let it release naturally for **5 minutes**, then vent the rest.
+- Fill the kettle, bring it to a boil, and set it to keep warm. The IP takes ~10 min to come up to pressure, so the water is ready long before you need it, and it gets the pasta pot boiling in a minute instead of ten.
+- When the IP display reads **10 min** (it's at pressure and the countdown has started), put a pot on the stove over high, pour in the hot water, and salt it.
+- When the IP reads **5 min**, add the **ditalini**, about **¼ cup dry per bowl**. The last 5 min of pressure plus the 5 min natural release gives the pasta ~10 min, so it finishes right when the soup does.
+- When the IP beeps, let it release naturally for **5 minutes**, then vent the rest.
 - ⚠️ **Don't quick-release right away.** A thick soup will sputter out through the valve.
-
-### 6️⃣ Cook the pasta · ⏱ ~10 min
-- While the pot releases, boil the **ditalini** in salted water. Plan on about **¼ cup dry per bowl**. It takes about 8 minutes.
-- Drain and rinse it under cold water. Rinsing washes off the surface starch so it doesn't clump or thicken the soup.
+- Drain the pasta and rinse it under cold water. Rinsing washes off the surface starch so it doesn't clump or thicken the soup, and it means the pasta can wait a few minutes if the timing drifts.
 - Cook only what you're eating today. Pasta stored in the soup keeps drinking broth and goes gluey overnight.
 
-### 7️⃣ Finish & serve
+### 6️⃣ Finish & serve
 - Taste the soup and adjust the salt.
 - Spoon pasta into each bowl and ladle the soup over it.
 - Pass the **½ cup grated cheese** and the **hot sauce** at the table.
@@ -121,5 +121,6 @@
   - After the onion, sweat the vegetables and spices for ~4 min so the dried spices toast in the orange fat.
   - Add the broth, tomatoes, and beans and stir everything together.
   - Bring it to a boil, then simmer at a **bare bubble with the lid ajar for ~20 min**, until the carrots are tender. Scrape the bottom every 5 min so settled beans don't scorch, and stop by 30 min before the beans split.
+  - Use the same kettle trick for the pasta and drop it in for the last ~10 min of the simmer.
 - **Want it creamier?** Mash a ladle of the beans against the side of the pot after cooking and stir them back in. The starch thickens the broth.
 - **The name:** *pasta e fagioli* just means "pasta and beans." In Neapolitan dialect, *fagioli* is *fasule*, which Italian-American kitchens turned into "fazool." Dean Martin made it famous in "That's Amore": *"When the stars make you drool just like pasta e fazool."*
