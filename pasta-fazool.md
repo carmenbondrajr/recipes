@@ -77,11 +77,11 @@
 - Set the Instant Pot to Sauté on medium-high with the **2 tbsp olive oil**.
 - Add the **14 oz cubed ham** and **5 oz quartered pepperoni** and cook until the fat renders and the pepperoni edges curl. The oil goes orange, and that orange oil is the flavor base of the whole soup.
 - Stir every couple of minutes, and watch the **pot bottom**, not the meat. A light brown crust on the bottom is the goal.
-- ⚠️ **Don't let the bottom scorch.** Overcooked meat isn't the risk here, black fond is: it turns the soup bitter and triggers a BURN error once the pot is under pressure. If it starts going dark, splash in some of the broth right away and scrape it up.
+- ⚠️ **Don't let the bottom scorch.** Overcooked meat isn't the risk here, black fond is: it turns the whole soup bitter. If it starts going dark, splash in some of the broth right away and scrape it up.
 
 ### 3️⃣ Soften the onion · ⏱ ~5 min
 - Add the **diced yellow onion** and cook until translucent.
-- Scrape the bottom clean as you go. The onion's moisture lifts the fond, and a clean bottom is your best insurance against a BURN error later.
+- Scrape the bottom clean as you go. The onion's moisture lifts the fond off the bottom and into the soup, where its flavor belongs.
 
 ### 4️⃣ Load the pot · ⏱ ~5 min
 - Turn off Sauté.
@@ -92,9 +92,7 @@
   - **1 tsp dried basil**
   - **1 tsp kosher salt**
   - **½ tsp black pepper**
-- Pour in the **whole 32 oz carton of chicken broth** and give it one stir to get everything off the bottom.
-- Pour the **28 oz can of tomatoes** and all three cans of beans (**chickpeas, kidney, cannellini**, drained and rinsed) on top.
-- ⚠️ **Don't stir the tomatoes and beans in.** Broth on the bottom and thick stuff on top keeps the heating element covered in thin liquid, which is what prevents a BURN warning in a pot this full.
+- Pour in the **whole 32 oz carton of chicken broth**, the **28 oz can of tomatoes**, and all three cans of beans (**chickpeas, kidney, cannellini**, drained and rinsed), then stir everything together.
 - ⚠️ **Check the fill line.** Soups shouldn't go past the ⅔ mark. If it's close, hold back a cup of broth and stir it in after cooking.
 
 ### 5️⃣ Pressure cook · ⏱ 10 min + ~15 min to pressure and release
@@ -115,14 +113,13 @@
 ---
 
 ## Tips & Notes
-- **What ruins this: a BURN error.** It almost always comes from scorched fond in step 2 or stirred-down beans and tomatoes in step 4. Clean bottom, thin liquid underneath, thick stuff on top.
 - **Never cook the pasta in the soup, and never store it in the soup.** It swells and goes gluey, and in a pressure cooker it turns to mush.
 - **All three cans of beans go in for the pressure cook.** Canned beans hold up fine for 10 minutes. No mush.
 - **Leftovers:** keeps 5 days in the fridge and is better on day two. Freezes well in quart containers, without the pasta.
 - **No Instant Pot? Use the 10-inch Dutch oven.** It holds about 5½ qt to the brim, so trim the batch to **4 celery stalks** and **3 cups broth** (hold back 1 cup from the carton). That leaves it about ¾ full, and the saved cup thins the leftovers. The steps change like this:
   - Render the meat on **medium**. A Dutch oven holds heat, so if the fond goes dark, splash in broth rather than waiting for the burner to cool.
   - After the onion, sweat the vegetables and spices for ~4 min so the dried spices toast in the orange fat.
-  - Add the broth, tomatoes, and beans and stir everything together. The don't-stir layering only matters under pressure.
+  - Add the broth, tomatoes, and beans and stir everything together.
   - Bring it to a boil, then simmer at a **bare bubble with the lid ajar for ~20 min**, until the carrots are tender. Scrape the bottom every 5 min so settled beans don't scorch, and stop by 30 min before the beans split.
 - **Want it creamier?** Mash a ladle of the beans against the side of the pot after cooking and stir them back in. The starch thickens the broth.
 - **The name:** *pasta e fagioli* just means "pasta and beans." In Neapolitan dialect, *fagioli* is *fasule*, which Italian-American kitchens turned into "fazool." Dean Martin made it famous in "That's Amore": *"When the stars make you drool just like pasta e fazool."*
