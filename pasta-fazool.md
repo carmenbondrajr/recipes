@@ -20,7 +20,7 @@
 
 **Pantry / Center Aisles**
 - Petite diced tomatoes (one 28 oz can)
-- Chicken broth (4 cups, one 32 oz carton)
+- Chicken broth (one 32 oz carton)
 - Chickpeas (one 15 oz can)
 - Kidney beans (one 15 oz can)
 - Cannellini beans (one 15 oz can)
@@ -47,7 +47,7 @@
 - 1 tsp dried basil
 - 1 tsp kosher salt, plus more to taste
 - ½ tsp black pepper
-- 4 cups chicken broth
+- 1 carton (32 oz) chicken broth
 - 1 can (28 oz) petite diced tomatoes, undrained
 - 1 can (15 oz) chickpeas, drained and rinsed
 - 1 can (15 oz) kidney beans, drained and rinsed
@@ -68,7 +68,7 @@
   - **2 cups baby carrots**, cut into coins
   - **6 celery stalks**, diced
   - **1 tsp garlic powder**, **1 tsp dried basil**, **1 tsp kosher salt**, and **½ tsp black pepper**, sprinkled right on top. They all go in together, so there's nothing to measure later.
-- **Measuring cup:** the **4 cups chicken broth**, ready to pour. Keep it next to the pot, because it's also your emergency splash if the bottom starts going dark.
+- **Broth:** the **32 oz carton of chicken broth**, opened and ready to pour. Keep it next to the pot, because it's also your emergency splash if the bottom starts going dark.
 - **Colander:** open all three cans of beans (**chickpeas, kidney, cannellini**) and drain and rinse them together. They go in at the same moment, so one colander is all you need.
 - **The tomatoes:** open the **28 oz can** and leave it on the counter. Don't drain it.
 - **Using the mirepoix shortcut?** Dump the whole tub into Bowl 2 in place of the onion and skip the carrots and celery in Bowl 3, so Bowl 3 is just the spices. Giving the carrot and celery a few extra minutes of sauté does no harm.
@@ -92,7 +92,7 @@
   - **1 tsp dried basil**
   - **1 tsp kosher salt**
   - **½ tsp black pepper**
-- Pour in the **4 cups chicken broth** and give it one stir to get everything off the bottom.
+- Pour in the **whole 32 oz carton of chicken broth** and give it one stir to get everything off the bottom.
 - Pour the **28 oz can of tomatoes** and all three cans of beans (**chickpeas, kidney, cannellini**, drained and rinsed) on top.
 - ⚠️ **Don't stir the tomatoes and beans in.** Broth on the bottom and thick stuff on top keeps the heating element covered in thin liquid, which is what prevents a BURN warning in a pot this full.
 - ⚠️ **Check the fill line.** Soups shouldn't go past the ⅔ mark. If it's close, hold back a cup of broth and stir it in after cooking.
@@ -119,7 +119,7 @@
 - **Never cook the pasta in the soup, and never store it in the soup.** It swells and goes gluey, and in a pressure cooker it turns to mush.
 - **All three cans of beans go in for the pressure cook.** Canned beans hold up fine for 10 minutes. No mush.
 - **Leftovers:** keeps 5 days in the fridge and is better on day two. Freezes well in quart containers, without the pasta.
-- **No Instant Pot? Use the 10-inch Dutch oven.** It holds about 5½ qt to the brim, so trim the batch to **4 celery stalks** and **3 cups broth**. That leaves it about ¾ full, and the saved cup thins the leftovers. The steps change like this:
+- **No Instant Pot? Use the 10-inch Dutch oven.** It holds about 5½ qt to the brim, so trim the batch to **4 celery stalks** and **3 cups broth** (hold back 1 cup from the carton). That leaves it about ¾ full, and the saved cup thins the leftovers. The steps change like this:
   - Render the meat on **medium**. A Dutch oven holds heat, so if the fond goes dark, splash in broth rather than waiting for the burner to cool.
   - After the onion, sweat the vegetables and spices for ~4 min so the dried spices toast in the orange fat.
   - Add the broth, tomatoes, and beans and stir everything together. The don't-stir layering only matters under pressure.
