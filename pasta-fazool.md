@@ -26,7 +26,7 @@
 - Cannellini beans (one 15 oz can)
 - Ditalini pasta (one 1 lb box). Any tiny tube or shell works if they're out
 
-*You should have at home: olive oil, garlic powder, dried basil, bay leaves, kosher salt, black pepper, hot sauce*
+*You should have at home: olive oil, garlic powder, dried basil, bay leaves, sea salt grinder, black pepper, hot sauce*
 
 ---
 
@@ -45,7 +45,7 @@
 - 6 celery stalks, diced
 - 1 tsp garlic powder
 - 1 tsp dried basil
-- 1 tsp kosher salt, plus more to taste
+- ~10 cranks of the sea salt grinder, plus more to taste
 - ½ tsp black pepper
 - 2 dried bay leaves
 - 1 carton (32 oz) chicken broth
@@ -68,7 +68,7 @@
 - **Bowl 3, the veg and spices:**
   - **2 cups baby carrots**, cut into coins
   - **6 celery stalks**, diced
-  - **1 tsp garlic powder**, **1 tsp dried basil**, **1 tsp kosher salt**, **½ tsp black pepper**, and **2 bay leaves**, sprinkled right on top. They all go in together, so there's nothing to measure later.
+  - **1 tsp garlic powder**, **1 tsp dried basil**, **~10 cranks of sea salt**, **½ tsp black pepper**, and **2 bay leaves**, sprinkled right on top. They all go in together, so there's nothing to measure later.
 - **Broth:** the **32 oz carton of chicken broth**, opened and ready to pour. Keep it next to the pot, because it's also your emergency splash if the bottom starts going dark.
 - **Colander:** open all three cans of beans (**chickpeas, kidney, cannellini**) and drain and rinse them together. They go in at the same moment, so one colander is all you need.
 - **The tomatoes:** open the **28 oz can** and leave it on the counter. Don't drain it.
@@ -91,7 +91,7 @@
   - **6 diced celery stalks**
   - **1 tsp garlic powder**
   - **1 tsp dried basil**
-  - **1 tsp kosher salt**
+  - **~10 cranks of sea salt**
   - **½ tsp black pepper**
   - **2 bay leaves**
 - Pour in the **whole 32 oz carton of chicken broth**, the **28 oz can of tomatoes**, and all three cans of beans (**chickpeas, kidney, cannellini**, drained and rinsed), then stir everything together.
