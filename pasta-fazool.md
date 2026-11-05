@@ -26,7 +26,7 @@
 - Cannellini beans (one 15 oz can)
 - Ditalini pasta (one 1 lb box). Any tiny tube or shell works if they're out
 
-*You should have at home: olive oil, garlic powder, dried basil, kosher salt, black pepper, hot sauce*
+*You should have at home: olive oil, garlic powder, dried basil, bay leaves, kosher salt, black pepper, hot sauce*
 
 ---
 
@@ -47,6 +47,7 @@
 - 1 tsp dried basil
 - 1 tsp kosher salt, plus more to taste
 - ½ tsp black pepper
+- 2 dried bay leaves
 - 1 carton (32 oz) chicken broth
 - 1 can (28 oz) petite diced tomatoes, undrained
 - 1 can (15 oz) chickpeas, drained and rinsed
@@ -67,7 +68,7 @@
 - **Bowl 3, the veg and spices:**
   - **2 cups baby carrots**, cut into coins
   - **6 celery stalks**, diced
-  - **1 tsp garlic powder**, **1 tsp dried basil**, **1 tsp kosher salt**, and **½ tsp black pepper**, sprinkled right on top. They all go in together, so there's nothing to measure later.
+  - **1 tsp garlic powder**, **1 tsp dried basil**, **1 tsp kosher salt**, **½ tsp black pepper**, and **2 bay leaves**, sprinkled right on top. They all go in together, so there's nothing to measure later.
 - **Broth:** the **32 oz carton of chicken broth**, opened and ready to pour. Keep it next to the pot, because it's also your emergency splash if the bottom starts going dark.
 - **Colander:** open all three cans of beans (**chickpeas, kidney, cannellini**) and drain and rinse them together. They go in at the same moment, so one colander is all you need.
 - **The tomatoes:** open the **28 oz can** and leave it on the counter. Don't drain it.
@@ -92,6 +93,7 @@
   - **1 tsp dried basil**
   - **1 tsp kosher salt**
   - **½ tsp black pepper**
+  - **2 bay leaves**
 - Pour in the **whole 32 oz carton of chicken broth**, the **28 oz can of tomatoes**, and all three cans of beans (**chickpeas, kidney, cannellini**, drained and rinsed), then stir everything together.
 - ⚠️ **Check the fill line.** Soups shouldn't go past the ⅔ mark. If it's close, hold back a cup of broth and stir it in after cooking.
 
@@ -106,6 +108,7 @@
 - Cook only what you're eating today. Pasta stored in the soup keeps drinking broth and goes gluey overnight.
 
 ### 6️⃣ Finish & serve
+- Fish out the **2 bay leaves**. ⚠️ They stay stiff and sharp-edged even after cooking, and nobody wants one in a spoonful.
 - Taste the soup and adjust the salt.
 - Spoon pasta into each bowl and ladle the soup over it.
 - Pass the **½ cup grated cheese** and the **hot sauce** at the table.
