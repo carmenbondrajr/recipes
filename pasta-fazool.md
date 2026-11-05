@@ -102,7 +102,7 @@
 - When the IP reads **5 min**, add the **ditalini**, about **¼ cup dry per bowl**. The last 5 min of pressure plus the 5 min natural release gives the pasta ~10 min, so it finishes right when the soup does.
 - When the IP beeps, let it release naturally for **5 minutes**, then vent the rest.
 - ⚠️ **Don't quick-release right away.** A thick soup will sputter out through the valve.
-- Drain the pasta and rinse it under cold water. Rinsing washes off the surface starch so it doesn't clump or thicken the soup, and it means the pasta can wait a few minutes if the timing drifts.
+- Drain the pasta, but don't rinse it. The soup comes out of the IP brothy, and the starch on the ditalini gives it body. Put the pasta back in its pot and toss it with a drizzle of **olive oil** so it doesn't stick together while it waits.
 - Cook only what you're eating today. Pasta stored in the soup keeps drinking broth and goes gluey overnight.
 
 ### 6️⃣ Finish & serve
