@@ -1,7 +1,7 @@
 # 🍲 Pasta Fazool
 ### Instant Pot Pasta Fagioli
 
-*One Instant Pot, ~1 hour including prep and pressure time, makes a big pot (roughly 6 generous servings). Ham and pepperoni render into an orange, smoky base, three kinds of beans make it hearty, and the pasta gets cooked separately so the soup stays soup.*
+*One Instant Pot, ~1 hour including prep and pressure time, makes a big pot (roughly 6 generous servings): eat half this week, freeze half for a future dinner. Ham and pepperoni render into an orange, smoky base, three kinds of beans make it hearty, and the pasta gets cooked separately so the soup stays soup.*
 
 ## Shopping List
 
@@ -26,7 +26,7 @@
 - Cannellini beans (one 15 oz can)
 - Ditalini pasta (one 1 lb box). Any tiny tube or shell works if they're out
 
-*You should have at home: olive oil, garlic powder, dried basil, bay leaves, sea salt grinder, black pepper, hot sauce*
+*You should have at home: olive oil, garlic powder, dried basil, bay leaves, sea salt grinder, black pepper, hot sauce, two quart freezer containers (deli quarts work)*
 
 ---
 
@@ -113,12 +113,25 @@
 - Spoon pasta into each bowl and ladle the soup over it.
 - Pass the **½ cup grated cheese** and the **hot sauce** at the table.
 
+### 7️⃣ Freeze half · ⏱ ~5 min
+- Right after dinner, ladle **half the soup (about 2 qt)** into **two quart containers**, with no pasta. Splitting it while it's still warm also means the half that stays in the pot cools faster.
+- Leave **about 1 inch of headspace** in each container. Soup expands as it freezes, and a full container cracks or pops its lid.
+- Let them cool on the counter with the lids off for up to an hour, then lid them, label them with the date, and put them in the freezer.
+- ⚠️ **Don't leave them out longer than 2 hours.** A big mass of soup cools slowly, and the middle sits in the danger zone. If you're running late, the fridge first and the freezer tomorrow is fine.
+- The other half goes in the fridge, in the inner pot or a container. Plan to eat it within **3–4 days**.
+
 ---
 
 ## Tips & Notes
 - **Never cook the pasta in the soup, and never store it in the soup.** It swells and goes gluey, and in a pressure cooker it turns to mush.
 - **All three cans of beans go in for the pressure cook.** Canned beans hold up fine for 10 minutes. No mush.
-- **Leftovers:** keeps 5 days in the fridge and is better on day two. Freezes well in quart containers, without the pasta.
+- **Fridge leftovers:** good for **3–4 days** from when you cooked it, and better on day two. You can reheat it more than once, as long as it gets back to a simmer every time, but the clock doesn't reset. Reheat in the inner pot on **Sauté → Less** with a **½–1 cup splash of broth or water**, stirring every few minutes, until it simmers (🌡️ 165°F). Then switch to Keep Warm to hold it. ⚠️ Keep Warm can't heat cold soup on its own. It's too gentle and leaves the soup in the danger zone for hours.
+- **Reheating the fazool ice cube:** best within **3 months**.
+  - Move it to the fridge **the night before**. A quart takes about a day to thaw, and half-thawed is fine.
+  - Run the container under hot water for 30 seconds so the block slides out, and drop it into the inner pot with **½ cup water**.
+  - Set **Sauté → Less**, cover it with any lid that fits loosely (not the pressure lid), and break up the block with a spoon as it softens. Once it's liquid, turn it up to Normal and bring it to a simmer (🌡️ 165°F). About 15 min if it was thawed, 30+ min if it's still frozen solid.
+  - While it heats, cook fresh ditalini with the kettle trick from step 5, **¼ cup dry per bowl**.
+  - ⚠️ **Don't pressure cook it to thaw it faster.** The carrots and beans get a second full cook and go mushy.
 - **No Instant Pot? Use the 10-inch Dutch oven.** It holds about 5½ qt to the brim, so trim the batch to **4 celery stalks** and **3 cups broth** (hold back 1 cup from the carton). That leaves it about ¾ full, and the saved cup thins the leftovers. The steps change like this:
   - Render the meat on **medium**. A Dutch oven holds heat, so if the fond goes dark, splash in broth rather than waiting for the burner to cool.
   - After the onion, sweat the vegetables and spices for ~4 min so the dried spices toast in the orange fat.
