@@ -17,6 +17,7 @@
 
 **Dairy**
 - Grated parmesan or pecorino (½ cup, plus more for serving)
+  - *Topping swap: full-fat sour cream (one 8 oz tub) and a bunch of flat-leaf parsley instead. See Tips*
 
 **Pantry / Center Aisles**
 - Petite diced tomatoes (one 28 oz can)
@@ -138,5 +139,6 @@
   - Add the broth, tomatoes, and beans and stir everything together.
   - Bring it to a boil, then simmer at a **bare bubble with the lid ajar for ~20 min**, until the carrots are tender. Scrape the bottom every 5 min so settled beans don't scorch, and stop by 30 min before the beans split.
   - Use the same kettle trick for the pasta and drop it in for the last ~10 min of the simmer.
+- **Topping swap: sour cream & parsley.** Instead of the parm, put **~2 tbsp full-fat sour cream** on each bowl and scatter a pinch of roughly chopped **flat-leaf parsley** over it. The tang cuts through the smoky ham and pepperoni, and the parsley adds something fresh. Pick one topping, not both, because the sour cream's tang drowns out the parm. Use full-fat: light sour cream can split into curds in hot soup. Set it out while the soup cooks so a cold dollop doesn't cool your bowl down.
 - **Want it creamier?** Mash a ladle of the beans against the side of the pot after cooking and stir them back in. The starch thickens the broth.
 - **The name:** *pasta e fagioli* just means "pasta and beans." In Neapolitan dialect, *fagioli* is *fasule*, which Italian-American kitchens turned into "fazool." Dean Martin made it famous in "That's Amore": *"When the stars make you drool just like pasta e fazool."*
