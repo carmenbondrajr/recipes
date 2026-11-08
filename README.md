@@ -29,6 +29,7 @@ grocery department, then the method, then tips.
 - [🍎 Party Pot Cider](party-pot-cider.md) — *Stovetop Mulled Cider* · all-day party pot, whole spices, spike by the mug
 - [🫚 Honey Ginger Chicken Bowls](honey-ginger-chicken-bowls.md) · gentle on the stomach, charred green onions, seared chicken breast, carrots + zucchini, ginger-scented jasmine rice
 - [🐷 Porchetta-ish](porchetta-ish.md) — *Fennel-Rosemary Roast Pork Sandwiches with Salsa Verde* · one loin roast = a week of lunches, ciabatta + provolone + arugula
+- [🍆 Bruschette alla Parmigiana](bruschette-alla-parmigiana.md) — *Eggplant Parmesan on Crispy Garlic Toast* · makes 8, roasted eggplant, sauce + eggplant keep for snack-sized batches
 
 ## Desserts
 
