@@ -1,12 +1,12 @@
 # 🐷 Porchetta-ish
 ### Fennel-Rosemary Roast Pork Sandwiches with Salsa Verde
 
-*One roast makes 4–6 hearty sandwiches. Rub it, give it an hour or two in the fridge, and roast it for same-day dinner, with leftovers for the week. About 25 minutes of hands-on work, an hour in the oven, and 5 minutes to build each sandwich. It's "-ish" because real porchetta is a whole pork belly rolled around the loin. This keeps the flavor and skips the butchery.*
+*One 1.675 lb roast makes 3–4 hearty sandwiches. Rub it, give it an hour or two in the fridge, and roast it for same-day dinner. About 25 minutes of hands-on work, 35–50 minutes in the oven, and 5 minutes to build each sandwich. It's "-ish" because real porchetta is a whole pork belly rolled around the loin. This keeps the flavor and skips the butchery.*
 
 ## Shopping List
 
 **Produce**
-- Fresh rosemary (1 small pack, ~3 sprigs)
+- Fresh rosemary (1 small pack, ~2 sprigs)
 - Flat-leaf parsley (1 bunch)
 - Fresh tarragon (1 small pack). If they're out, fresh basil works too. Both bring the anise note
 - Lemons (2)
@@ -15,15 +15,15 @@
 - Baby arugula (one 5 oz clamshell)
 
 **Meat**
-- **Boneless pork loin roast, 2½–3 lb**
+- **Boneless pork top loin roast, 1.675 lb**
   - Look for one with a fat cap on top (~¼ inch). The fat bastes the lean loin while it roasts
   - Get *loin*, not *tenderloin*. Tenderloin is the skinny 1 lb one and cooks in 20 minutes
 
 **Deli / Dairy**
-- Sliced sharp provolone (~8 oz, 10–12 slices)
+- Sliced sharp provolone (~5 oz, 6–8 slices)
 
 **Bakery**
-- Ciabatta rolls (6), or one ciabatta loaf cut into sandwich lengths
+- Ciabatta rolls (3–4), or one ciabatta loaf cut into sandwich lengths
 
 **Pantry / Center Aisles**
 - **Whole fennel seed.** Whole, not ground. Toasting and crushing it yourself is what makes this taste like porchetta
@@ -39,17 +39,17 @@
 **Ingredients**
 
 *The rub*
-- 2 tbsp whole fennel seed
-- 2 tbsp chopped fresh rosemary (~3 sprigs, stripped)
-- 6 garlic cloves, grated or finely chopped
+- 4 tsp whole fennel seed (1 tbsp + 1 tsp)
+- 4 tsp chopped fresh rosemary (~2 sprigs, stripped)
+- 4 garlic cloves, grated or finely chopped
 - Zest of 1 lemon
-- 1 tbsp kosher salt
-- 1 tsp black pepper
-- 1 tsp red pepper flakes
-- 3 tbsp olive oil
+- 2 tsp kosher salt
+- Heaping ½ tsp black pepper
+- Heaping ½ tsp red pepper flakes
+- 2 tbsp olive oil
 
 *The roast*
-- Boneless pork loin roast, 2½–3 lb
+- Boneless pork top loin roast, 1.675 lb
 
 *Salsa verde*
 - 1 packed cup parsley leaves and tender stems
@@ -72,16 +72,16 @@
 ---
 
 ### 1️⃣ Rub the pork · ⏱ 15 min, then 1–2 hrs
-- Toast the **2 tbsp fennel seed** in a dry skillet over medium heat for **2–3 minutes**, shaking the pan, until they smell sweet and turn a shade darker. Heat wakes up the oils in the seeds, which turns their flavor from dusty to licorice-y and warm.
+- Toast the **4 tsp fennel seed** in a dry skillet over medium heat for **2–3 minutes**, shaking the pan, until they smell sweet and turn a shade darker. Heat wakes up the oils in the seeds, which turns their flavor from dusty to licorice-y and warm.
 - Crush them roughly in a mortar and pestle, or in a zip bag under a rolling pin or the bottom of a heavy pan. You want a mix of cracked seeds and powder, not dust. The cracked bits give you little bursts of fennel in each bite.
 - Mix them into a paste with the rest of the rub:
-  - **2 tbsp chopped rosemary**
-  - **6 garlic cloves**, grated
+  - **4 tsp chopped rosemary**
+  - **4 garlic cloves**, grated
   - **Zest of 1 lemon**
-  - **1 tbsp kosher salt**
-  - **1 tsp black pepper**
-  - **1 tsp red pepper flakes**
-  - **3 tbsp olive oil**
+  - **2 tsp kosher salt**
+  - **Heaping ½ tsp black pepper**
+  - **Heaping ½ tsp red pepper flakes**
+  - **2 tbsp olive oil**
 - Pat the **pork** really dry, since a short rest won't dry the surface much on its own and a wet surface won't brown. With a sharp knife, score the fat cap in a crosshatch about ¼ inch deep, through the fat but not into the meat. The cuts let the rub sink in and help the fat render and crisp.
 - Rub the paste all over the pork, pushing it into the scores.
 - Set it fat-side up on a plate and refrigerate it **uncovered for 1–2 hours**. The salt seasons the outer part of the meat, and the drippings make up for the center when you toss the hunks later.
@@ -90,7 +90,7 @@
 - Take the pork out of the fridge and heat the oven to **450°F**. The 30 minutes it sits out while the oven heats takes the chill off, so the outside isn't overcooked by the time the center is done.
 - Put it **fat-side up** in a 9×13, roasting pan, or oven-safe skillet.
 - Roast at **450°F for 15 minutes** to brown the outside and start the fat rendering.
-- Without opening the door, turn the oven down to **325°F** and keep roasting. The lower heat cooks it gently and evenly to the center. Start checking the temperature after **35 minutes** at 325°F. Most 3 lb loins take **40–55 minutes**.
+- Without opening the door, turn the oven down to **325°F** and keep roasting. The lower heat cooks it gently and evenly to the center. Start checking the temperature after **15 minutes** at 325°F. A roast this size usually takes **20–35 minutes**, and it can overshoot quickly, so check early and often.
 - 🌡️ **Pull it at 140°F** in the thickest part. It will rise to about 145°F while it rests. A blush of pink in the middle is correct and safe.
 - ⚠️ **Overcooking is what ruins this.** Loin has almost no fat inside, so every degree past 145°F squeezes out juice you can't get back. It goes from juicy to cardboard in about 10 minutes. Trust the thermometer, not the clock.
 
