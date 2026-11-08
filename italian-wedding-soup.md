@@ -66,14 +66,14 @@
 - Stir the **½ cup breadcrumbs** into the **6 tbsp milk** and let them sit the full 10 minutes. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets: the starch traps moisture that would otherwise squeeze out as the meat cooks.
 - Go by texture, not the measurement. You want a loose, spreadable paste like wet oatmeal. If it still holds its shape or looks crumbly, add milk a splash at a time until it slumps.
 - ⚠️ **An under-hydrated panade is the quiet failure.** Dry crumbs can't hold water they never absorbed, so the meatballs come out dense. Erring wet is safe, since the meat soaks up the extra.
+- While it soaks, pulse **5 garlic cloves** in the mini food processor on **Chop**, scraping down once, until minced. Scoop a little over half (**3 cloves' worth**) into a small bowl for the soup. Add parsley leaves (enough for **2 tbsp chopped**) to what's left and pulse a few more times for the meatballs.
 
 ### 2️⃣ Mix and roll the meatballs · ⏱ 15 min
 - Add everything to the panade:
   - **1 lb ground meat**
   - **½ cup parmesan**
   - **1 egg**
-  - **2 cloves minced garlic**
-  - **2 tbsp parsley**
+  - **2 cloves minced garlic + 2 tbsp parsley** (the mix from step 1)
   - **1 tsp kosher salt**
   - A few grinds of black pepper
 - Mix with your hands only until it comes together. Overworking compacts the protein and toughens the meatballs.
@@ -83,7 +83,8 @@
 
 ### 3️⃣ Bake the meatballs · ⏱ 12–15 min
 - Spread the meatballs out on the sheet pan and bake at **400°F for 12–15 minutes**, until lightly browned. Baking browns them all at once with no batches, and it firms them up so they hold together in the simmer.
-- Start the vegetables while they bake.
+- While they bake, cut the **2 carrots**, **2 celery stalks**, and **1 onion** into 1-inch chunks and pulse them on **Chop** into a fine dice, one vegetable at a time and in that order. Hard carrots need the most pulses and onion the fewest, and everything goes in the pot together, so they can share a bowl.
+- ⚠️ **Stop while you can still see separate little pieces.** Past that, the onion turns watery and steams into mush.
 
 ### 4️⃣ Sweat the vegetables · ⏱ 8 min
 - Heat **2 tbsp olive oil** in a big pot over **medium**.

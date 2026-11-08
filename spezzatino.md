@@ -53,7 +53,9 @@
 - ½ cup chopped parsley
 - Pinch of sugar / splash of balsamic, if needed at the end
 
-### 1. Dry & Season the Beef (5 min)
+### 1. Prep, then Dry & Season the Beef (10 min)
+Prep in the mini food processor on **Chop**, parsley first while the bowl is dry. Pulse the parsley leaves (enough for **½ cup chopped**) and set them aside for the end. Then pulse the **3 carrots**, in 1-inch chunks, until about ¼" so they melt into the sauce, and the quartered **onion** just until diced. Both go in together, so they can share a bowl. Stop while you can still see separate pieces, because past that the onion goes watery.
+
 Pat the **2.4 lbs beef** very dry with paper towels. Season all over with **2 tsp kosher salt** and **1 tsp black pepper**. Wet meat steams instead of searing, and you won't get the brown crust that makes the sauce taste deep and beefy.
 
 ### 2. Sear in Batches (20 min)

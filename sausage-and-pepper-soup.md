@@ -65,7 +65,13 @@ black pepper*
 
 ---
 
-### 1. Char the Peppers — 8 min
+### 1. Char the Peppers — 8 min, plus 5 min prep
+Before the pot goes on, pulse the veg in the mini food processor on **Chop**, since the fond won't wait
+for you to prep later. Pulse the **1 onion**, quartered, and the **3 celery stalks**, in 1-inch chunks,
+in two batches until diced, and tip them into one bowl. Stop while you can still see separate pieces,
+because past that the onion goes watery. Then pulse the **4 garlic cloves** and keep them separate,
+since they go in later.
+
 Heat **2 tbsp olive oil** in the Dutch oven over medium-high until it shimmers. Add the
 **3 peppers, cut in 1" squares**, in a single layer — **work in two batches if they don't all
 fit flat**. Let them sit **undisturbed 3-4 min** until the undersides have black-brown blisters,

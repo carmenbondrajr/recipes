@@ -82,14 +82,14 @@
 
 ### 2️⃣ Make the quick pico · ⏱ 10 min
 - Do this while the steak marinates, or at least 15 minutes before eating, so the flavors have time to meld.
+- Cut the **½ white onion**, plus an extra wedge from the other half, into chunks. Pulse them on **Chop** in the mini food processor with a big handful of cilantro (enough for **½ cup chopped**, plus a little extra) until finely chopped. Scoop out a couple of spoonfuls for topping.
+- ⚠️ **Dice the tomatoes by hand.** The processor turns them into soup, and pico needs distinct pieces.
 - Stir together in a bowl:
   - **4 diced Roma tomatoes**
-  - **½ white onion, finely diced**
-  - **½ cup chopped cilantro**
+  - **The onion and cilantro**
   - **Juice of 1 lime**
   - **¼ tsp kosher salt**
 - The salt pulls juice out of the tomatoes and mellows the raw onion bite as it sits. Give it a stir and a taste before serving, and add salt or lime if it's flat.
-- Dice a little extra onion from the other half and chop a little extra cilantro for topping.
 
 ### 3️⃣ Heat the grill · ⏱ 10–15 min
 - Take the steak out of the fridge when you start the grill so it loses some of its chill.

@@ -65,10 +65,10 @@
 - **Bowl 1, the meat:**
   - **14 oz ham steak**, cubed
   - **5 oz pepperoni**, cut into coins then quartered
-- **Bowl 2, the onion:** the **1 yellow onion**, diced. It gets its own bowl because it goes in a step after the meat.
+- **Bowl 2, the onion:** quarter the **1 yellow onion** and pulse it on **Chop** in the mini food processor until diced. Stop while you can still see separate pieces, because past that it goes watery. It gets its own bowl because it goes in a step after the meat.
 - **Bowl 3, the veg and spices:**
   - **2 cups baby carrots**, cut into coins
-  - **6 celery stalks**, diced
+  - **6 celery stalks**, cut into 1-inch chunks and pulsed on **Chop** in 2–3 batches until diced
   - **1 tsp garlic powder**, **1 tsp dried basil**, **~10 cranks of sea salt**, **½ tsp black pepper**, and **2 bay leaves**, sprinkled right on top. They all go in together, so there's nothing to measure later.
 - **Broth:** the **32 oz carton of chicken broth**, opened and ready to pour. Keep it next to the pot, because it's also your emergency splash if the bottom starts going dark.
 - **Colander:** open all three cans of beans (**chickpeas, kidney, cannellini**) and drain and rinse them together. They go in at the same moment, so one colander is all you need.

@@ -54,8 +54,8 @@
 - 4 medium carrots
 - 1 medium zucchini
 - 2 bunches green onions
-- 1½ tbsp grated ginger (the rest of the thumb)
-- 2 garlic cloves, grated or minced
+- 1½ tbsp minced ginger (the rest of the thumb)
+- 2 garlic cloves
 - ¼ cup neutral oil, divided
 - Kosher salt
 - Pickled ginger, a few slices per bowl
@@ -75,9 +75,7 @@
 Sort everything into bowls by when it hits the pot, so each later step is one dump:
 - **Bowl 1, the carrots:** peel the **4 carrots** and slice them into thin coins on a slant, about ⅛ inch. Thin slices cook all the way tender, which is easier on your stomach than crunchy carrots.
 - **Bowl 2, the zucchini:** halve the **zucchini** lengthwise and slice it into ½-inch half-moons. Thicker than the carrots, because zucchini cooks faster and goes mushy if it's cut thin.
-- **Bowl 3, the aromatics:**
-  - **1½ tbsp grated ginger** (the rest of the thumb, grated on a microplane or the small holes of a box grater)
-  - **2 garlic cloves**, grated or minced
+- **Bowl 3, the aromatics:** cut the rest of the peeled ginger (about **1½ tbsp**) into thin coins and pulse it with the **2 garlic cloves** on **Chop** in the mini food processor, scraping down once, until finely minced. Coins shorten the ginger's fibers, so it doesn't go stringy.
 - **Bowl 4, the sauce.** Whisk it together until the cornstarch fully dissolves:
   - **¼ cup low-sodium soy sauce**
   - **3 tbsp honey**

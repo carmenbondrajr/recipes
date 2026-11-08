@@ -58,8 +58,8 @@
 ### 1️⃣ Prep · ⏱ 10 min
 - Preheat the oven to **425°F** with a rack in the top position. The top of the oven is hottest, which is what browns the meatballs instead of just cooking them through.
 - Rinse the **1 cup jasmine rice** in a mesh strainer under cold water until it runs mostly clear, then leave it there to drain. Rinsing washes off loose surface starch, which is what makes rice gummy.
-- Slice the **3 scallions**, keeping whites and greens separate. Mince the whites and set the greens aside for garnish.
-- Mince the **3–4 thumbs ginger** (or measure out **3–4 tbsp ginger paste**).
+- Slice the **3 scallions**, keeping whites and greens separate. Set the greens aside for garnish.
+- Peel the **3–4 thumbs ginger** and cut it into thin coins. Pulse it with the **scallion whites** in the mini food processor on **Chop**, scraping down once, until finely minced. Cutting coins first shortens the ginger's fibers, so the blade doesn't end up with stringy bits. (Using **3–4 tbsp ginger paste** instead? Just mince the whites by hand.)
 - Oil a sheet pan generously, edge to edge.
 - ⚠️ **Don't skimp on the oil.** These stick hard, and prying them loose tears off the browned crust that the sauce clings to.
 

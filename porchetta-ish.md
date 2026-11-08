@@ -41,7 +41,7 @@
 *The rub*
 - 4 tsp whole fennel seed (1 tbsp + 1 tsp)
 - 4 tsp chopped fresh rosemary (~2 sprigs, stripped)
-- 4 garlic cloves, grated or finely chopped
+- 4 garlic cloves
 - Zest of 1 lemon
 - 2 tsp kosher salt
 - Heaping ½ tsp black pepper
@@ -74,14 +74,15 @@
 ### 1️⃣ Rub the pork · ⏱ 15 min, then overnight if you can
 - Toast the **4 tsp fennel seed** in a dry skillet over medium heat for **2–3 minutes**, shaking the pan, until they smell sweet and turn a shade darker. Heat wakes up the oils in the seeds, which turns their flavor from dusty to licorice-y and warm.
 - Crush them roughly in a mortar and pestle, or in a zip bag under a rolling pin or the bottom of a heavy pan. You want a mix of cracked seeds and powder, not dust. The cracked bits give you little bursts of fennel in each bite.
-- Mix them into a paste with the rest of the rub:
-  - **4 tsp chopped rosemary**
-  - **4 garlic cloves**, grated
-  - **Zest of 1 lemon**
+- Pulse these on **Chop** in the mini food processor, scraping down once, into a rough paste. The salt helps break down the garlic, and the oil keeps everything moving:
+  - **Rosemary leaves** from ~2 sprigs (**4 tsp chopped**)
+  - **4 garlic cloves**
   - **2 tsp kosher salt**
+  - **2 tbsp olive oil**
+- Scrape it into a bowl and stir in the cracked fennel and the rest, so the fennel stays in bits:
+  - **Zest of 1 lemon**
   - **Heaping ½ tsp black pepper**
   - **Heaping ½ tsp red pepper flakes**
-  - **2 tbsp olive oil**
 - Pat the **pork** really dry, since a short rest won't dry the surface much on its own and a wet surface won't brown. With a sharp knife, score the fat cap in a crosshatch about ¼ inch deep, through the fat but not into the meat. The cuts let the rub sink in and help the fat render and crisp.
 - Rub the paste all over the pork, pushing it into the scores.
 - Set it fat-side up on a plate and refrigerate it **uncovered overnight if you can, or at least 1–2 hours**. The longer the salt sits, the deeper it seasons and the more tender the lean meat stays, and the dry surface browns better in the oven.
@@ -130,7 +131,6 @@
 ## Tips & Notes
 - **Don't build sandwiches ahead.** Keep the parts separate and assemble each one fresh. Pork, salsa verde, and bread all keep well alone, but together they turn soggy by noon.
 - **How long things keep:** cooked pork lasts **4–5 days** in the fridge. Salsa verde lasts about **5 days**. Pour a thin layer of oil over the top and the herbs stay greener.
-- **No food processor?** Rock your knife through the herbs, capers, shallot, and garlic until very fine, then mash it all with the flat of the blade before stirring in the rest.
 - **Crust not browning?** If your oven runs cool, pull the pork at 130°F and broil it fat-side up for 2–5 minutes, until it reaches 140°F. Use a metal pan, since glass can shatter under the broiler.
 - **Packing it for work?** Pack the toasted roll, the pork + provolone, and the salsa verde + arugula in separate containers. Assemble it at your desk and eat it cold. Cold porchetta on bread is a perfectly respectable Roman lunch.
 - **Where's the anchovy?** Classic Italian salsa verde often has one. It's left out here, and the capers bring a similar briny punch.

@@ -44,8 +44,8 @@
 - ½ cup panko
 - ¼ cup half-and-half (or whole milk)
 - 1 egg
-- ½ small yellow onion, grated
-- 1 garlic clove, grated
+- ½ small yellow onion, in chunks
+- 1 garlic clove
 - 1 tsp kosher salt
 - ½ tsp black pepper
 - 2 tbsp butter + 1 tbsp neutral oil, for searing
@@ -65,11 +65,11 @@
 
 **Steps**
 
-1. **Make the panade (5 min).** In a big bowl, stir the **½ cup panko** into the **¼ cup half-and-half** and let it sit while you grate the onion. The soaked crumbs keep the meatballs tender. Keep it at ¼ cup, because the grated onion adds a lot of moisture too. More liquid than this makes a sticky mix and meatballs that fall apart.
+1. **Make the panade (5 min).** In a big bowl, stir the **½ cup panko** into the **¼ cup half-and-half** and let it sit while you knead the meat. The soaked crumbs keep the meatballs tender. Keep it at ¼ cup, because the pulsed onion adds a lot of moisture too. More liquid than this makes a sticky mix and meatballs that fall apart.
 
 2. **Knead the meat until tacky (3 min).** In a second bowl, add the **1 lb beef + ½ lb pork** and the **1 tsp salt** and knead with your hands for 1-2 minutes, until it turns sticky and stringy and pulls away in strands. **This is the step that makes them "tight."** Salt plus kneading draws out the meat proteins, which bind everything together into the springy, sausage-like bite IKEA meatballs have. This is the opposite of Italian meatballs, where you mix gently to keep them loose and crumbly.
 
-3. **Mix it all together (3 min).** Grate **½ small onion** and the **1 garlic clove** into the panade on the small holes of a box grater, which makes a pulp that melts into the meat. Add the **1 egg** and **½ tsp pepper**, stir, then add the kneaded meat and mix until evenly combined. That's all the seasoning, which matches IKEA's 2020 recipe. **Check the texture:** it should be soft and a bit tacky but should hold a shape when you roll a test ball. If the test ball slumps, see Tips.
+3. **Mix it all together (3 min).** Pulse **½ small onion** (in chunks) and the **1 garlic clove** on **Chop** in the mini food processor, scraping down once, until it's a wet pulp, then scrape it into the panade. The pulp melts into the meat, so you don't get crunchy bits of onion. Add the **1 egg** and **½ tsp pepper**, stir, then add the kneaded meat and mix until evenly combined. That's all the seasoning, which matches IKEA's 2020 recipe. **Check the texture:** it should be soft and a bit tacky but should hold a shape when you roll a test ball. If the test ball slumps, see Tips.
 
 4. **Roll small and chill (15-20 min).** Wet your hands and roll **1-inch balls** (measure out **2 level teaspoons** for the first few so you calibrate your eye, ~40 total) onto a plate or sheet pan. **Keep them small.** IKEA's meatballs are bite-sized, and it's a big part of the vibe: more browned surface, more gravy in every bite, and they cook through fast. If they start looking golf-ball-sized, you've drifted, so compare against the first few. Chill them at least 15 min. The fat firms up and they hold together much better in the pan, so don't skip this.
 

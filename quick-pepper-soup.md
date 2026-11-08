@@ -40,7 +40,7 @@
 - ½ tsp black pepper
 
 **Prep (bowls)**
-- Bowl 1 — aromatics: onion, celery, bell peppers, garlic
+- Bowl 1 — aromatics: cut the **2 bell peppers**, **2–3 celery stalks**, and **1 medium onion** into 1-inch chunks. Pulse them on **Chop** in the mini food processor in batches until diced, with the **2 garlic cloves** in the first batch. Stop while you can still see separate pieces, because past that they go watery. It all goes in the pot together, so it can share one bowl
 - Bowl 2 — liquids: diced tomatoes, tomato sauce, chicken broth
 - Measure rice separately
 

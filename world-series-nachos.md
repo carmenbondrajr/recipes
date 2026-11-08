@@ -87,11 +87,11 @@
 - Even 30 minutes is plenty for tonight. Thighs are sturdier than steak, so the lime won't turn them mushy within that window.
 
 ### 2️⃣ Prep everything else while it marinates · ⏱ 20 min
-- **Make the pico.** Stir together in a bowl:
+- **Make the pico.** Pulse the **½ white onion** (in chunks), **1 seeded jalapeño** (in chunks), and a big handful of cilantro (enough for **½ cup chopped**) on **Chop** in the mini food processor until finely chopped.
+- ⚠️ **Dice the tomatoes by hand.** The processor turns them into soup, and pico needs distinct pieces.
+- Stir together in a bowl:
   - **4 diced Roma tomatoes**
-  - **½ white onion, finely diced**
-  - **1 seeded, minced jalapeño**
-  - **½ cup chopped cilantro**
+  - **The onion, jalapeño, and cilantro**
   - **Juice of 1 lime**
   - **½ tsp kosher salt**
 - Let it sit at least 15 minutes. The salt pulls juice out of the tomatoes and mellows the raw onion. That juice is good for flavor in the bowl, but it's exactly what you don't want on the chips later, so you'll drain it before serving.
