@@ -54,12 +54,12 @@
 *Salsa verde*
 - 1 packed cup parsley leaves and tender stems
 - 2 tbsp fresh tarragon leaves (or basil)
-- 1 small shallot, minced
-- 1 garlic clove, grated
+- 1 small shallot, roughly chopped
+- 1 garlic clove, roughly chopped
 - 1 tbsp capers, rinsed
 - Zest of 1 lemon, plus 1 tbsp juice
 - 1 tbsp red wine vinegar
-- ½ cup olive oil
+- ¼ cup olive oil
 - Pinch of red pepper flakes and kosher salt
 
 *Each sandwich*
