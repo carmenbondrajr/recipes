@@ -13,7 +13,7 @@ grocery department, then the method, then tips.
 - [🍗 Chicken Piccata Florentine](chicken-piccata-florentine.md)
 - [🥦 Lazy Orzo](lazy-orzo.md) — *Chicken, Broccoli & Orzo Bake* · one pan, raw orzo bakes in the broth
 - [🍝 Grown-Up Hamburger Helper](grown-up-hamburger-helper.md) — *Creamy Beef and Pasta*
-- [🥔 Freezer Raid Gnocchi](freezer-raid-gnocchi.md) — *Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce* · freezer-to-table weeknight
+- [🥔 Giovedì Gnocchi](giovedi-gnocchi.md) — *Crispy Pan-Seared Gnocchi with Brown Butter, Meatballs & Red Sauce* · freezer-to-table weeknight
 - [🥓 Totaro's Tripea](totaros-tripea.md) — *Totaro's Tortellini Tripea* · crispy pancetta + peas in a Parmesan cream sauce, one skillet
 - [🧀 Crunchy Tortellini](crunchy-tortellini.md) — *Tortellini with Peas & Pangrattato* · vegetarian, brown-butter Parmesan cream, toasted breadcrumb crunch
 - [🔥 Firecracker Meatballs](firecracker-meatballs.md)
