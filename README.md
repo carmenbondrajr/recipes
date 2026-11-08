@@ -34,3 +34,4 @@ grocery department, then the method, then tips.
 
 - [🧁 Bignè](desserts/bigne.md) — *Italian Cream Puffs with Vanilla Whipped Cream* · makes 16, no mixer, beginner-friendly
 - [🍞 Maritozzi](desserts/maritozzi.md) — *Roman Sweet Buns Stuffed with Whipped Cream* · makes 6, no mixer, overnight rise
+- [🍪 Pasticcini alle Mandorle](desserts/pasticcini-alle-mandorle.md) — *Chewy Italian Almond Cookies with Lemon* · makes 20, one bowl, no mixer, easiest first bake
