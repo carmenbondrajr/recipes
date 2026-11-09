@@ -1,12 +1,13 @@
 # 🐷 Pulled Porchetta
-### Instant Pot Fennel-Rosemary Pulled Pork Sandwiches with Crunchy Fennel Relish
+### Instant Pot Fennel-Rosemary Pulled Pork Sandwiches with Crunchy Celery-Fennel Relish
 
 *One Instant Pot, one 3½ lb shoulder, about 8 sandwiches. About 40 minutes of hands-on work, plus 1 hour to overnight for the salt and ~1 hr 35 min under pressure. Real porchetta is a whole pork belly rolled around the loin. This keeps the fennel, rosemary, garlic and lemon, and lets the pressure cooker do all the tenderizing.*
 
 ## Shopping List
 
 **Produce**
-- **Fennel bulb (1 large, or 2 small, about 1 lb trimmed).** Look for firm, white bulbs with no brown spots, and fronds still attached if you can get them
+- **Celery (1 bunch; you'll use ~6 large stalks, about ¾ lb).** Leaves on if you can find it
+  - If the store has a firm, white fennel bulb, buy 1 large one and use it instead of the celery. The method stays the same, and the fronds stand in for the celery leaves
 - Fresh rosemary (1 small pack, ~3 sprigs)
 - Flat-leaf parsley (1 small bunch)
 - Fresh tarragon (1 small pack). If they're out, fresh basil works too. Both bring the anise note
@@ -42,7 +43,7 @@
 **Ingredients**
 
 *The seasoning*
-- 2 tbsp whole fennel seed
+- 2 tbsp + 1 tsp whole fennel seed
 - 4 tsp kosher salt (1 tbsp + 1 tsp)
 - 1 tsp black pepper
 - ¾ tsp red pepper flakes
@@ -60,9 +61,10 @@
 *The finish*
 - Zest of 1 lemon, plus 1 tbsp juice
 
-*Crunchy fennel relish (about 2 cups)*
-- 1 large fennel bulb (about 1 lb trimmed), fronds saved
-- ¾ tsp kosher salt
+*Crunchy celery-fennel relish (about 1½ cups)*
+- ~6 large celery stalks (about ¾ lb), plus a small handful of the pale inner leaves
+- ½ tsp kosher salt
+- 1 tsp toasted, cracked fennel seed (from the seasoning)
 - ½ packed cup parsley leaves and tender stems
 - 2 tbsp fresh tarragon leaves (or basil)
 - 1 small shallot, roughly chopped
@@ -77,13 +79,13 @@
 - 1 Italian kaiser roll
 - ~4 oz pulled pork
 - 2 slices provolone
-- ~3 tbsp fennel relish
+- ~3 tbsp relish
 
 ---
 
 ### 1️⃣ Season the pork · ⏱ 15 min, then 1 hour to overnight
-- Toast the **2 tbsp fennel seed** in a dry skillet over medium heat for **2–3 minutes**, shaking the pan, until they smell sweet and turn a shade darker. Heat wakes up the oils in the seeds, which turns their flavor from dusty to warm and licorice-y.
-- Crush them roughly in a mortar and pestle, or in a zip bag under a rolling pin or heavy pan. You want a mix of cracked seeds and powder. **Set aside 1 tsp** in a small bowl for the end, since a long pressure cook mutes fennel's top notes.
+- Toast the **2 tbsp + 1 tsp fennel seed** in a dry skillet over medium heat for **2–3 minutes**, shaking the pan, until they smell sweet and turn a shade darker. Heat wakes up the oils in the seeds, which turns their flavor from dusty to warm and licorice-y.
+- Crush them roughly in a mortar and pestle, or in a zip bag under a rolling pin or heavy pan. You want a mix of cracked seeds and powder. **Set aside 2 tsp** in a small bowl, 1 tsp for the relish and 1 tsp to finish the pork, since a long pressure cook mutes fennel's top notes.
 - Cut the **3½ lb pork** into **6 chunks, about 3 inches each**, following the natural seams where you can. Slice off the thick outer fat cap and any hard white slabs you find, but leave the thin streaks running through the meat. Chunks cook faster than a whole roast, and trimming now is the best defense against greasy pork later.
 - Pat the chunks dry and rub them all over with the remaining fennel and:
   - **4 tsp kosher salt**
@@ -117,29 +119,30 @@
 - Let it **natural release for 20 minutes**, then quick release the rest. Venting right away would make the meat seize up and lose its juices.
 - ⚠️ **If a chunk resists two forks, it's undercooked, not overcooked.** Seal it back up for **10 more minutes** with a 10-minute natural release. Tough shoulder needs more time, and it won't dry out the way loin does.
 
-### 6️⃣ Make the fennel relish · ⏱ 15 min, during the natural release
-- Trim the **fennel bulb**, saving a small handful of the feathery fronds. Halve it, cut out the tough core, and cut it into 1-inch chunks.
-- Pulse the fennel on **Chop** in the mini food processor, in 2 batches, until the pieces are about the size of a pea. ⚠️ **Stop while you can still see separate pieces.** Past that it turns to wet pulp, and the crunch is the whole point.
-- Toss the fennel in a bowl with the **¾ tsp kosher salt** and let it sit for **10 minutes**. The salt pulls out the water, so the relish stays crisp for days and doesn't soak your roll.
+### 6️⃣ Make the relish · ⏱ 15 min, during the natural release
+- Trim the **~6 celery stalks**, saving a small handful of the pale inner leaves, and cut the stalks into ½-inch pieces. Short pieces cut the strings, so they don't wrap around the blade or end up in your teeth.
+- Pulse the celery on **Chop** in the mini food processor, in 2 batches, until the pieces are about the size of a pea. ⚠️ **Stop while you can still see separate pieces.** Past that it turns to wet pulp, and the crunch is the whole point.
+- Toss the celery in a bowl with the **½ tsp kosher salt** and let it sit for **10 minutes**. The salt pulls out the water, so the relish stays crisp for days and doesn't soak your roll.
 - While it sits, pulse these in the empty processor until finely chopped. Short pulses keep the herbs green, since a long spin bruises them dark and bitter:
   - **½ packed cup parsley**
   - **2 tbsp tarragon**
-  - **The saved fennel fronds**
+  - **The saved celery leaves**
   - **1 tbsp capers**, rinsed
   - **1 small shallot**, roughly chopped
   - **1 garlic clove**, roughly chopped
-- Squeeze the fennel hard in a clean kitchen towel or by the handful, then return it to the bowl. Stir in the herb mix and:
+- Squeeze the celery hard in a clean kitchen towel or by the handful, then return it to the bowl. Stir in the herb mix and:
+  - **1 tsp reserved cracked fennel seed**, which softens in the dressing and carries the licorice
   - **Zest of 1 lemon** + **2 tbsp lemon juice**
   - **2 tbsp red wine vinegar**
   - **3 tbsp olive oil**
   - **Pinch of red pepper flakes**
-- Taste it. It should be bright, sharp, and a little licorice-y, since its job is to cut through the rich pork and cheese. Add a splash of vinegar if it tastes flat, and salt only if it needs it, because the capers and the fennel are already salty.
+- Taste it. It should be bright, sharp, and a little licorice-y, since its job is to cut through the rich pork and cheese. Add a splash of vinegar if it tastes flat, and salt only if it needs it, because the capers and the celery are already salty.
 
 ### 7️⃣ Pull, defat, and reduce · ⏱ 25 min
 - Move the pork to a big bowl or sheet pan with tongs, and shred it with two forks. Pick out and discard any soft lumps of fat as you go. ⚠️ **This is the step that decides whether it tastes rich or greasy**, so be picky.
 - Pour the pot liquid into a fat separator or a tall jar and wait **10 minutes**. Spoon or pour off the clear fat layer on top until you've removed nearly all of it.
 - Return the defatted liquid to the pot and simmer on **Sauté on high** for **10–15 minutes**, until reduced by about half. This concentrates it into a glossy, savory jus.
-- Toss the pork with **about 1 cup of the jus**, the **reserved 1 tsp cracked fennel**, the **zest of 1 lemon**, and **1 tbsp lemon juice**. Adding these raw at the end puts back the brightness that pressure cooking takes out. Taste, and add salt only now, since the jus concentrates as it reduces.
+- Toss the pork with **about 1 cup of the jus**, the **remaining 1 tsp cracked fennel**, the **zest of 1 lemon**, and **1 tbsp lemon juice**. Adding these raw at the end puts back the brightness that pressure cooking takes out. Taste, and add salt only now, since the jus concentrates as it reduces.
 - Save the leftover jus in a jar for reheating.
 
 ### 8️⃣ Build a sandwich · ⏱ 5 min
@@ -147,7 +150,7 @@
 - Pull the roll out. Add **~4 oz pulled pork** to the same skillet with a small spoonful of **jus** and warm it for **1–2 minutes**.
 - Pile the pork into a mound, lay **2 slices provolone** over the top, and cover the skillet for **about 1 minute** until the cheese melts.
 - Slide the cheesy pork onto the bottom half of the roll.
-- Pile **~3 tbsp fennel relish** on top of the cheese, using a fork so the extra dressing stays in the bowl, and close it up.
+- Pile **~3 tbsp relish** on top of the cheese, using a fork so the extra dressing stays in the bowl, and close it up.
 
 ---
 
@@ -160,5 +163,5 @@
 - **Don't build sandwiches ahead.** Keep the parts separate and assemble each one fresh, or the bread goes soggy.
 - **No Instant Pot?** Use the 10-inch Dutch oven. Sear and build the braise the same way, cover, and bake at **300°F for 3–3½ hours**, until the chunks shred easily.
 - **Broccoli rabe upgrade:** sauté chopped broccoli rabe with garlic, chili flakes, and olive oil, then pile it under the relish. Its bitterness is a classic match for rich pork, and Philly's famous roast pork sandwich uses it with sharp provolone.
-- **No tarragon or basil?** All-parsley relish is still great, and the fennel keeps the anise note.
+- **No tarragon or basil?** All-parsley relish is still great, and the fennel seed keeps the anise note.
 - **The history:** *porchetta* means "little pig." It comes from central Italy, where a whole pig is deboned, stuffed with herbs, rolled, and roasted for hours. The town of Ariccia, outside Rome, is famous for it and holds an official EU protected status for its version. In Rome it's sold sliced to order from trucks and stalls, stuffed into a plain roll, and eaten standing up. Wild fennel is the signature seasoning, which is why fennel seed does the heavy lifting here.
