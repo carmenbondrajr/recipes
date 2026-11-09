@@ -1,7 +1,7 @@
 # 🐉 Little Dragon Chicken
 ### Creamy Tarragon-Dijon Chicken with Crusty Bread
 
-*One large skillet, ~35 minutes, serves 2 generously or 3. A French bistro classic (*poulet à l'estragon*): thin chicken cutlets seared golden, then finished in a creamy pan sauce of shallots, white wine, Dijon and lots of fresh tarragon, with plenty of bread for swiping up the sauce. Tarragon goes in twice. The stems simmer in the sauce for depth, and the leaves get stirred in at the end for a bright licorice hit. Stove heat is given as numbers on the dial, same as [Chickpea Chops](chickpea-chops.md).*
+*One large skillet, ~35 minutes, serves 2 generously or 3. A French bistro classic (*poulet à l'estragon*): thin chicken cutlets seared golden, then finished in a creamy pan sauce of shallots, Dijon and lots of fresh tarragon, with plenty of bread for swiping up the sauce. Tarragon goes in twice. The stems simmer in the sauce for depth, and the leaves get stirred in at the end for a bright licorice hit. Stove heat is given as numbers on the dial, same as [Chickpea Chops](chickpea-chops.md).*
 
 ## Shopping List
 
@@ -20,10 +20,7 @@
 - Butter (2 tbsp)
 
 **Pantry / Center Aisles**
-- **Dry white wine (½ cup).** A Sauvignon Blanc or Pinot Grigio, or a single-serve 187 ml bottle (about ¾ cup) so you aren't opening a whole bottle
-  - Or **dry vermouth** if you have some at the bar. It keeps for months in the fridge and adds a nice herbal note
-  - **Or skip it entirely:** use **½ cup more broth** (1¼ cups total, still one 14.5 oz can) plus **1 tsp white wine vinegar** or **2 tsp lemon juice**. See Tips
-- **Low-sodium chicken broth (¾ cup).** One 14.5 oz can or a small carton. Low-sodium matters here, because it reduces down by half
+- **Low-sodium chicken broth (1¼ cups).** One 14.5 oz can or a small carton. Low-sodium matters here, because it reduces down a lot
 - Dijon mustard (1 tbsp). Check yours first
 - **Crusty bread:** a baguette or a round loaf. Or see Tips for mashed potatoes instead
 
@@ -46,7 +43,7 @@
 - 1 tbsp butter
 - 2 medium shallots, halved and thinly sliced
 - 2 garlic cloves, smashed
-- ½ cup dry white wine or dry vermouth
+- ½ cup low-sodium chicken broth + 2 tsp lemon juice, for deglazing
 - ¾ cup low-sodium chicken broth
 - Tarragon stems, from the bunch
 - ½ cup heavy cream
@@ -70,10 +67,10 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 - **Bowl 1, the aromatics:** **2 shallots**, halved through the root and thinly sliced, plus **2 garlic cloves**, smashed with the flat of your knife.
 - **The tarragon:** strip the leaves off the stems and give them a rough chop, about **3 tbsp**. Keep the stems, since they go into the sauce.
 - **Lined up by the stove, in order:**
-  - **½ cup wine**
+  - **½ cup broth** with **2 tsp lemon juice** stirred in. Halve the lemon and squeeze this from one half
   - **¾ cup broth** with the **tarragon stems** dropped in
   - **½ cup cream** with the **1 tbsp Dijon** whisked into it. Whisking it in now means it blends smoothly instead of leaving mustard blobs in the sauce
-- **Bowl 2, the finish:** **3 tbsp tarragon leaves**, **1 tbsp cold butter**, and the **lemon**, halved.
+- **Bowl 2, the finish:** **3 tbsp tarragon leaves**, **1 tbsp cold butter**, and the **lemon halves**.
 - Set the empty skillet on **6** for 3–4 minutes while you finish prepping, so it's evenly hot when the chicken goes in.
 
 ### 2️⃣ Dredge and sear the chicken · ⏱ 10–12 min
@@ -89,7 +86,7 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 ### 3️⃣ Build the sauce · ⏱ ~8 min
 - Turn the dial to **5** and add the **1 tbsp butter**.
 - Add the **shallots and garlic** with a pinch of salt. Stir for **2–3 minutes**, until the shallots are soft and turning translucent.
-- Pour in the **½ cup wine** and scrape up all the browned bits from the bottom of the pan. Let it bubble until it's almost gone, about **2 minutes**. That cooks off the boozy edge and leaves just the bright, fruity part.
+- Pour in the **½ cup broth with lemon juice** and scrape up all the browned bits from the bottom of the pan. Let it bubble until it's almost gone, about **2 minutes**. That concentrates the browned bits into the base of the sauce, and the lemon brings the brightness wine usually would.
 - Add the **¾ cup broth with the tarragon stems** and let it bubble until it's reduced by about half, about **3 minutes**.
 - Turn the dial down to **4** and stir in the **cream-Dijon**. Simmer for **2 minutes**, until the sauce coats the back of a spoon.
 - ⚠️ **Don't reduce it too far.** It thickens more once the chicken goes back in and as it cools on the plate. If it gets gloopy, or you see oil separating at the edges, stir in a splash of broth or water.
@@ -101,7 +98,7 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 - 🌡️ **Pull at 160°F** in the thickest cutlet. It coasts up to 165°F off the heat.
 
 ### 5️⃣ Finish and serve · ⏱ 2 min
-- Turn off the burner. Stir the **3 tbsp tarragon leaves** and the **1 tbsp cold butter** into the sauce, and squeeze in **half the lemon**.
+- Turn off the burner. Stir the **3 tbsp tarragon leaves** and the **1 tbsp cold butter** into the sauce, and squeeze in the **unsqueezed lemon half**.
 - Taste the sauce and add salt if it needs it.
 - Tarragon's licorice flavor fades with heat. Cooked too long, it goes flat and grassy. Stirred in at the very end, it stays bright. The cold butter melts slowly into the sauce and gives it a glossy, rich finish.
 - Serve the cutlets with lots of sauce, the **crusty bread** for swiping, and lemon wedges on the side.
@@ -112,8 +109,9 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 - **What ruins this: dry, rubbery chicken.** Usually that's from uneven cutlets or too long in the sauce. Slice evenly, use the thermometer, and remember the chicken only needs a few minutes in the sauce.
 - **What else ruins it: a gloopy or greasy sauce.** That's over-reduced cream. It's easy to fix, though: a splash of broth or water brings it right back.
 - **Want mashed potatoes instead of bread?** Cut **1½ lb Yukon Golds** into rough 2-inch chunks, skin on, and boil them in salted water for about **15 minutes**, until a fork slides in. Drain, then mash right in the pot with **3 tbsp butter**, **¼ cup warm milk** or cream, and salt. Yukons are buttery enough that skin-on and a little lumpy is a good thing. Start them before you sear the chicken.
-- **Lean into the licorice:** add a tiny splash (about **1 tsp**) of **pastis or Pernod** with the wine. It amplifies the tarragon without tasting boozy.
+- **Lean into the licorice:** add a tiny splash (about **1 tsp**) of **pastis or Pernod** with the deglazing broth. It amplifies the tarragon without tasting boozy.
 - **No fresh tarragon?** Use **1 tsp dried**, added with the broth so it has time to soften. It's more muted and hay-like than fresh, but still good. Finish with fresh parsley for some green.
-- **No wine?** Deglaze with **½ cup more broth** plus **1 tsp white wine vinegar** or **2 tsp lemon juice**, and let it bubble until almost gone, same as the wine. The acid stands in for the wine's brightness. The sauce ends up a little rounder and less fruity, so taste it at the end and add more lemon if it seems flat.
+- **Have dry vermouth at the bar, or wine already open?** Use **½ cup** of it instead of the deglazing broth and lemon juice in step 3. It adds a nice herbal note, and the alcohol cooks off as it bubbles down.
+- **Out of lemons?** **1 tsp white wine vinegar** works in the deglazing broth. If the finished sauce seems flat, it needs more acid or salt.
 - **What "tarragon" means:** it comes through the Arabic *tarkhūn* and French *estragon*, both traced back to the Greek *drakōn*, "dragon." The Latin name is *Artemisia dracunculus*, "little dragon," probably for its coiled, snakelike roots. Hence the 🐉.
 - **Tarragon's famous job** is in **béarnaise sauce**, named for Béarn, a region of southwest France. It's one of the four *fines herbes* of French cooking, along with parsley, chives and chervil. Chervil has the same gentle anise note.
