@@ -1,19 +1,19 @@
 # 🐷 Pulled Porchetta
-### Instant Pot Fennel-Rosemary Pulled Pork Sandwiches with Blended Salsa Verde
+### Instant Pot Fennel-Rosemary Pulled Pork Sandwiches with Crunchy Fennel Relish
 
 *One Instant Pot, one 3½ lb shoulder, about 8 sandwiches. About 40 minutes of hands-on work, plus 1 hour to overnight for the salt and ~1 hr 35 min under pressure. Real porchetta is a whole pork belly rolled around the loin. This keeps the fennel, rosemary, garlic and lemon, and lets the pressure cooker do all the tenderizing.*
 
 ## Shopping List
 
 **Produce**
+- **Fennel bulb (1 large, or 2 small, about 1 lb trimmed).** Look for firm, white bulbs with no brown spots, and fronds still attached if you can get them
 - Fresh rosemary (1 small pack, ~3 sprigs)
-- Flat-leaf parsley (1 bunch)
+- Flat-leaf parsley (1 small bunch)
 - Fresh tarragon (1 small pack). If they're out, fresh basil works too. Both bring the anise note
 - Lemons (2)
 - Garlic (1 head)
 - Yellow onion (1)
 - Shallot (1 small)
-- Baby arugula (one 5 oz clamshell)
 
 **Meat**
 - **Boneless pork shoulder (also labeled Boston butt), 3½ lb**
@@ -24,7 +24,7 @@
 - Sliced sharp provolone (~12 oz, about 16 slices)
 
 **Bakery**
-- Ciabatta rolls (8), plus 1 extra roll to tear up for the salsa. Extras freeze well, and so does the pork
+- Italian kaiser rolls (8). Extras freeze well, and so does the pork
 
 **Pantry / Center Aisles**
 - **Whole fennel seed.** Whole, not ground. Toasting and cracking it yourself is what makes this taste like porchetta
@@ -60,24 +60,24 @@
 *The finish*
 - Zest of 1 lemon, plus 1 tbsp juice
 
-*Blended salsa verde (about 1 cup)*
-- ~1 oz crustless ciabatta (about ½ packed cup, torn)
-- 2 tbsp red wine vinegar
-- 1 packed cup parsley leaves and tender stems
+*Crunchy fennel relish (about 2 cups)*
+- 1 large fennel bulb (about 1 lb trimmed), fronds saved
+- ¾ tsp kosher salt
+- ½ packed cup parsley leaves and tender stems
 - 2 tbsp fresh tarragon leaves (or basil)
 - 1 small shallot, roughly chopped
 - 1 garlic clove, roughly chopped
 - 1 tbsp capers, rinsed
-- Zest of 1 lemon, plus 1 tbsp juice
-- ⅓ cup olive oil
-- Pinch of red pepper flakes and kosher salt
+- Zest of 1 lemon, plus 2 tbsp juice
+- 2 tbsp red wine vinegar
+- 3 tbsp olive oil
+- Pinch of red pepper flakes
 
 *Each sandwich*
-- 1 ciabatta roll
+- 1 Italian kaiser roll
 - ~4 oz pulled pork
 - 2 slices provolone
-- 1–2 tbsp salsa verde
-- A handful of arugula
+- ~3 tbsp fennel relish
 
 ---
 
@@ -117,21 +117,23 @@
 - Let it **natural release for 20 minutes**, then quick release the rest. Venting right away would make the meat seize up and lose its juices.
 - ⚠️ **If a chunk resists two forks, it's undercooked, not overcooked.** Seal it back up for **10 more minutes** with a 10-minute natural release. Tough shoulder needs more time, and it won't dry out the way loin does.
 
-### 6️⃣ Blend the salsa verde · ⏱ 10 min, during the natural release
-- In a small bowl, soak the **~1 oz torn crustless ciabatta** in the **2 tbsp red wine vinegar** for **5 minutes**. This is the classic Italian trick: the bread gives the sauce body, so it spreads and stays put on the sandwich instead of running out.
-- Pulse these in the mini food processor on **Chop** until very finely chopped:
-  - **1 packed cup parsley**
+### 6️⃣ Make the fennel relish · ⏱ 15 min, during the natural release
+- Trim the **fennel bulb**, saving a small handful of the feathery fronds. Halve it, cut out the tough core, and cut it into 1-inch chunks.
+- Pulse the fennel on **Chop** in the mini food processor, in 2 batches, until the pieces are about the size of a pea. ⚠️ **Stop while you can still see separate pieces.** Past that it turns to wet pulp, and the crunch is the whole point.
+- Toss the fennel in a bowl with the **¾ tsp kosher salt** and let it sit for **10 minutes**. The salt pulls out the water, so the relish stays crisp for days and doesn't soak your roll.
+- While it sits, pulse these in the empty processor until finely chopped. Short pulses keep the herbs green, since a long spin bruises them dark and bitter:
+  - **½ packed cup parsley**
   - **2 tbsp tarragon**
+  - **The saved fennel fronds**
   - **1 tbsp capers**, rinsed
   - **1 small shallot**, roughly chopped
   - **1 garlic clove**, roughly chopped
-- Add the rest and pulse, scraping down twice, until it's thick and spreadable like pesto:
-  - **The soaked bread** and any vinegar left in the bowl
-  - **Zest of 1 lemon** + **1 tbsp lemon juice**
-  - **⅓ cup olive oil**
-  - **Pinch of red pepper flakes** and salt
-- ⚠️ **Use short pulses, and don't let it run.** A long spin heats and bruises the herbs, which turns them dark and bitter.
-- Taste it. It should be bright and a little sharp, since its job is to cut through the rich pork. Add a splash of vinegar if it tastes flat, or **1 tbsp cold water** if it's too stiff to spread.
+- Squeeze the fennel hard in a clean kitchen towel or by the handful, then return it to the bowl. Stir in the herb mix and:
+  - **Zest of 1 lemon** + **2 tbsp lemon juice**
+  - **2 tbsp red wine vinegar**
+  - **3 tbsp olive oil**
+  - **Pinch of red pepper flakes**
+- Taste it. It should be bright, sharp, and a little licorice-y, since its job is to cut through the rich pork and cheese. Add a splash of vinegar if it tastes flat, and salt only if it needs it, because the capers and the fennel are already salty.
 
 ### 7️⃣ Pull, defat, and reduce · ⏱ 25 min
 - Move the pork to a big bowl or sheet pan with tongs, and shred it with two forks. Pick out and discard any soft lumps of fat as you go. ⚠️ **This is the step that decides whether it tastes rich or greasy**, so be picky.
@@ -141,11 +143,11 @@
 - Save the leftover jus in a jar for reheating.
 
 ### 8️⃣ Build a sandwich · ⏱ 5 min
-- Split a **ciabatta roll** and toast it cut-side down in a skillet over medium heat for **1–2 minutes**, until golden. The toasted surface keeps the salsa from soaking into the bread.
+- Split an **Italian kaiser roll** and toast it cut-side down in a skillet over medium heat for **1–2 minutes**, until golden. Kaisers are softer than crusty bread, so the toasted surface is what keeps the jus and relish from soaking in.
 - Pull the roll out. Add **~4 oz pulled pork** to the same skillet with a small spoonful of **jus** and warm it for **1–2 minutes**.
 - Pile the pork into a mound, lay **2 slices provolone** over the top, and cover the skillet for **about 1 minute** until the cheese melts.
-- Slide the cheesy pork onto the bottom half of the roll, and spread **1–2 tbsp salsa verde** on top of the cheese.
-- Add a **handful of arugula** and close it up.
+- Slide the cheesy pork onto the bottom half of the roll.
+- Pile **~3 tbsp fennel relish** on top of the cheese, using a fork so the extra dressing stays in the bowl, and close it up.
 
 ---
 
@@ -154,11 +156,9 @@
 - **What ruins this: skipping the defatting.** Shoulder gives off a lot of fat, and it all ends up in the pot. If you have the time, refrigerate the liquid overnight and lift the solid fat off in one piece. That's the cleanest way to do it.
 - **What else ruins it: rushing the release.** Give it the full 20 minutes.
 - **Make it ahead.** The pork is better the next day. Store it with its jus so it stays moist, and always reheat it with a spoonful of jus.
-- **How long things keep:** cooked pork lasts **4–5 days** in the fridge or **3 months** in the freezer. Freeze it with some jus. Salsa verde lasts about **5 days**, and a thin layer of oil on top keeps it greener.
+- **How long things keep:** cooked pork lasts **4–5 days** in the fridge or **3 months** in the freezer. Freeze it with some jus. The relish lasts about **4 days** and is at its best after the first hour, once the flavors have mingled.
 - **Don't build sandwiches ahead.** Keep the parts separate and assemble each one fresh, or the bread goes soggy.
 - **No Instant Pot?** Use the 10-inch Dutch oven. Sear and build the braise the same way, cover, and bake at **300°F for 3–3½ hours**, until the chunks shred easily.
-- **Where's the anchovy?** Classic Italian salsa verde often has one. It's left out here, and the capers bring a similar briny punch.
-- **Want more fennel?** Swap the arugula for thinly shaved fresh fennel bulb tossed with lemon and salt. It doubles down on the anise.
-- **Broccoli rabe upgrade:** sauté chopped broccoli rabe with garlic, chili flakes, and olive oil, then pile it on instead of arugula. Its bitterness is a classic match for rich pork, and Philly's famous roast pork sandwich uses it with sharp provolone.
-- **No tarragon or basil?** All-parsley salsa verde is still great, just a little less sweet and herbal.
+- **Broccoli rabe upgrade:** sauté chopped broccoli rabe with garlic, chili flakes, and olive oil, then pile it under the relish. Its bitterness is a classic match for rich pork, and Philly's famous roast pork sandwich uses it with sharp provolone.
+- **No tarragon or basil?** All-parsley relish is still great, and the fennel keeps the anise note.
 - **The history:** *porchetta* means "little pig." It comes from central Italy, where a whole pig is deboned, stuffed with herbs, rolled, and roasted for hours. The town of Ariccia, outside Rome, is famous for it and holds an official EU protected status for its version. In Rome it's sold sliced to order from trucks and stalls, stuffed into a plain roll, and eaten standing up. Wild fennel is the signature seasoning, which is why fennel seed does the heavy lifting here.
