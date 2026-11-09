@@ -28,7 +28,7 @@ grocery department, then the method, then tips.
 - [🇸🇪 IKEA Meatballs](ikea-meatballs.md) — *Swedish Meatballs with Mashed Potatoes* · IKEA's official soy-Dijon cream gravy
 - [🍎 Party Pot Cider](party-pot-cider.md) — *Stovetop Mulled Cider* · all-day party pot, whole spices, spike by the mug
 - [🫚 Honey Ginger Chicken Bowls](honey-ginger-chicken-bowls.md) · gentle on the stomach, charred green onions, seared chicken breast, carrots + zucchini, ginger-scented jasmine rice
-- [🐷 Porchetta-ish](porchetta-ish.md) — *Instant Pot Fennel-Rosemary Pulled Pork Sandwiches* · blended salsa verde, ciabatta + provolone + arugula, makes 8
+- [🐷 Pulled Porchetta](pulled-porchetta.md) — *Instant Pot Fennel-Rosemary Pulled Pork Sandwiches* · blended salsa verde, ciabatta + provolone + arugula, makes 8
 - [🍆 Bruschette alla Parmigiana](bruschette-alla-parmigiana.md) — *Eggplant Parmesan on Crispy Garlic Toast* · makes 8, roasted eggplant, sauce + eggplant keep for snack-sized batches
 
 ## Desserts

@@ -1,7 +1,7 @@
-# 🐷 Porchetta-ish
+# 🐷 Pulled Porchetta
 ### Instant Pot Fennel-Rosemary Pulled Pork Sandwiches with Blended Salsa Verde
 
-*One Instant Pot, one 3½ lb shoulder, about 8 sandwiches. About 40 minutes of hands-on work, plus 1 hour to overnight for the salt and ~1 hr 35 min under pressure. It's "-ish" because real porchetta is a whole pork belly rolled around the loin. This keeps the fennel, rosemary, garlic and lemon, and lets the pressure cooker do all the tenderizing.*
+*One Instant Pot, one 3½ lb shoulder, about 8 sandwiches. About 40 minutes of hands-on work, plus 1 hour to overnight for the salt and ~1 hr 35 min under pressure. Real porchetta is a whole pork belly rolled around the loin. This keeps the fennel, rosemary, garlic and lemon, and lets the pressure cooker do all the tenderizing.*
 
 ## Shopping List
 
