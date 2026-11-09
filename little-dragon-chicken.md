@@ -22,6 +22,7 @@
 **Pantry / Center Aisles**
 - **Dry white wine (½ cup).** A Sauvignon Blanc or Pinot Grigio, or a single-serve 187 ml bottle (about ¾ cup) so you aren't opening a whole bottle
   - Or **dry vermouth** if you have some at the bar. It keeps for months in the fridge and adds a nice herbal note
+  - **Or skip it entirely:** use **½ cup more broth** (1¼ cups total, still one 14.5 oz can) plus **1 tsp white wine vinegar** or **2 tsp lemon juice**. See Tips
 - **Low-sodium chicken broth (¾ cup).** One 14.5 oz can or a small carton. Low-sodium matters here, because it reduces down by half
 - Dijon mustard (1 tbsp). Check yours first
 - **Crusty bread:** a baguette or a round loaf. Or see Tips for mashed potatoes instead
@@ -113,6 +114,6 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 - **Want mashed potatoes instead of bread?** Cut **1½ lb Yukon Golds** into rough 2-inch chunks, skin on, and boil them in salted water for about **15 minutes**, until a fork slides in. Drain, then mash right in the pot with **3 tbsp butter**, **¼ cup warm milk** or cream, and salt. Yukons are buttery enough that skin-on and a little lumpy is a good thing. Start them before you sear the chicken.
 - **Lean into the licorice:** add a tiny splash (about **1 tsp**) of **pastis or Pernod** with the wine. It amplifies the tarragon without tasting boozy.
 - **No fresh tarragon?** Use **1 tsp dried**, added with the broth so it has time to soften. It's more muted and hay-like than fresh, but still good. Finish with fresh parsley for some green.
-- **No wine?** Use extra broth plus **1 tsp white wine vinegar** or a squeeze of lemon for the acidity.
+- **No wine?** Deglaze with **½ cup more broth** plus **1 tsp white wine vinegar** or **2 tsp lemon juice**, and let it bubble until almost gone, same as the wine. The acid stands in for the wine's brightness. The sauce ends up a little rounder and less fruity, so taste it at the end and add more lemon if it seems flat.
 - **What "tarragon" means:** it comes through the Arabic *tarkhūn* and French *estragon*, both traced back to the Greek *drakōn*, "dragon." The Latin name is *Artemisia dracunculus*, "little dragon," probably for its coiled, snakelike roots. Hence the 🐉.
 - **Tarragon's famous job** is in **béarnaise sauce**, named for Béarn, a region of southwest France. It's one of the four *fines herbes* of French cooking, along with parsley, chives and chervil. Chervil has the same gentle anise note.
