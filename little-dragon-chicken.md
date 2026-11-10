@@ -1,7 +1,7 @@
 # 🐉 Little Dragon Chicken
 ### Creamy Tarragon-Dijon Chicken with Crusty Bread
 
-*One large skillet, ~35 minutes, serves 2 generously or 3. A French bistro classic (*poulet à l'estragon*): thin chicken cutlets seared golden, then finished in a creamy pan sauce of shallots, Dijon and lots of fresh tarragon, with plenty of bread for swiping up the sauce. Tarragon goes in twice. The stems simmer in the sauce for depth, and the leaves get stirred in at the end for a bright licorice hit. Stove heat is given as numbers on the dial, same as [Chickpea Chops](chickpea-chops.md).*
+*One large skillet, ~40 minutes, serves 2 generously or 3. A French bistro classic (*poulet à l'estragon*): thin chicken cutlets seared golden, then finished in a creamy pan sauce of shallots, Dijon and lots of fresh tarragon, with plenty of bread for swiping up the sauce. Tarragon goes in twice. The stems simmer in the sauce for depth, and the leaves get stirred in at the end for a bright licorice hit. Stove heat is given as numbers on the dial, same as [Chickpea Chops](chickpea-chops.md).*
 
 ## Shopping List
 
@@ -83,11 +83,11 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 - ⚠️ **Don't crowd the pan.** Cutlets that touch trap steam between them and turn pale and rubbery instead of golden.
 - ⚠️ **Watch the browned bits.** They should be golden-brown. If they're going black by the second batch, turn the dial down to **5**, because burnt bits make a bitter sauce.
 
-### 3️⃣ Build the sauce · ⏱ ~8 min
+### 3️⃣ Build the sauce · ⏱ 10–15 min
 - Turn the dial to **5** and add the **1 tbsp butter**.
 - Add the **shallots and garlic** with a pinch of salt. Stir for **2–3 minutes**, until the shallots are soft and turning translucent.
 - Pour in the **½ cup broth with lemon juice** and scrape up all the browned bits from the bottom of the pan. Let it bubble until it's almost gone, about **2 minutes**. That concentrates the browned bits into the base of the sauce, and the lemon brings the brightness wine usually would.
-- Add the **¾ cup broth with the tarragon stems** and let it bubble until it's reduced by about half, about **3 minutes**.
+- Add the **¾ cup broth with the tarragon stems** and let it bubble until it's reduced by about half, anywhere from **3 to 8 minutes** depending on your pan and burner. Go by the look, not the clock, and don't add the cream until it gets there. The chicken is happy to wait.
 - Turn the dial down to **4** and stir in the **cream-Dijon**. Simmer for **2 minutes**, until the sauce coats the back of a spoon.
 - ⚠️ **Don't reduce it too far.** It thickens more once the chicken goes back in and as it cools on the plate. If it gets gloopy, or you see oil separating at the edges, stir in a splash of broth or water.
 
