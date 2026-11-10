@@ -43,8 +43,8 @@
 - 1 tbsp butter
 - 2 medium shallots, halved and thinly sliced
 - 2 garlic cloves, smashed
-- ½ cup low-sodium chicken broth + 2 tsp lemon juice, for deglazing
-- ¾ cup low-sodium chicken broth
+- 1¼ cups low-sodium chicken broth
+- 2 tsp lemon juice, squeezed from half the lemon
 - Tarragon stems, from the bunch
 - ½ cup heavy cream
 - 1 tbsp Dijon mustard
@@ -66,11 +66,11 @@ Sort everything by *when it hits the pan*, so each step is one dump:
   - Even thickness is what keeps breast meat juicy. A cutlet that's thick at one end is dry at the other by the time it's cooked through.
 - **Bowl 1, the aromatics:** **2 shallots**, halved through the root and thinly sliced, plus **2 garlic cloves**, smashed with the flat of your knife.
 - **The tarragon:** strip the leaves off the stems and give them a rough chop, about **3 tbsp**. Keep the stems, since they go into the sauce.
-- **Lined up by the stove, in order:**
-  - **½ cup broth** with **2 tsp lemon juice** stirred in. Halve the lemon and squeeze this from one half
-  - **¾ cup broth** with the **tarragon stems** dropped in
-  - **½ cup cream** with the **1 tbsp Dijon** whisked into it. Whisking it in now means it blends smoothly instead of leaving mustard blobs in the sauce
-- **Bowl 2, the finish:** **3 tbsp tarragon leaves**, **1 tbsp cold butter**, and the **lemon halves**.
+- **By the stove:**
+  - **1¼ cups broth** in your measuring cup. This is the only liquid to measure ahead, and everything else happens during step 3
+  - The **lemon**, cut in half
+  - The **tarragon stems**, the **cream**, the **Dijon** and a fork
+- **Bowl 2, the finish:** **3 tbsp tarragon leaves** and **1 tbsp cold butter**.
 - Set the empty skillet on **6** for 3–4 minutes while you finish prepping, so it's evenly hot when the chicken goes in.
 
 ### 2️⃣ Dredge and sear the chicken · ⏱ 10–12 min
@@ -86,9 +86,11 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 ### 3️⃣ Build the sauce · ⏱ 10–15 min
 - Turn the dial to **5** and add the **1 tbsp butter**.
 - Add the **shallots and garlic** with a pinch of salt. Stir for **2–3 minutes**, until the shallots are soft and turning translucent.
-- Pour in the **½ cup broth with lemon juice** and scrape up all the browned bits from the bottom of the pan. Let it bubble until it's almost gone, about **2 minutes**. That concentrates the browned bits into the base of the sauce, and the lemon brings the brightness wine usually would.
-- Add the **¾ cup broth with the tarragon stems** and let it bubble until it's reduced by about half, anywhere from **3 to 8 minutes** depending on your pan and burner. Go by the look, not the clock, and don't add the cream until it gets there. The chicken is happy to wait.
-- Turn the dial down to **4** and stir in the **cream-Dijon**. Simmer for **2 minutes**, until the sauce coats the back of a spoon.
+- Pour **½ cup of the broth** into the pan, stopping when the measuring cup drops to the **¾ cup line**.
+- Squeeze in **2 tsp lemon juice** from one lemon half, which is a good firm squeeze, catching the seeds with your fingers. Scrape up all the browned bits from the bottom of the pan and let it bubble until it's almost gone, about **2 minutes**. That concentrates the browned bits into the base of the sauce, and the lemon brings the brightness wine usually would.
+- Pour in the **remaining ¾ cup broth** and drop in the **tarragon stems**. Let it bubble until it's reduced by about half, anywhere from **3 to 8 minutes** depending on your pan and burner. Go by the look, not the clock, and don't add the cream until it gets there. The chicken is happy to wait.
+- While that bubbles, pour the **½ cup cream** into the empty measuring cup, no rinsing needed. Add the **1 tbsp Dijon** and whisk with a fork, so it blends smoothly instead of leaving mustard blobs in the sauce.
+- Once the broth has reduced, turn the dial down to **4** and stir in the **cream-Dijon**. Simmer for **2 minutes**, until the sauce coats the back of a spoon.
 - ⚠️ **Don't reduce it too far.** It thickens more once the chicken goes back in and as it cools on the plate. If it gets gloopy, or you see oil separating at the edges, stir in a splash of broth or water.
 
 ### 4️⃣ Finish the chicken in the sauce · ⏱ 3–4 min
@@ -111,7 +113,7 @@ Sort everything by *when it hits the pan*, so each step is one dump:
 - **Want mashed potatoes instead of bread?** Cut **1½ lb Yukon Golds** into rough 2-inch chunks, skin on, and boil them in salted water for about **15 minutes**, until a fork slides in. Drain, then mash right in the pot with **3 tbsp butter**, **¼ cup warm milk** or cream, and salt. Yukons are buttery enough that skin-on and a little lumpy is a good thing. Start them before you sear the chicken.
 - **Lean into the licorice:** add a tiny splash (about **1 tsp**) of **pastis or Pernod** with the deglazing broth. It amplifies the tarragon without tasting boozy.
 - **No fresh tarragon?** Use **1 tsp dried**, added with the broth so it has time to soften. It's more muted and hay-like than fresh, but still good. Finish with fresh parsley for some green.
-- **Have dry vermouth at the bar, or wine already open?** Use **½ cup** of it instead of the deglazing broth and lemon juice in step 3. It adds a nice herbal note, and the alcohol cooks off as it bubbles down.
-- **Out of lemons?** **1 tsp white wine vinegar** works in the deglazing broth. If the finished sauce seems flat, it needs more acid or salt.
+- **Have dry vermouth at the bar, or wine already open?** Use **½ cup** of it instead of the first pour of broth and the lemon juice in step 3. It adds a nice herbal note, and the alcohol cooks off as it bubbles down.
+- **Out of lemons?** **1 tsp white wine vinegar** works in place of the lemon juice in step 3. If the finished sauce seems flat, it needs more acid or salt.
 - **What "tarragon" means:** it comes through the Arabic *tarkhūn* and French *estragon*, both traced back to the Greek *drakōn*, "dragon." The Latin name is *Artemisia dracunculus*, "little dragon," probably for its coiled, snakelike roots. Hence the 🐉.
 - **Tarragon's famous job** is in **béarnaise sauce**, named for Béarn, a region of southwest France. It's one of the four *fines herbes* of French cooking, along with parsley, chives and chervil. Chervil has the same gentle anise note.
