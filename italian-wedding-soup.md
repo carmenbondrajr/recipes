@@ -97,6 +97,12 @@
 - Slide in the baked meatballs and keep it at a lazy simmer for 10 minutes so they soak up some broth and give some flavor back.
 - ⚠️ **No hard boil.** A rolling boil knocks the meatballs apart.
 - Put a small pot of salted water on to boil for the pasta.
+- While it simmers, prep the **1 small head escarole** (spinach needs nothing, skip ahead):
+  - Trim off the root end so the leaves fall apart, and toss any ragged outer leaves. Keep the pale ribs, which are the mildest, most tender part.
+  - Stack the leaves and cut them into bite-size pieces about 1 inch across, like Caesar salad. Long ribbons drape off the spoon and drag the pasta with them.
+  - Wash *after* chopping. Swish the pieces in a big bowl of cold water, let it sit a minute so the dirt sinks, then lift the greens out with your hands. Pouring through a colander dumps the grit right back on top.
+  - No need to dry it, since it's going straight into soup.
+- ⚠️ **Don't skip the wash.** Escarole grows low and holds sandy soil in the base of its leaves, and grit in the broth can't be fixed later.
 
 ### 6️⃣ Cook the acini di pepe on the side · ⏱ 8–9 min
 - Boil the **¾ cup acini di pepe** in the small pot until tender, then drain.
