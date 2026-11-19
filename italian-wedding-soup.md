@@ -128,6 +128,7 @@
 - Stir the **¾ cup acini di pepe** straight into the simmering soup and cook until tender.
 - The pasta is the thickener. It sheds starch into the broth as it cooks, which turns a thin broth into one with some body.
 - Stir every minute or so, scraping the bottom. The tiny balls sink and stick.
+- The pasta also drinks a cup or more of the broth. If the soup ends up thicker than you like, stir in a splash of water.
 - ⚠️ **Still no hard boil.** Keep it at the same gentle simmer so the meatballs hold together.
 
 ### 7️⃣ Wilt the greens · ⏱ 2 min
