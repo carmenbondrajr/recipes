@@ -1,13 +1,13 @@
 # 🥣 Italian Wedding Soup
 
-*One big pot plus a small one for the pasta, ~1 hour, makes about 5 bowls. A single 1 lb batch of tiny parmesan meatballs simmered in chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
+*One big pot plus a small one for the pasta, ~1¼ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan meatballs simmered in chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
 
 ## Shopping List
 
 **Produce**
 - 1 yellow onion
-- 2 carrots
-- 2 celery stalks
+- 4 carrots (or about 24 baby carrots)
+- 4 celery stalks
 - 1 garlic head (5 cloves total)
 - **Greens: 1 small head escarole, or one 5 oz bag baby spinach**
   - Escarole is mildly bitter and holds its shape. Spinach is mild and melts into the broth
@@ -37,7 +37,7 @@
 
 **Ingredients**
 
-*The meatballs (~45)*
+*The meatballs (~96 small ones)*
 - 1 lb ground meat
 - ½ cup breadcrumbs
 - 6 tbsp milk (⅓ cup plus a splash), more if needed
@@ -50,7 +50,7 @@
 
 *The soup*
 - 2 tbsp olive oil
-- 1 onion, 2 carrots, 2 celery stalks, all finely diced
+- 1 onion, 4 carrots, 4 celery stalks, all hand-chopped into a ¼-inch dice
 - 3 cloves garlic, minced
 - 8 cups chicken broth
 - 2 bay leaves
@@ -68,7 +68,7 @@
 - ⚠️ **An under-hydrated panade is the quiet failure.** Dry crumbs can't hold water they never absorbed, so the meatballs come out dense. Erring wet is safe, since the meat soaks up the extra.
 - While it soaks, pulse **5 garlic cloves** in the mini food processor on **Chop**, scraping down once, until minced. Scoop a little over half (**3 cloves' worth**) into a small bowl for the soup. Add parsley leaves (enough for **2 tbsp chopped**) to what's left and pulse a few more times for the meatballs.
 
-### 2️⃣ Mix and roll the meatballs · ⏱ 15 min
+### 2️⃣ Mix and roll the meatballs · ⏱ 25 min
 - Add everything to the panade:
   - **1 lb ground meat**
   - **½ cup parmesan**
@@ -78,17 +78,19 @@
   - A few grinds of black pepper
 - Mix with your hands only until it comes together. Overworking compacts the protein and toughens the meatballs.
 - ⚠️ **Don't skimp on the salt.** The broth gets seasoned at the end, but the meatballs are seasoned once and never again. Under-salted meatballs in a well-seasoned broth taste bland, and there's no fixing it later.
-- On the lined sheet pan, press the mix into a ¾"-thick rectangle and cut a **6 × 8 grid**. Roll each square into a ball, about 1" across. Every ball comes out the same size, and it's much faster than scooping. Keep your hands wet with cold water so the meat doesn't stick.
-- Keep them small. These have to fit on a spoon next to the pasta, and a tablespoon scoop makes them too big.
+- On the lined sheet pan, press the mix into a **½"-thick rectangle, about 8 × 10 inches**, and cut an **8 × 12 grid** (96 pieces). The grid does the portioning, so every ball comes out the same size without judging it by eye.
+- Roll each piece into a ball. Each one is about a **heaped teaspoon** and a bit under 1" across, the size of a grape. They don't need to be perfect spheres. Keep your hands wet with cold water so the meat doesn't stick.
+- ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A tablespoon of mix is already double the right size.
 
-### 3️⃣ Bake the meatballs · ⏱ 12–15 min
-- Spread the meatballs out on the sheet pan and bake at **400°F for 12–15 minutes**, until lightly browned. Baking browns them all at once with no batches, and it firms them up so they hold together in the simmer.
-- While they bake, cut the **2 carrots**, **2 celery stalks**, and **1 onion** into 1-inch chunks and pulse them on **Chop** into a fine dice, one vegetable at a time and in that order. Hard carrots need the most pulses and onion the fewest, and everything goes in the pot together, so they can share a bowl.
-- ⚠️ **Stop while you can still see separate little pieces.** Past that, the onion turns watery and steams into mush.
+### 3️⃣ Bake the meatballs · ⏱ 10–12 min
+- Spread the meatballs out on the sheet pan and bake at **400°F for 10–12 minutes**, until lightly browned. They can sit close together. Baking browns them all at once with no batches, and it firms them up so they hold together in the simmer.
+- While they bake, chop the **4 carrots**, **4 celery stalks**, and **1 onion** by hand into a small dice, about ¼ inch. Everything goes in the pot together, so they can share a bowl.
+- Use a knife here, not the food processor. The processor minces the vegetables so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon.
+- If the chopping outlasts the bake, pull the meatballs and let them wait on the pan.
 
-### 4️⃣ Sweat the vegetables · ⏱ 8 min
+### 4️⃣ Sweat the vegetables · ⏱ 10–12 min
 - Heat **2 tbsp olive oil** in a big pot over **medium**.
-- Add the **diced onion, carrots, and celery** with a pinch of salt and cook until soft and the onion is translucent.
+- Add the **diced onion, carrots, and celery** with a pinch of salt and cook until the onion is translucent and smells sweet instead of sharp, and the carrots have started to soften. They finish getting tender in the simmer.
 - Add the **3 cloves minced garlic** for 1 minute more.
 - No browning needed. This soup wants a clean, light broth, not a deep fond.
 
@@ -125,6 +127,7 @@
 - **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in slowly. Thin it with a tablespoon of water and give it a few extra minutes.
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
 - **Chicken or turkey meatballs:** lean meat dries out fast, so use dark meat/thigh if you can, add **1–1½ tbsp olive oil** to the mix, keep the panade, and pull them from the oven a minute or two early.
+- **Melon baller instead of the grid:** the larger end, packed and slightly rounded, lands close to the right size. Check the first few against a heaped teaspoon, and dip it in water between scoops, since it has no release and the mix sticks. A standard small cookie scoop is 1 tbsp, which is double the size you want.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
 - **Egg ribbons, if you ever want them:** whisk **1 egg** with **¼ cup parmesan**. With the soup at a *bare* simmer, drizzle it in a thin stream while stirring slowly in one direction. It sets on contact into silky strands, like *stracciatella*. Ladle out a bowl first if you want to test it.
