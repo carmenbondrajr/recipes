@@ -38,7 +38,7 @@
 
 **Ingredients**
 
-*The meatballs (~96 small ones)*
+*The meatballs (~70 small ones)*
 - 1 lb ground chicken
 - 1 tbsp olive oil
 - ½ cup breadcrumbs
@@ -83,15 +83,17 @@
 - The olive oil stands in for the fat that chicken doesn't have. Lean meat dries out fast, and this keeps the meatballs tender.
 - Mix with your hands only until it comes together. Overworking compacts the protein and toughens the meatballs.
 - ⚠️ **Don't skimp on the salt.** The broth gets seasoned at the end, but the meatballs are seasoned once and never again. Under-salted meatballs in a well-seasoned broth taste bland, and there's no fixing it later.
-- Put the bowl in the fridge for **15–20 minutes**. Chicken mix is soft and sticky at room temperature, and cold firms it up enough to cut and roll without smearing.
+- Put the bowl in the fridge for **15–20 minutes**. Chicken mix is soft and sticky at room temperature, and cold firms it up enough to scoop cleanly without smearing.
 - While it chills, cut the **1 onion** into 1-inch chunks and pulse it on **Chop** until finely chopped. Stop while you can still see separate little pieces. It gets its own bowl, because it goes in the pot first.
 - Chop the **4 carrots** and **4 celery stalks** by hand into a small dice, about ¼ inch. They can share a bowl.
 - Use a knife for these two, not the food processor. The processor minces them so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon. The onion is meant to melt away, so the processor is fine for it.
 
-### 3️⃣ Roll and bake the meatballs · ⏱ 25–30 min
-- On the lined sheet pan, press the chilled mix into a **½"-thick rectangle, about 8 × 10 inches**, and cut an **8 × 12 grid** (96 pieces). The grid does the portioning, so every ball comes out the same size without judging it by eye.
-- Roll each piece into a ball. Each one is about a **heaped teaspoon** and a bit under 1" across, the size of a grape. They don't need to be perfect spheres. Keep a cup of cold water next to you and re-wet your hands often so the meat doesn't stick.
-- ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A tablespoon of mix is already double the right size.
+### 3️⃣ Scoop and bake the meatballs · ⏱ 20–25 min
+- Set a cup of cold water next to the lined sheet pan. Portion the chilled mix with the **#100 scoop** (2 teaspoons), dropping each one straight onto the parchment. You'll get about 70, each around 1" across, the size of a grape.
+- Fill the scoop **level or a little shy, never heaped**. Scrape it flat against the side of the bowl.
+- Dunk the scoop in the water every few scoops. A wet scoop releases cleanly, and a dry one gums up within three or four meatballs.
+- Rolling is optional. A quick pass with wet hands rounds them off, but baked little domes eat exactly the same.
+- ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A heaped scoop is already too much.
 - Spread them out on the sheet pan and bake at **400°F for 10–12 minutes**, until lightly browned and firm. They can sit close together. Baking browns them all at once with no batches, and it firms them up so they hold together in the simmer.
 - ⚠️ **Don't bake them longer to get more color.** Chicken dries out fast, and they finish cooking in the simmer anyway.
 - While they bake, get started on step 4.
@@ -137,7 +139,7 @@
 - **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in slowly. Thin it with a tablespoon of water and give it a few extra minutes.
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
 - **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. The chill becomes optional, and they can take a minute or two longer in the oven.
-- **Melon baller instead of the grid:** the larger end, packed and slightly rounded, lands close to the right size. Check the first few against a heaped teaspoon, and dip it in water between scoops, since it has no release and the mix sticks. A standard small cookie scoop is 1 tbsp, which is double the size you want.
+- **No #100 scoop handy?** Press the chilled mix into a ½"-thick rectangle, about 8 × 10 inches, on the lined sheet pan and cut an **8 × 12 grid**. Roll each piece with wet hands. The grid does the portioning, so they all come out the same size. Don't reach for a regular small cookie scoop, which is 1 tbsp and makes them too big.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
 - **Egg ribbons, if you ever want them:** whisk **1 egg** with **¼ cup parmesan**. With the soup at a *bare* simmer, drizzle it in a thin stream while stirring slowly in one direction. It sets on contact into silky strands, like *stracciatella*. Ladle out a bowl first if you want to test it.
