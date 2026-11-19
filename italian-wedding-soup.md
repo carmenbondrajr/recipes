@@ -1,6 +1,6 @@
 # 🥣 Italian Wedding Soup
 
-*One big pot plus a small one for the pasta, ~1½ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan chicken meatballs simmered in chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
+*One big pot plus a small one for the pasta, ~1½ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan chicken meatballs simmered in a pancetta-enriched chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
 
 ## Shopping List
 
@@ -15,11 +15,14 @@
 - Fresh parsley (1 small bunch)
 - 1 lemon
 
-**Meat — 1 lb**
+**Meat**
 - **1 lb ground chicken.** Makes a light meatball that lets the broth lead
   - Grab **dark meat/thigh** if it's there, and skip anything labeled extra lean or breast only, which bakes up dry
   - Ground turkey swaps 1:1
   - **Pivot: 1 lb meatloaf mix** (beef/pork/veal), **ground pork**, or **80/20 ground beef** for a richer, more traditional meatball (see Tips)
+- **4 oz diced pancetta.** Usually a 4 oz tub of pre-diced cubes, near the deli or the specialty cheese
+  - Only sliced pancetta? Get 4 oz and chop it up
+  - **Pivot: 4 slices thick-cut bacon**, diced. It works the same way but adds smoke, which pulls the soup in a different direction
 
 **Dairy**
 - Grated parmesan — **1 cup** (½ cup for the meatballs, ½ cup for the table)
@@ -51,7 +54,8 @@
 - Black pepper
 
 *The soup*
-- 2 tbsp olive oil
+- 4 oz diced pancetta
+- Olive oil, only if the pot looks dry
 - 1 onion, finely chopped in the food processor
 - 4 carrots and 4 celery stalks, hand-chopped into a ¼-inch dice
 - 3 cloves garlic, minced
@@ -98,13 +102,16 @@
 - ⚠️ **Don't bake them longer to get more color.** Chicken dries out fast, and they finish cooking in the simmer anyway.
 - While they bake, get started on step 4.
 
-### 4️⃣ Sweat the vegetables · ⏱ 15 min
-- Heat **2 tbsp olive oil** in a big pot over **medium**.
+### 4️⃣ Render the pancetta and sweat the vegetables · ⏱ 22 min
+- Put the **4 oz diced pancetta** in the big pot while it's still cold, then turn the heat to **medium**. Cook 6–8 minutes, stirring now and then, until the fat has melted out and the cubes are golden. Starting cold gives the fat time to melt out before the outside browns.
+- This is where the broth gets its richness. Boxed broth has almost no fat, and the meatballs leave theirs on the sheet pan, so without the pancetta the soup tastes thin.
+- Leave the pancetta and all of its fat in the pot. You want about 2 tbsp of fat. If it looks dry, add a splash of olive oil.
+- ⚠️ **Golden, not dark.** If the bits on the bottom of the pot are turning dark brown, turn the heat down. Burnt bits make the whole broth bitter.
 - Add the **chopped onion** alone with a pinch of salt and cook about 5 minutes, until it's translucent and smells sweet instead of sharp. Processor onion gives off more harsh, eye-stinging fumes and more water than knife-cut, so it needs this head start to cook them off.
 - ⚠️ **Go by the smell, not the clock.** Onion that still smells sharp here will still taste raw in the finished soup.
 - Add the **diced carrots and celery** and cook 8–10 minutes more, until the carrots have started to soften. They finish getting tender in the simmer.
 - Add the **3 cloves minced garlic** for 1 minute more.
-- No browning needed. This soup wants a clean, light broth, not a deep fond.
+- Scrape the bottom of the pot as the vegetables give off their water. The golden bits the pancetta left behind dissolve into it, and that's flavor for the broth.
 
 ### 5️⃣ Simmer the meatballs · ⏱ 10 min
 - Add the **8 cups broth** and **2 bay leaves** and bring it to a gentle simmer.
@@ -128,7 +135,7 @@
 
 ### 8️⃣ Finish and serve
 - Fish out the bay leaves.
-- Squeeze in the **juice of ½ lemon**, then taste. Add more lemon and salt until the broth tastes bright and seasoned, not flat.
+- Squeeze in the **juice of ½ lemon**, then taste before adding any salt, since the pancetta has already seasoned the broth. Add more lemon and salt until it tastes bright and seasoned, not flat.
 - Spoon some acini into each bowl and ladle the soup over it. **½ cup parmesan** goes on the table.
 
 ---
@@ -144,4 +151,4 @@
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
 - **Egg ribbons, if you ever want them:** whisk **1 egg** with **¼ cup parmesan**. With the soup at a *bare* simmer, drizzle it in a thin stream while stirring slowly in one direction. It sets on contact into silky strands, like *stracciatella*. Ladle out a bowl first if you want to test it.
 - **Buttered bread for dipping** is not optional, apparently.
-- **The name:** there's no wedding. "Italian wedding soup" is a fumbled translation of *minestra maritata*, "married soup." The marriage is **the greens and the meat**: bitter greens cutting through rich pork. That's why escarole is traditional. Its bitterness is doing a job.
+- **The name:** there's no wedding. "Italian wedding soup" is a fumbled translation of *minestra maritata*, "married soup." The marriage is **the greens and the meat**: bitter greens cutting through rich pork. That's why escarole is traditional. Its bitterness is doing a job. With chicken meatballs, the pancetta is the pork half of the marriage.
