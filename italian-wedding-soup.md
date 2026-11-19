@@ -50,7 +50,8 @@
 
 *The soup*
 - 2 tbsp olive oil
-- 1 onion, 4 carrots, 4 celery stalks, all hand-chopped into a ¼-inch dice
+- 1 onion, finely chopped in the food processor
+- 4 carrots and 4 celery stalks, hand-chopped into a ¼-inch dice
 - 3 cloves garlic, minced
 - 8 cups chicken broth
 - 2 bay leaves
@@ -84,13 +85,16 @@
 
 ### 3️⃣ Bake the meatballs · ⏱ 10–12 min
 - Spread the meatballs out on the sheet pan and bake at **400°F for 10–12 minutes**, until lightly browned. They can sit close together. Baking browns them all at once with no batches, and it firms them up so they hold together in the simmer.
-- While they bake, chop the **4 carrots**, **4 celery stalks**, and **1 onion** by hand into a small dice, about ¼ inch. Everything goes in the pot together, so they can share a bowl.
-- Use a knife here, not the food processor. The processor minces the vegetables so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon.
+- While they bake, cut the **1 onion** into 1-inch chunks and pulse it on **Chop** until finely chopped. Stop while you can still see separate little pieces. It gets its own bowl, because it goes in the pot first.
+- Chop the **4 carrots** and **4 celery stalks** by hand into a small dice, about ¼ inch. They can share a bowl.
+- Use a knife for these two, not the food processor. The processor minces them so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon. The onion is meant to melt away, so the processor is fine for it.
 - If the chopping outlasts the bake, pull the meatballs and let them wait on the pan.
 
-### 4️⃣ Sweat the vegetables · ⏱ 10–12 min
+### 4️⃣ Sweat the vegetables · ⏱ 15 min
 - Heat **2 tbsp olive oil** in a big pot over **medium**.
-- Add the **diced onion, carrots, and celery** with a pinch of salt and cook until the onion is translucent and smells sweet instead of sharp, and the carrots have started to soften. They finish getting tender in the simmer.
+- Add the **chopped onion** alone with a pinch of salt and cook about 5 minutes, until it's translucent and smells sweet instead of sharp. Processor onion gives off more harsh, eye-stinging fumes and more water than knife-cut, so it needs this head start to cook them off.
+- ⚠️ **Go by the smell, not the clock.** Onion that still smells sharp here will still taste raw in the finished soup.
+- Add the **diced carrots and celery** and cook 8–10 minutes more, until the carrots have started to soften. They finish getting tender in the simmer.
 - Add the **3 cloves minced garlic** for 1 minute more.
 - No browning needed. This soup wants a clean, light broth, not a deep fond.
 
