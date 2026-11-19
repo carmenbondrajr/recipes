@@ -1,6 +1,6 @@
 # 🥣 Italian Wedding Soup
 
-*One big pot plus a small one for the pasta, ~1½ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan chicken meatballs simmered in a pancetta-enriched chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
+*One big pot, ~1½ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan chicken meatballs simmered in a pancetta-enriched chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
 
 ## Shopping List
 
@@ -117,7 +117,6 @@
 - Add the **8 cups broth** and **2 bay leaves** and bring it to a gentle simmer.
 - Slide in the baked meatballs and keep it at a lazy simmer for 10 minutes so they soak up some broth and give some flavor back.
 - ⚠️ **No hard boil.** A rolling boil knocks the meatballs apart.
-- Put a small pot of salted water on to boil for the pasta.
 - While it simmers, prep the **1 small head escarole** (spinach needs nothing, skip ahead):
   - Trim off the root end so the leaves fall apart, and toss any ragged outer leaves. Keep the pale ribs, which are the mildest, most tender part.
   - Stack the leaves and cut them into bite-size pieces about 1 inch across, like Caesar salad. Long ribbons drape off the spoon and drag the pasta with them.
@@ -125,9 +124,11 @@
   - No need to dry it, since it's going straight into soup.
 - ⚠️ **Don't skip the wash.** Escarole grows low and holds sandy soil in the base of its leaves, and grit in the broth can't be fixed later.
 
-### 6️⃣ Cook the acini di pepe on the side · ⏱ 8–9 min
-- Boil the **¾ cup acini di pepe** in the small pot until tender, then drain.
-- It cooks separately because the tiny pasta drinks broth like a sponge and keeps going even after it's done. Cooked in the soup pot, it turns the soup thick and stewy fast.
+### 6️⃣ Cook the acini di pepe in the pot · ⏱ 8–9 min
+- Stir the **¾ cup acini di pepe** straight into the simmering soup and cook until tender.
+- The pasta is the thickener. It sheds starch into the broth as it cooks, which turns a thin broth into one with some body.
+- Stir every minute or so, scraping the bottom. The tiny balls sink and stick.
+- ⚠️ **Still no hard boil.** Keep it at the same gentle simmer so the meatballs hold together.
 
 ### 7️⃣ Wilt the greens · ⏱ 2 min
 - Add the **chopped escarole** (or **about 4 oz spinach**, most of the bag) to the soup pot. It'll look like way too much for a second, then collapse into almost nothing.
@@ -136,7 +137,7 @@
 ### 8️⃣ Finish and serve
 - Fish out the bay leaves.
 - Squeeze in the **juice of ½ lemon**, then taste before adding any salt, since the pancetta has already seasoned the broth. Add more lemon and salt until it tastes bright and seasoned, not flat.
-- Spoon some acini into each bowl and ladle the soup over it. **½ cup parmesan** goes on the table.
+- Ladle into bowls. **½ cup parmesan** goes on the table.
 
 ---
 
@@ -147,6 +148,8 @@
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
 - **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. The chill becomes optional, and they can take a minute or two longer in the oven.
 - **No #100 scoop handy?** Press the chilled mix into a ½"-thick rectangle, about 8 × 10 inches, on the lined sheet pan and cut an **8 × 12 grid**. Roll each piece with wet hands. The grid does the portioning, so they all come out the same size. Don't reach for a regular small cookie scoop, which is 1 tbsp and makes them too big.
+- **Leftovers set up thick.** The acini keeps drinking broth in the fridge, so the next day it's closer to a stew. Add a splash of water or broth when you reheat, then re-check the salt and lemon.
+- **Want a clear, brothy soup instead?** Boil the acini in a separate small pot of salted water, drain it, and spoon it into each bowl before ladling.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
 - **Egg ribbons, if you ever want them:** whisk **1 egg** with **¼ cup parmesan**. With the soup at a *bare* simmer, drizzle it in a thin stream while stirring slowly in one direction. It sets on contact into silky strands, like *stracciatella*. Ladle out a bowl first if you want to test it.
