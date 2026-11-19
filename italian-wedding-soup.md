@@ -1,6 +1,6 @@
 # 🥣 Italian Wedding Soup
 
-*One big pot plus a small one for the pasta, ~1¼ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan meatballs simmered in chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
+*One big pot plus a small one for the pasta, ~1½ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan chicken meatballs simmered in chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
 
 ## Shopping List
 
@@ -16,9 +16,10 @@
 - 1 lemon
 
 **Meat — 1 lb**
-- **1 lb meatloaf mix** (beef/pork/veal), if your store has it. The pork and veal make the most tender meatballs
-  - No meatloaf mix: **1 lb ground pork** is the next best, or **1 lb 80/20 ground beef** for a simpler, slightly leaner meatball
-  - **Pivot: 1 lb ground chicken or turkey.** Lighter, more broth-forward soup. Grab **dark meat/thigh** if it's there, and plan on adding 1–1½ tbsp olive oil to the mix (see Tips)
+- **1 lb ground chicken.** Makes a light meatball that lets the broth lead
+  - Grab **dark meat/thigh** if it's there, and skip anything labeled extra lean or breast only, which bakes up dry
+  - Ground turkey swaps 1:1
+  - **Pivot: 1 lb meatloaf mix** (beef/pork/veal), **ground pork**, or **80/20 ground beef** for a richer, more traditional meatball (see Tips)
 
 **Dairy**
 - Grated parmesan — **1 cup** (½ cup for the meatballs, ½ cup for the table)
@@ -38,7 +39,8 @@
 **Ingredients**
 
 *The meatballs (~96 small ones)*
-- 1 lb ground meat
+- 1 lb ground chicken
+- 1 tbsp olive oil
 - ½ cup breadcrumbs
 - 6 tbsp milk (⅓ cup plus a splash), more if needed
 - ½ cup grated parmesan
@@ -66,29 +68,33 @@
 - Heat the oven to **400°F** and line a sheet pan with parchment.
 - Stir the **½ cup breadcrumbs** into the **6 tbsp milk** and let them sit the full 10 minutes. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets: the starch traps moisture that would otherwise squeeze out as the meat cooks.
 - Go by texture, not the measurement. You want a loose, spreadable paste like wet oatmeal. If it still holds its shape or looks crumbly, add milk a splash at a time until it slumps.
-- ⚠️ **An under-hydrated panade is the quiet failure.** Dry crumbs can't hold water they never absorbed, so the meatballs come out dense. Erring wet is safe, since the meat soaks up the extra.
+- ⚠️ **An under-hydrated panade is the quiet failure.** Dry crumbs can't hold water they never absorbed, so the meatballs come out dense. Stop adding milk as soon as it slumps, though. Ground chicken is already wet and soft, and extra milk makes the mix harder to shape.
 - While it soaks, pulse **5 garlic cloves** in the mini food processor on **Chop**, scraping down once, until minced. Scoop a little over half (**3 cloves' worth**) into a small bowl for the soup. Add parsley leaves (enough for **2 tbsp chopped**) to what's left and pulse a few more times for the meatballs.
 
-### 2️⃣ Mix and roll the meatballs · ⏱ 25 min
+### 2️⃣ Mix and chill the meatballs · ⏱ 5 min + 15–20 min chill
 - Add everything to the panade:
-  - **1 lb ground meat**
+  - **1 lb ground chicken**
+  - **1 tbsp olive oil**
   - **½ cup parmesan**
   - **1 egg**
   - **2 cloves minced garlic + 2 tbsp parsley** (the mix from step 1)
   - **1 tsp kosher salt**
   - A few grinds of black pepper
+- The olive oil stands in for the fat that chicken doesn't have. Lean meat dries out fast, and this keeps the meatballs tender.
 - Mix with your hands only until it comes together. Overworking compacts the protein and toughens the meatballs.
 - ⚠️ **Don't skimp on the salt.** The broth gets seasoned at the end, but the meatballs are seasoned once and never again. Under-salted meatballs in a well-seasoned broth taste bland, and there's no fixing it later.
-- On the lined sheet pan, press the mix into a **½"-thick rectangle, about 8 × 10 inches**, and cut an **8 × 12 grid** (96 pieces). The grid does the portioning, so every ball comes out the same size without judging it by eye.
-- Roll each piece into a ball. Each one is about a **heaped teaspoon** and a bit under 1" across, the size of a grape. They don't need to be perfect spheres. Keep your hands wet with cold water so the meat doesn't stick.
-- ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A tablespoon of mix is already double the right size.
-
-### 3️⃣ Bake the meatballs · ⏱ 10–12 min
-- Spread the meatballs out on the sheet pan and bake at **400°F for 10–12 minutes**, until lightly browned. They can sit close together. Baking browns them all at once with no batches, and it firms them up so they hold together in the simmer.
-- While they bake, cut the **1 onion** into 1-inch chunks and pulse it on **Chop** until finely chopped. Stop while you can still see separate little pieces. It gets its own bowl, because it goes in the pot first.
+- Put the bowl in the fridge for **15–20 minutes**. Chicken mix is soft and sticky at room temperature, and cold firms it up enough to cut and roll without smearing.
+- While it chills, cut the **1 onion** into 1-inch chunks and pulse it on **Chop** until finely chopped. Stop while you can still see separate little pieces. It gets its own bowl, because it goes in the pot first.
 - Chop the **4 carrots** and **4 celery stalks** by hand into a small dice, about ¼ inch. They can share a bowl.
 - Use a knife for these two, not the food processor. The processor minces them so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon. The onion is meant to melt away, so the processor is fine for it.
-- If the chopping outlasts the bake, pull the meatballs and let them wait on the pan.
+
+### 3️⃣ Roll and bake the meatballs · ⏱ 25–30 min
+- On the lined sheet pan, press the chilled mix into a **½"-thick rectangle, about 8 × 10 inches**, and cut an **8 × 12 grid** (96 pieces). The grid does the portioning, so every ball comes out the same size without judging it by eye.
+- Roll each piece into a ball. Each one is about a **heaped teaspoon** and a bit under 1" across, the size of a grape. They don't need to be perfect spheres. Keep a cup of cold water next to you and re-wet your hands often so the meat doesn't stick.
+- ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A tablespoon of mix is already double the right size.
+- Spread them out on the sheet pan and bake at **400°F for 10–12 minutes**, until lightly browned and firm. They can sit close together. Baking browns them all at once with no batches, and it firms them up so they hold together in the simmer.
+- ⚠️ **Don't bake them longer to get more color.** Chicken dries out fast, and they finish cooking in the simmer anyway.
+- While they bake, get started on step 4.
 
 ### 4️⃣ Sweat the vegetables · ⏱ 15 min
 - Heat **2 tbsp olive oil** in a big pot over **medium**.
@@ -130,7 +136,7 @@
 - **Shredded parm instead of grated?** Fine. Pack the measuring cup a little extra (shreds are fluffier) and rough-chop them so they spread through the meat instead of forming cheesy pockets.
 - **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in slowly. Thin it with a tablespoon of water and give it a few extra minutes.
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
-- **Chicken or turkey meatballs:** lean meat dries out fast, so use dark meat/thigh if you can, add **1–1½ tbsp olive oil** to the mix, keep the panade, and pull them from the oven a minute or two early.
+- **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. The chill becomes optional, and they can take a minute or two longer in the oven.
 - **Melon baller instead of the grid:** the larger end, packed and slightly rounded, lands close to the right size. Check the first few against a heaped teaspoon, and dip it in water between scoops, since it has no release and the mix sticks. A standard small cookie scoop is 1 tbsp, which is double the size you want.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
