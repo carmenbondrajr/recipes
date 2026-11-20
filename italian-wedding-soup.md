@@ -50,7 +50,7 @@
 - 1 egg
 - 2 cloves garlic, minced
 - 2 tbsp chopped parsley
-- 1 tsp kosher salt
+- 1½ tsp kosher salt
 - Black pepper
 
 *The soup*
@@ -81,11 +81,11 @@
   - **½ cup parmesan**
   - **1 egg**
   - **2 cloves minced garlic + 2 tbsp parsley** (the mix from step 1)
-  - **1 tsp kosher salt**
+  - **1½ tsp kosher salt**
   - A few grinds of black pepper
 - The olive oil stands in for the fat that chicken doesn't have. Lean meat dries out fast, and this keeps the meatballs tender.
 - Mix with your hands only until it comes together. Overworking compacts the protein and toughens the meatballs.
-- ⚠️ **Don't skimp on the salt.** The broth gets seasoned at the end, but the meatballs are seasoned once and never again. Under-salted meatballs in a well-seasoned broth taste bland, and there's no fixing it later.
+- ⚠️ **Don't skimp on the salt.** The broth gets seasoned at the end, but the meatballs are seasoned once and never again. Under-salted meatballs in a well-seasoned broth taste bland, and there's no fixing it later. Poaching makes it worse: some salt leaches out into the broth, and there's no browned crust to carry flavor, so these need more than a baked meatball would.
 - Cover the bowl and put it in the fridge while you chop and do all of step 3, **about 30 minutes**. These get scooped raw straight into hot broth, so the mix needs to be properly cold. Cold mix holds its shape when it hits the pot. Soft, room-temperature chicken slumps and smears.
 - While it chills, cut the **1 onion** into 1-inch chunks and pulse it on **Chop** until finely chopped. Stop while you can still see separate little pieces. It gets its own bowl, because it goes in the pot first.
 - Chop the **4 carrots** and **4 celery stalks** by hand into a small dice, about ¼ inch. They can share a bowl.
@@ -104,7 +104,8 @@
 
 ### 4️⃣ Scoop the meatballs straight into the pot · ⏱ ~10 min scooping + 8–10 min simmer
 - Add the **8 cups broth** and **2 bay leaves** and bring it to a gentle simmer.
-- Pull the meatball bowl from the fridge and set a cup of cold water next to the pot. Portion the mix with the **#100 scoop** (2 teaspoons), releasing each one right at the surface of the broth so it slips in instead of splashing. You'll get about 70, each around 1" across, the size of a grape.
+- Pull the meatball bowl from the fridge and drop in **one test meatball** first. Let it simmer 3 minutes, then fish it out, cut it open, and taste it. If it's bland, work another pinch of salt into the bowl now. This is your last chance to season them.
+- Set a cup of cold water next to the pot. Portion the mix with the **#100 scoop** (2 teaspoons), releasing each one right at the surface of the broth so it slips in instead of splashing. You'll get about 70, each around 1" across, the size of a grape.
 - Fill the scoop **level or a little shy, never heaped**. Scrape it flat against the side of the bowl.
 - Dunk the scoop in the water every few scoops. A wet scoop releases cleanly, and a dry one gums up within three or four meatballs.
 - ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A heaped scoop is already too much.
@@ -139,7 +140,7 @@
 ---
 
 ## Tips & Notes
-- **What ruins this: bland, dense, or broken meatballs.** All three get decided before anything hits the heat. Salt them properly (1 tsp per lb), give the panade its full soak, and get the mix properly cold before it meets the broth.
+- **What ruins this: bland, dense, or broken meatballs.** All three get decided before anything hits the heat. Salt them properly (1½ tsp per lb), give the panade its full soak, and get the mix properly cold before it meets the broth.
 - **Why raw, straight into the pot:** it's the old-school nonna way. No oven, no tray, and poaching makes a softer, more tender meatball than baking. Everything the meatballs give off stays in the soup, which is what gives this broth its body. Baking adds a little browned flavor, but the pancetta covers that side.
 - **Shredded parm instead of grated?** Fine. Pack the measuring cup a little extra (shreds are fluffier) and rough-chop them so they spread through the meat instead of forming cheesy pockets.
 - **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in slowly. Thin it with a tablespoon of water and give it a few extra minutes.
