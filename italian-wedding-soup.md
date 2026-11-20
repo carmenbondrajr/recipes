@@ -17,7 +17,7 @@
 
 **Meat**
 - **1 lb ground chicken.** Makes a light meatball that lets the broth lead
-  - Grab **dark meat/thigh** if it's there, and skip anything labeled extra lean or breast only, which bakes up dry
+  - Grab **dark meat/thigh** if it's there, and skip anything labeled extra lean or breast only, which cooks up dry
   - Ground turkey swaps 1:1
   - **Pivot: 1 lb meatloaf mix** (beef/pork/veal), **ground pork**, or **80/20 ground beef** for a richer, more traditional meatball (see Tips)
 - **4 oz diced pancetta.** Usually a 4 oz tub of pre-diced cubes, near the deli or the specialty cheese
