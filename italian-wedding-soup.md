@@ -69,13 +69,12 @@
 ---
 
 ### 1️⃣ Soak the breadcrumbs · ⏱ 10 min
-- Line a sheet pan with parchment, or any tray that fits flat in your freezer. The meatballs go in there before they hit the pot.
 - Stir the **½ cup breadcrumbs** into the **6 tbsp milk** and let them sit the full 10 minutes. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets: the starch traps moisture that would otherwise squeeze out as the meat cooks.
 - Go by texture, not the measurement. You want a loose, spreadable paste like wet oatmeal. If it still holds its shape or looks crumbly, add milk a splash at a time until it slumps.
 - ⚠️ **An under-hydrated panade is the quiet failure.** Dry crumbs can't hold water they never absorbed, so the meatballs come out dense. Stop adding milk as soon as it slumps, though. Ground chicken is already wet and soft, and extra milk makes the mix harder to shape.
 - While it soaks, pulse **5 garlic cloves** in the mini food processor on **Chop**, scraping down once, until minced. Scoop a little over half (**3 cloves' worth**) into a small bowl for the soup. Add parsley leaves (enough for **2 tbsp chopped**) to what's left and pulse a few more times for the meatballs.
 
-### 2️⃣ Mix and chill the meatballs · ⏱ 5 min + 15–20 min chill
+### 2️⃣ Mix and chill the meatballs · ⏱ 5 min + ~30 min chill
 - Add everything to the panade:
   - **1 lb ground chicken**
   - **1 tbsp olive oil**
@@ -87,22 +86,12 @@
 - The olive oil stands in for the fat that chicken doesn't have. Lean meat dries out fast, and this keeps the meatballs tender.
 - Mix with your hands only until it comes together. Overworking compacts the protein and toughens the meatballs.
 - ⚠️ **Don't skimp on the salt.** The broth gets seasoned at the end, but the meatballs are seasoned once and never again. Under-salted meatballs in a well-seasoned broth taste bland, and there's no fixing it later.
-- Put the bowl in the fridge for **15–20 minutes**. Chicken mix is soft and sticky at room temperature, and cold firms it up enough to scoop cleanly without smearing.
+- Cover the bowl and put it in the fridge while you chop and do all of step 3, **about 30 minutes**. These get scooped raw straight into hot broth, so the mix needs to be properly cold. Cold mix holds its shape when it hits the pot. Soft, room-temperature chicken slumps and smears.
 - While it chills, cut the **1 onion** into 1-inch chunks and pulse it on **Chop** until finely chopped. Stop while you can still see separate little pieces. It gets its own bowl, because it goes in the pot first.
 - Chop the **4 carrots** and **4 celery stalks** by hand into a small dice, about ¼ inch. They can share a bowl.
 - Use a knife for these two, not the food processor. The processor minces them so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon. The onion is meant to melt away, so the processor is fine for it.
 
-### 3️⃣ Scoop and freeze the meatballs · ⏱ 10 min + freezer time
-- Set a cup of cold water next to the lined tray. Portion the chilled mix with the **#100 scoop** (2 teaspoons), dropping each one straight onto the parchment. You'll get about 70, each around 1" across, the size of a grape.
-- Fill the scoop **level or a little shy, never heaped**. Scrape it flat against the side of the bowl.
-- Dunk the scoop in the water every few scoops. A wet scoop releases cleanly, and a dry one gums up within three or four meatballs.
-- Give each one a quick roll with wet hands. A smooth, round meatball holds together in the broth better than a craggy dome, which sheds bits from its edges.
-- ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A heaped scoop is already too much.
-- They can sit close together, just not touching. Slide the tray into the **freezer for all of step 4** (about 20 minutes).
-- The freezer is what makes poaching raw chicken work. Raw chicken mix is soft, and a soft meatball slumps and falls apart when it hits hot broth. Cold and firm, the outside sets before the middle can sag.
-- A little frozen at the edges is fine. They just take a minute longer in the pot.
-
-### 4️⃣ Render the pancetta and sweat the vegetables · ⏱ 22 min
+### 3️⃣ Render the pancetta and sweat the vegetables · ⏱ 22 min
 - Put the **4 oz diced pancetta** in the big pot while it's still cold, then turn the heat to **medium**. Cook 6–8 minutes, stirring now and then, until the fat has melted out and the cubes are golden. Starting cold gives the fat time to melt out before the outside browns.
 - This is where the broth gets its richness, and its savory depth. Boxed broth has almost no fat, chicken meatballs barely add any, and poached meatballs never brown, so the pancetta does the work that browning would have done. Without it the soup tastes thin.
 - Leave the pancetta and all of its fat in the pot. You want about 2 tbsp of fat. If it looks dry, add a splash of olive oil.
@@ -113,13 +102,17 @@
 - Add the **3 cloves minced garlic** for 1 minute more.
 - Scrape the bottom of the pot as the vegetables give off their water. The golden bits the pancetta left behind dissolve into it, and that's flavor for the broth.
 
-### 5️⃣ Poach the meatballs · ⏱ 10–12 min
+### 4️⃣ Scoop the meatballs straight into the pot · ⏱ ~10 min scooping + 8–10 min simmer
 - Add the **8 cups broth** and **2 bay leaves** and bring it to a gentle simmer.
-- Pull the meatballs from the freezer and slide them in a handful at a time, letting the pot come back to a simmer between handfuls. Dumping all ~70 cold meatballs in at once drops the broth below a simmer, and they sit there going soft instead of setting.
-- ⚠️ **Don't stir for the first 2–3 minutes.** They set from the outside in, and a spoon knocks them apart before the outside has firmed up. After that, a gentle stir is fine.
-- Keep it at a lazy simmer for **8–10 minutes**, until a halved meatball is white all the way through. They're tiny, so they cook fast. Their juices and fat stay in the pot this way, which makes the broth richer.
-- Skim off any gray foam that floats up. That's protein leaking from the raw meat. It's harmless, but skimming keeps the broth from looking murky.
-- ⚠️ **No hard boil.** A rolling boil knocks the meatballs apart and turns them tough.
+- Pull the meatball bowl from the fridge and set a cup of cold water next to the pot. Portion the mix with the **#100 scoop** (2 teaspoons), releasing each one right at the surface of the broth so it slips in instead of splashing. You'll get about 70, each around 1" across, the size of a grape.
+- Fill the scoop **level or a little shy, never heaped**. Scrape it flat against the side of the bowl.
+- Dunk the scoop in the water every few scoops. A wet scoop releases cleanly, and a dry one gums up within three or four meatballs.
+- ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A heaped scoop is already too much.
+- Work around the pot at a steady pace. It takes about 10 minutes, and the broth should keep a gentle simmer the whole time. If it goes still, pause until it comes back. Meatballs sitting in sub-simmer broth go soft instead of setting.
+- ⚠️ **Don't stir while you scoop, or for 2–3 minutes after the last one goes in.** They set from the outside in, and a spoon knocks them apart before the outside has firmed up. If one lands on another, leave it. They slide apart once they've set.
+- After the last one is in, keep it at a lazy simmer for **8–10 minutes**, until one of the last ones you dropped in is white all the way through when you halve it. The first ones will have had longer, and that's fine. Gentle simmering in broth is forgiving, and the panade and olive oil keep them tender.
+- The broth turns a little cloudy here, and that's the point. Juices, fat, and a bit of panade starch from the raw meatballs stay in the pot and give the broth body, and the acini adds the rest in step 5. Don't bother skimming the foam. It's just protein from the meat, and it stirs back in.
+- ⚠️ **No hard boil.** A rolling boil knocks the meatballs apart and turns them tough, especially the first ones, which spend the longest in the pot.
 - While it simmers, prep the **1 small head escarole** (spinach needs nothing, skip ahead):
   - Trim off the root end so the leaves fall apart, and toss any ragged outer leaves. Keep the pale ribs, which are the mildest, most tender part.
   - Stack the leaves and cut them into bite-size pieces about 1 inch across, like Caesar salad. Long ribbons drape off the spoon and drag the pasta with them.
@@ -127,18 +120,18 @@
   - No need to dry it, since it's going straight into soup.
 - ⚠️ **Don't skip the wash.** Escarole grows low and holds sandy soil in the base of its leaves, and grit in the broth can't be fixed later.
 
-### 6️⃣ Cook the acini di pepe in the pot · ⏱ 8–9 min
+### 5️⃣ Cook the acini di pepe in the pot · ⏱ 8–9 min
 - Stir the **¾ cup acini di pepe** straight into the simmering soup and cook until tender.
 - The pasta is the thickener. It sheds starch into the broth as it cooks, which turns a thin broth into one with some body.
 - Stir every minute or so, scraping the bottom. The tiny balls sink and stick.
 - The pasta also drinks a cup or more of the broth. If the soup ends up thicker than you like, stir in a splash of water.
 - ⚠️ **Still no hard boil.** Keep it at the same gentle simmer so the meatballs hold together.
 
-### 7️⃣ Wilt the greens · ⏱ 2 min
+### 6️⃣ Wilt the greens · ⏱ 2 min
 - Add the **chopped escarole** (or **about 4 oz spinach**, most of the bag) to the soup pot. It'll look like way too much for a second, then collapse into almost nothing.
 - Cook just until wilted.
 
-### 8️⃣ Finish and serve
+### 7️⃣ Finish and serve
 - Fish out the bay leaves.
 - Squeeze in the **juice of ½ lemon**, then taste before adding any salt, since the pancetta has already seasoned the broth. Add more lemon and salt until it tastes bright and seasoned, not flat.
 - Ladle into bowls. **½ cup parmesan** goes on the table.
@@ -146,15 +139,15 @@
 ---
 
 ## Tips & Notes
-- **What ruins this: bland, dense, or broken meatballs.** All three get decided before anything hits the heat. Salt them properly (1 tsp per lb), give the panade its full soak, and get them cold and firm in the freezer.
-- **Why poached instead of baked:** poaching is the traditional way, and it makes a softer, more tender meatball. Baking adds a little browned flavor and firms them up, but the pancetta covers the flavor side, and it costs an oven and a sheet pan.
+- **What ruins this: bland, dense, or broken meatballs.** All three get decided before anything hits the heat. Salt them properly (1 tsp per lb), give the panade its full soak, and get the mix properly cold before it meets the broth.
+- **Why raw, straight into the pot:** it's the old-school nonna way. No oven, no tray, and poaching makes a softer, more tender meatball than baking. Everything the meatballs give off stays in the soup, which is what gives this broth its body. Baking adds a little browned flavor, but the pancetta covers that side.
 - **Shredded parm instead of grated?** Fine. Pack the measuring cup a little extra (shreds are fluffier) and rough-chop them so they spread through the meat instead of forming cheesy pockets.
 - **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in slowly. Thin it with a tablespoon of water and give it a few extra minutes.
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
-- **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. They're firmer than chicken, so the fridge chill and freezer time can be shorter, and they need a minute or two longer in the pot.
-- **No #100 scoop handy?** Press the chilled mix into a ½"-thick rectangle, about 8 × 10 inches, on the lined tray and cut an **8 × 12 grid**. Roll each piece with wet hands. The grid does the portioning, so they all come out the same size. Don't reach for a regular small cookie scoop, which is 1 tbsp and makes them too big.
+- **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. They're firmer than chicken, so the fridge chill can be shorter, and they need a minute or two longer in the pot.
+- **No #100 scoop handy?** Use two wet teaspoons: scoop a level spoonful with one and push it off into the broth with the other. Don't reach for a regular small cookie scoop, which is 1 tbsp and makes them too big.
 - **Leftovers set up thick.** The acini keeps drinking broth in the fridge, so the next day it's closer to a stew. Add a splash of water or broth when you reheat, then re-check the salt and lemon.
-- **Want a clear, brothy soup instead?** Boil the acini in a separate small pot of salted water, drain it, and spoon it into each bowl before ladling.
+- **Want a clear, brothy soup instead?** Boil the acini in a separate small pot of salted water, drain it, and spoon it into each bowl before ladling. For a truly clear broth, also bake the meatballs on a parchment-lined sheet pan at **400°F for 10–12 minutes** and slide them in at step 4 instead of scooping them raw.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
 - **Egg ribbons, if you ever want them:** whisk **1 egg** with **¼ cup parmesan**. With the soup at a *bare* simmer, drizzle it in a thin stream while stirring slowly in one direction. It sets on contact into silky strands, like *stracciatella*. Ladle out a bowl first if you want to test it.
