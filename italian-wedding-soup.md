@@ -121,7 +121,8 @@
 - The broth turns a little cloudy here, and that's the point. Juices, fat, and a bit of panade starch from the raw meatballs stay in the pot and give the broth body, and the acini adds the rest in step 5. Don't bother skimming the foam. It's just protein from the meat, and it stirs back in.
 - ⚠️ **No hard boil.** A rolling boil knocks the meatballs apart and turns them tough, especially the first ones, which spend the longest in the pot.
 - While it simmers, prep the **1 small head escarole** (spinach needs nothing, skip ahead):
-  - Trim off the root end so the leaves fall apart, and toss any ragged outer leaves. Keep the pale ribs, which are the mildest, most tender part.
+  - Trim off the root end so the leaves fall apart, and toss any ragged outer leaves. Use the whole head, dark leaves and pale ribs both.
+  - **The dark leafy parts matter most.** They melt into silky ribbons and bring the bitter bite that balances the rich broth. The pale ribs are milder and stay crunchy, which is nice for texture. If you have to choose, keep the leaves.
   - Stack the leaves and cut them into bite-size pieces about 1 inch across, like Caesar salad. Long ribbons drape off the spoon and drag the pasta with them.
   - Wash *after* chopping, and don't skip it. Escarole grows low and holds sandy soil in the base of its leaves, and grit in the broth can't be fixed later. Swish the pieces in a big bowl of cold water, let it sit a minute so the dirt sinks, then lift the greens out with your hands. Pouring through a colander dumps the grit right back on top.
   - No need to dry it, since it's going straight into soup.
