@@ -34,7 +34,7 @@
 - **Low-sodium** chicken broth — **8 cups / 64 oz**. That's exactly two 32 oz cartons
   - Low-sodium matters here. Pancetta and parmesan both bring a lot of salt, and the broth reduces as the acini drinks it, so regular broth can tip the soup over
 
-*You should have at home: olive oil, milk, kosher salt, black pepper, bay leaves*
+*You should have at home: olive oil, milk, kosher salt, black pepper, bay leaves, ice*
 
 ---
 
@@ -106,14 +106,16 @@
 ### 4️⃣ Scoop the meatballs straight into the pot · ⏱ ~35 min
 - Add the **8 cups broth** and **2 bay leaves** and bring it to a gentle simmer.
 - Pull the meatball bowl from the fridge and drop in **one test meatball** first. Let it simmer **4–5 minutes**, then fish it out and cut it open. Only taste it once it's white all the way through, since this is raw chicken. If it's bland, work another pinch of salt into the bowl now. This is your last chance to season them.
-- Set a mug of cold water next to the pot. Portion the mix with the **#100 scoop** (2 teaspoons), releasing each one right at the surface of the broth so it slips in instead of splashing. You'll get about 70, each around 1" across, the size of a grape.
-- Fill the scoop **level or a little shy, never heaped**. Scrape it flat against the side of the bowl.
-- Dunk the scoop in the water every few scoops. A wet scoop releases cleanly, and a dry one gums up within three or four meatballs.
+- Set a bowl of **ice water** next to the pot, one a little wider than the meatball bowl. You'll dunk the scoop in it, and when you need to set the mix down, rest the meatball bowl on top of the ice water so it stays cold.
+- Portion the mix with the **#100 scoop** (2 teaspoons), releasing each one right at the surface of the broth so it slips in instead of splashing. You'll get about 70, each around 1" across, the size of a grape.
+- Fill the scoop **level or a little shy, never heaped**. Scrape it flat against the side of the bowl so each one comes out a neat, round ball. Round ones cook up smooth, and ragged ones shed little bits into the broth while they simmer.
+- Dunk the scoop in the ice water every few scoops. A wet scoop releases cleanly, and a dry one gums up within three or four meatballs.
 - ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A heaped scoop is already too much.
-- Work around the pot at a steady pace. It takes about 10 minutes, and the broth should keep a gentle simmer the whole time. If it goes still, pause until it comes back. Meatballs sitting in sub-simmer broth go soft instead of setting.
+- **Take your time.** Meatballs already in the pot are fine sitting at a gentle simmer while you scoop the rest. They won't go tough or fall apart, so slow down and make each scoop a nice round one. It usually takes 10–15 minutes.
+- Keep the broth at a gentle simmer the whole time. If it goes still, pause until it comes back. Meatballs sitting in sub-simmer broth go soft instead of setting.
 - ⚠️ **Don't stir while you scoop, or for 2–3 minutes after the last one goes in.** They set from the outside in, and a spoon knocks them apart before the outside has firmed up. If one lands on another, leave it. They slide apart once they've set.
-- After the last one is in, keep it at a lazy simmer for **8–10 minutes**, until one of the last ones you dropped in is white all the way through when you halve it.
-- 🌡️ **165°F** in the center if you want to check one with the thermometer. The first ones will have had longer, and that's fine. Gentle simmering in broth is forgiving, and the panade and olive oil keep them tender.
+- After the last one is in, keep it at a lazy simmer for **8–10 minutes**, until one of the last ones you dropped in is white all the way through when you halve it. The first ones will have had longer, and that's fine. Gentle simmering in broth is forgiving, and the panade and olive oil keep them tender.
+- 🌡️ **165°F** in the center if you want to check one with the thermometer.
 - The broth turns a little cloudy here, and that's the point. Juices, fat, and a bit of panade starch from the raw meatballs stay in the pot and give the broth body, and the acini adds the rest in step 5. Don't bother skimming the foam. It's just protein from the meat, and it stirs back in.
 - ⚠️ **No hard boil.** A rolling boil knocks the meatballs apart and turns them tough, especially the first ones, which spend the longest in the pot.
 - While it simmers, prep the **1 small head escarole** (spinach needs nothing, skip ahead):
