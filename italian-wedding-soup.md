@@ -148,6 +148,12 @@
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
 - **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. They're firmer than chicken, so the fridge chill can be shorter, and they need a minute or two longer in the pot.
 - **No #100 scoop handy?** Use two wet teaspoons: scoop a level spoonful with one and push it off into the broth with the other. Don't reach for a regular small cookie scoop, which is 1 tbsp and makes them too big.
+- **Using the Instant Pot instead of the Dutch oven:** no pressure, just Sauté. The full batch is about 4½ qt (~4.3 L), which fits under the inner pot's 5 L max line with room to stir. Heaped greens can poke above it for a minute before they wilt, and that's fine.
+  - Use Sauté on **Normal** for the pancetta and vegetables. **More** runs hot enough to scorch the pancetta fond.
+  - Drop to **Less** once the broth is in, for steps 4–5. Normal can push a full pot into a hard boil that breaks up the meatballs.
+  - ⚠️ Sauté shuts itself off after about 30 minutes. Restart it right before step 4 so the meatballs never sit in cooling broth, and watch for it cutting out again during the acini.
+  - The thin steel bottom sticks more than enamel, so scrape it every minute once the acini goes in.
+  - When the soup is done, cancel Sauté and switch off Keep Warm. The pot stays hot and keeps softening the pasta.
 - **Leftovers set up thick.** The acini keeps drinking broth in the fridge, so the next day it's closer to a stew. Add a splash of water or broth when you reheat, then re-check the salt and lemon.
 - **Cooking mostly for leftovers?** Boil the acini in a separate small pot of salted water, drain it, and spoon it into each bowl instead. The broth comes out thinner, but the pasta stops swelling in the fridge. Store the two separately.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
