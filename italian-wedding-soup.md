@@ -64,7 +64,7 @@
 - 2 bay leaves
 - ¾ cup acini di pepe
 - Escarole (1 small head, chopped) or about 4 oz baby spinach
-- ½–1 lemon, kosher salt, black pepper
+- ½–1 lemon, black pepper, and kosher salt only if it needs it
 - ½ cup parmesan for the table
 
 ---
@@ -97,7 +97,7 @@
 - This is where the broth gets its richness and savory depth. Boxed broth has almost no fat, chicken meatballs barely add any, and poached meatballs never brown, so the pancetta does the work that browning would have done. Without it the soup tastes thin.
 - Leave the pancetta and all of its fat in the pot. You want about 2 tbsp of fat. If it looks dry, add a splash of olive oil.
 - ⚠️ **Golden, not dark.** If the bits on the bottom of the pot are turning dark brown, turn the heat down. Burnt bits make the whole broth bitter.
-- Add the **chopped onion** alone with a pinch of salt and cook about 5 minutes, until it's translucent and smells sweet instead of sharp. Processor onion gives off more harsh, eye-stinging fumes and more water than knife-cut, so it needs this head start to cook them off.
+- Add the **chopped onion** alone and cook about 5 minutes, until it's translucent and smells sweet instead of sharp. Processor onion gives off more harsh, eye-stinging fumes and more water than knife-cut, so it needs this head start to cook them off. Skip the usual pinch of salt here, because the pancetta fat is already salty.
 - Go by the smell, not the clock. Onion that still smells sharp here will still taste raw in the finished soup.
 - Add the **diced carrots and celery** and cook 8–10 minutes more, until the carrots have started to soften. They finish getting tender in the simmer.
 - Add the **3 cloves minced garlic** for 1 minute more.
@@ -137,7 +137,7 @@
 
 ### 7️⃣ Finish and serve
 - Fish out the bay leaves.
-- Squeeze in the **juice of ½ lemon**, then taste before adding any salt, since the pancetta has already seasoned the broth. Add more lemon and salt until it tastes bright and seasoned, not flat.
+- Squeeze in the **juice of ½ lemon** and taste. Between the pancetta, the parmesan, and the salt that leaches out of the meatballs, the broth is usually seasoned already. If it tastes flat, reach for more lemon first, and add salt only if lemon doesn't fix it.
 - Ladle into bowls. **½ cup parmesan** goes on the table.
 
 ---
