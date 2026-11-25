@@ -1,6 +1,6 @@
 # 🥣 Italian Wedding Soup
 
-*One big pot, no oven, ~1½ hours, makes about 6 bowls. A single 1 lb batch of tiny parmesan chicken meatballs poached raw in a pancetta-enriched chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
+*One Instant Pot on Sauté (no pressure), no oven, ~1½ hours, makes about 6 bowls. A single 1 lb batch of tiny parmesan chicken meatballs poached raw in a pancetta-enriched chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
 
 ## Shopping List
 
@@ -92,21 +92,24 @@
 - Use a knife for these two, not the food processor. The processor minces them so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon. The onion is meant to melt away, so the processor is fine for it.
 
 ### 3️⃣ Render the pancetta and sweat the vegetables · ⏱ 25 min
-- Put the **4 oz diced pancetta** in the big pot while it's still cold, then turn the heat to **medium**. Cook 6–8 minutes, stirring now and then, until the fat has melted out and the cubes are golden. Starting cold gives the fat time to melt out before the outside browns.
-- **How it should look:** a steady, gentle sizzle, with little bubbles of fat around each cube. If it's spitting hard or anything smokes, turn the heat down.
+- The Instant Pot's Sauté only has **Low / Normal / High**, so you steer by how the pot looks and flip between settings. Each step below says what to look for. Leave High alone for this whole recipe. It runs hot enough to scorch the fond.
+- Put the **4 oz diced pancetta** in the cold inner pot, then press **Sauté on Normal**. Cook 6–8 minutes, stirring now and then, until the fat has melted out and the cubes are golden. Starting cold gives the fat time to melt out before the outside browns.
+- **How it should look:** a steady, gentle sizzle, with little bubbles of fat around each cube. If it's spitting hard or anything smokes, switch to **Low** for a minute.
 - This is where the broth gets its richness and savory depth. Boxed broth has almost no fat, chicken meatballs barely add any, and poached meatballs never brown, so the pancetta does the work that browning would have done. Without it the soup tastes thin.
 - Leave the pancetta and all of its fat in the pot. You want about 2 tbsp of fat. If it looks dry, add a splash of olive oil.
-- ⚠️ **Golden, not dark.** If the bits on the bottom of the pot are turning dark brown, turn the heat down. Burnt bits make the whole broth bitter.
+- ⚠️ **Golden, not dark.** The steel pot builds a great fond fast, and it can go too far just as fast. If the bits on the bottom are turning dark brown, switch to Low. Burnt bits make the whole broth bitter.
 - Add the **chopped onion** alone and cook about 5 minutes, until it's translucent and smells sweet instead of sharp. Processor onion gives off more harsh, eye-stinging fumes and more water than knife-cut, so it needs this head start to cook them off. Skip the usual pinch of salt here, because the pancetta fat is already salty.
 - Go by the smell, not the clock. Onion that still smells sharp here will still taste raw in the finished soup.
 - Add the **diced carrots and celery** and cook 10–12 minutes more, until the carrots have started to soften. They finish getting tender in the simmer.
-- **How it should look:** a quiet sizzle, with the vegetables slumping and turning glossy. A thin layer of golden fond on the bottom is good. If it's going brown in under a minute between stirs, turn the heat down.
+- **How it should look:** a quiet sizzle, with the vegetables slumping and turning glossy. A thin layer of golden fond on the bottom is good. If it's going brown in under a minute between stirs, switch to Low.
 - Add the **3 cloves minced garlic** for 1 minute more.
 - Scrape the bottom of the pot as the vegetables give off their water. The golden bits the pancetta left behind dissolve into it, and that's flavor for the broth.
 
 ### 4️⃣ Scoop the meatballs straight into the pot · ⏱ ~35 min
-- Add the **8 cups broth** and **2 bay leaves**. Turn the heat up to bring it to a simmer, then back down to hold a gentle one.
-- **How a gentle simmer looks:** small bubbles breaking steadily in a few spots, with most of the surface quiet. A hard boil is the whole surface churning, with meatballs tumbling around. Too low is a still surface with only the odd bubble. You'll be nudging the heat up and down to stay in that middle zone for the rest of the cook, and that's normal.
+- Add the **8 cups broth** and **2 bay leaves**.
+- ⚠️ **Cancel Sauté and restart it on Normal.** Sauté shuts itself off after about 30 minutes, and step 3 used most of that. Restarting now gives you a fresh 30 minutes for the meatballs, so they never sit in cooling broth.
+- Once it's simmering, toggle between **Low** and **Normal** to hold a gentle simmer for the rest of this step. Low when it starts churning, Normal when the surface goes still.
+- **How a gentle simmer looks:** small bubbles breaking steadily in a few spots, with most of the surface quiet. A hard boil is the whole surface churning, with meatballs tumbling around. Too low is a still surface with only the odd bubble. Nudging the setting back and forth to stay in that middle zone is normal.
 - Pull the meatball bowl from the fridge and drop in **one test meatball** first. Let it simmer **4–5 minutes**, then fish it out and cut it open. Only taste it once it's white all the way through, since this is raw chicken. If it's bland, work another pinch of salt into the bowl now. This is your last chance to season them.
 - Set a bowl of **ice water** next to the pot, one a little wider than the meatball bowl. You'll dunk the scoop in it, and when you need to set the mix down, rest the meatball bowl on top of the ice water so it stays cold.
 - Portion the mix with the **#100 scoop** (2 teaspoons), releasing each one right at the surface of the broth so it slips in instead of splashing. You'll get about 70, each around 1" across, the size of a grape.
@@ -114,7 +117,7 @@
 - Dunk the scoop in the ice water every few scoops. A wet scoop releases cleanly, and a dry one gums up within three or four meatballs.
 - ⚠️ **They should look too small.** Anything bigger won't fit on a spoon next to the pasta, and you end up cutting every meatball in half as you eat. A heaped scoop is already too much.
 - **Take your time.** Meatballs already in the pot are fine sitting at a gentle simmer while you scoop the rest. They won't go tough or fall apart, so slow down and make each scoop a nice round one. It usually takes 10–15 minutes.
-- Keep the broth at a gentle simmer the whole time. If it goes still, pause until it comes back. Meatballs sitting in sub-simmer broth go soft instead of setting.
+- If the surface goes still while you scoop, switch to Normal and pause until it's simmering again. Meatballs sitting in sub-simmer broth go soft instead of setting.
 - ⚠️ **Don't stir while you scoop, or for 2–3 minutes after the last one goes in.** They set from the outside in, and a spoon knocks them apart before the outside has firmed up. If one lands on another, leave it. They slide apart once they've set.
 - After the last one is in, keep it at a lazy simmer for **8–10 minutes**, until one of the last ones you dropped in is white all the way through when you halve it. The first ones will have had longer, and that's fine. Gentle simmering in broth is forgiving, and the panade and olive oil keep them tender.
 - 🌡️ **165°F** in the center if you want to check one with the thermometer.
@@ -130,16 +133,17 @@
 ### 5️⃣ Cook the acini di pepe in the pot · ⏱ 8–10 min
 - Stir the **¾ cup acini di pepe** straight into the simmering soup and cook until tender. Start tasting at 8 minutes. A gentle simmer cooks pasta a little slower than the box time, which assumes a rolling boil.
 - The pasta is the thickener. It sheds starch into the broth as it cooks, which turns a thin broth into one with some body.
-- Stir gently every minute or so, scraping the bottom. The tiny balls sink and stick.
+- From here on, toggle between **Low** and **off**. Once the acini thickens the soup, even Low can push it into a hard boil. Cancel Sauté when it's plopping hard, and turn Low back on when it settles to the odd bubble. If the 30-minute timer runs out somewhere in here, just turn Low back on.
+- **How it should look now:** the starch changes how the pot behaves. Bubbles get bigger and slower, and they come up with a *plop* instead of a fizz. A few lazy plops is right. Constant plopping across the whole surface means it's too hot, and the bottom is about to stick.
+- Stir gently every minute, scraping the bottom. The tiny balls sink, and the thin steel bottom of the inner pot sticks more easily than enamel.
 - The pasta also drinks a cup or more of the broth. If the soup ends up thicker than you like, stir in a splash of water.
-- Keep it at the same gentle simmer. A hard boil still breaks up the meatballs.
-- **How it should look now:** the starch changes how the pot behaves. Bubbles get bigger and slower, and they come up with a *plop* instead of a fizz. Thicker soup also boils over its target faster, so expect to turn the heat down more as the pasta cooks. A few lazy plops is right. Constant plopping across the whole surface means it's too hot, and the bottom is about to stick.
 
 ### 6️⃣ Wilt the greens · ⏱ 2 min
-- Add the **chopped escarole** (or **about 4 oz spinach**, most of the bag) to the soup pot. It'll look like way too much for a second, then collapse into almost nothing.
-- Cook just until wilted.
+- Add the **chopped escarole** (or **about 4 oz spinach**, most of the bag) to the pot. It'll look like way too much for a second, then collapse into almost nothing. Heaped greens can poke above the 5 L max line for a minute before they wilt, and that's fine.
+- Cook on Low just until wilted.
 
 ### 7️⃣ Finish and serve
+- Cancel Sauté and make sure **Keep Warm is off**. The pot stays hot for a long time, and Keep Warm keeps softening the pasta.
 - Fish out the bay leaves.
 - Taste the broth. Between the pancetta, the parmesan, and the salt that leaches out of the meatballs, it's usually seasoned already. Add salt only if it tastes flat, a pinch at a time, then finish with a few grinds of black pepper.
 - Ladle into bowls. **½ cup parmesan** goes on the table.
@@ -154,15 +158,8 @@
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
 - **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. They're firmer than chicken, so the fridge chill can be shorter, and they need a minute or two longer in the pot.
 - **No #100 scoop handy?** Use two wet teaspoons: scoop a level spoonful with one and push it off into the broth with the other. Don't reach for a regular small cookie scoop, which is 1 tbsp and makes them too big.
-- **Using the Instant Pot instead of the Dutch oven:** it works great. No pressure, just Sauté, and the steel pot builds a beautiful pancetta fond. It's also the better pot for this batch. With the extra vegetables, the soup lands near the inner pot's 5 L max line, which is too full for the 5½ qt Dutch oven to simmer and stir comfortably. Heaped greens can poke above the line for a minute before they wilt, and that's fine.
-  - Sauté only has **Low / Normal / High**, so you steer by the "how it should look" cues in each step, flipping between settings.
-  - **Step 3:** Sauté on **Normal**. High runs hot enough to scorch the fond.
-  - **Step 4:** Normal to bring the broth up, then toggle between **Low** and **Normal**. Low when it starts churning, Normal when the surface goes still.
-  - **Step 5 onward:** toggle between **Low** and **off**. Once the acini thickens the soup, even Low can push it into a hard boil. Cancel Sauté when it's plopping hard, and turn Low back on when it settles down to the odd bubble.
-  - ⚠️ Sauté shuts itself off after about 30 minutes. Restart it right before step 4 so the meatballs never sit in cooling broth.
-  - The thin steel bottom sticks more than enamel, so scrape it every minute once the acini goes in.
-  - When the soup is done, cancel Sauté and switch off Keep Warm. The pot stays hot and keeps softening the pasta.
-- **Leftovers set up thick.** The acini keeps drinking broth in the fridge, so the next day it's closer to a stew. Add a splash of water or broth when you reheat, then re-check the salt.
+- **Using the Dutch oven instead:** cut the vegetables back to **4 carrots and 4 celery ribs**. The full batch is too much for a 5½ qt pot to simmer and stir comfortably. Use **medium** where the steps say Normal and **low** where they say Low. The heavy pot holds heat much longer than the Instant Pot, so turn it down a little *before* the simmer gets where you want it.
+- **Leftovers set up thick.** The acini keeps drinking broth in the fridge, so the next day it's closer to a stew. Add a splash of water when you reheat, then re-check the salt.
 - **Cooking mostly for leftovers?** Boil the acini in a separate small pot of salted water, drain it, and spoon it into each bowl instead. The broth comes out thinner, but the pasta stops swelling in the fridge. Store the two separately.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
