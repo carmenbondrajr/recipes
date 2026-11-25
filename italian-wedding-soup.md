@@ -13,7 +13,6 @@
   - Escarole is mildly bitter and holds its shape. Spinach is mild and melts into the broth
   - Can't decide? Grab both and do half and half
 - Fresh parsley (1 small bunch)
-- 1 lemon
 
 **Meat**
 - **1 lb ground chicken.** Makes a light meatball that lets the broth lead
@@ -64,7 +63,7 @@
 - 2 bay leaves
 - ¾ cup acini di pepe
 - Escarole (1 small head, chopped) or about 4 oz baby spinach
-- ½–1 lemon, black pepper, and kosher salt only if it needs it
+- Black pepper, and kosher salt only if it needs it
 - ½ cup parmesan for the table
 
 ---
@@ -141,7 +140,7 @@
 
 ### 7️⃣ Finish and serve
 - Fish out the bay leaves.
-- Squeeze in the **juice of ½ lemon** and taste. Between the pancetta, the parmesan, and the salt that leaches out of the meatballs, the broth is usually seasoned already. If it tastes flat, reach for more lemon first, and add salt only if lemon doesn't fix it.
+- Taste the broth. Between the pancetta, the parmesan, and the salt that leaches out of the meatballs, it's usually seasoned already. Add salt only if it tastes flat, a pinch at a time, then finish with a few grinds of black pepper.
 - Ladle into bowls. **½ cup parmesan** goes on the table.
 
 ---
@@ -162,7 +161,7 @@
   - ⚠️ Sauté shuts itself off after about 30 minutes. Restart it right before step 4 so the meatballs never sit in cooling broth.
   - The thin steel bottom sticks more than enamel, so scrape it every minute once the acini goes in.
   - When the soup is done, cancel Sauté and switch off Keep Warm. The pot stays hot and keeps softening the pasta.
-- **Leftovers set up thick.** The acini keeps drinking broth in the fridge, so the next day it's closer to a stew. Add a splash of water or broth when you reheat, then re-check the salt and lemon.
+- **Leftovers set up thick.** The acini keeps drinking broth in the fridge, so the next day it's closer to a stew. Add a splash of water or broth when you reheat, then re-check the salt.
 - **Cooking mostly for leftovers?** Boil the acini in a separate small pot of salted water, drain it, and spoon it into each bowl instead. The broth comes out thinner, but the pasta stops swelling in the fridge. Store the two separately.
 - **A parmesan rind** dropped in with the broth is the best free upgrade here: savory depth, no new flavor direction. Fish it out with the bay leaves.
 - **Bay leaves, not rosemary.** Bay adds background warmth and stays quiet. Rosemary is piney and assertive and will bully this broth.
