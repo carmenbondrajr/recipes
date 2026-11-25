@@ -50,7 +50,7 @@
 - 1 egg
 - 2 cloves garlic, minced
 - 2 tbsp chopped parsley
-- 1½ tsp kosher salt
+- 1½ tsp Morton kosher salt (about 2½ tsp if it's Diamond Crystal)
 - Black pepper
 
 *The soup*
@@ -81,7 +81,7 @@
   - **½ cup parmesan**
   - **1 egg**
   - **2 cloves minced garlic + 2 tbsp parsley** (the mix from step 1)
-  - **1½ tsp kosher salt**
+  - **1½ tsp Morton kosher salt** (about 2½ tsp Diamond Crystal, which is much lighter per spoonful)
   - A few grinds of black pepper
 - The olive oil stands in for the fat that chicken doesn't have. Lean meat dries out fast, and this keeps the meatballs tender.
 - Mix with your hands only until it comes together. Overworking compacts the protein and toughens the meatballs.
@@ -151,7 +151,7 @@
 ---
 
 ## Tips & Notes
-- **What ruins this: bland, dense, or broken meatballs.** All three get decided before anything hits the heat. Salt them properly (1½ tsp per lb), give the panade its full soak, and get the mix properly cold before it meets the broth.
+- **What ruins this: bland, dense, or broken meatballs.** All three get decided before anything hits the heat. Salt them properly (1½ tsp Morton kosher per lb), give the panade its full soak, and get the mix properly cold before it meets the broth.
 - **Why raw, straight into the pot:** it's the old-school nonna way. No oven, no tray, and poaching makes a softer, more tender meatball than baking. Everything the meatballs give off stays in the soup, which is what gives this broth its body. Baking adds a little browned flavor, but the pancetta covers that side.
 - **Shredded parm instead of grated?** Fine. Pack the measuring cup a little extra (shreds are fluffier) and rough-chop them so they spread through the meat instead of forming cheesy pockets.
 - **Half-and-half swaps 1:1 for the milk.** Heavy cream works too, but it's thick and soaks in slowly. Thin it with a tablespoon of water and give it a few extra minutes.
