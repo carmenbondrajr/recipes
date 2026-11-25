@@ -1,13 +1,13 @@
 # 🥣 Italian Wedding Soup
 
-*One big pot, no oven, ~1½ hours, makes about 5 bowls. A single 1 lb batch of tiny parmesan chicken meatballs poached raw in a pancetta-enriched chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
+*One big pot, no oven, ~1½ hours, makes about 6 bowls. A single 1 lb batch of tiny parmesan chicken meatballs poached raw in a pancetta-enriched chicken broth with escarole and **acini di pepe**, the little peppercorn-shaped pasta.*
 
 ## Shopping List
 
 **Produce**
 - 1 yellow onion
-- 4 carrots (or about 24 baby carrots)
-- 4 celery stalks
+- **1 lb bag of carrots** (about 6–8 medium)
+- **1 celery heart**, all its ribs (or about 6–8 ribs from a full bunch)
 - 1 garlic head (5 cloves total)
 - **Greens: 1 small head escarole, or one 5 oz bag baby spinach**
   - Escarole is mildly bitter and holds its shape. Spinach is mild and melts into the broth
@@ -57,7 +57,7 @@
 - 4 oz diced pancetta
 - Olive oil, only if the pot looks dry
 - 1 onion, finely chopped in the food processor
-- 4 carrots and 4 celery stalks, hand-chopped into a ¼-inch dice
+- 1 lb carrots and 1 celery heart, hand-chopped into a ¼-inch dice
 - 3 cloves garlic, minced
 - 8 cups low-sodium chicken broth
 - 2 bay leaves
@@ -88,10 +88,10 @@
 - ⚠️ **Don't skimp on the salt.** The broth gets seasoned at the end, but the meatballs are seasoned once and never again. Under-salted meatballs in a well-seasoned broth taste bland, and there's no fixing it later. Poaching makes it worse: some salt leaches out into the broth, and there's no browned crust to carry flavor, so these need more than a baked meatball would.
 - Cover the bowl and put it in the fridge while you chop and do all of step 3, **about 30 minutes**. These get scooped raw straight into hot broth, so the mix needs to be properly cold. Cold mix holds its shape when it hits the pot. Soft, room-temperature chicken slumps and smears.
 - While it chills, cut the **1 onion** into 1-inch chunks and pulse it on **Chop** until finely chopped. Stop while you can still see separate little pieces. It gets its own bowl, because it goes in the pot first.
-- Chop the **4 carrots** and **4 celery stalks** by hand into a small dice, about ¼ inch. They can share a bowl.
+- Chop the **1 lb carrots** and the **whole celery heart** by hand into a small dice, about ¼ inch. They can share a bowl. It's a lot of chopping, and it may run past the 30 minutes. That's fine, since a longer chill only helps the meatballs.
 - Use a knife for these two, not the food processor. The processor minces them so fine that they vanish into the broth, and this soup needs pieces that show up on the spoon. The onion is meant to melt away, so the processor is fine for it.
 
-### 3️⃣ Render the pancetta and sweat the vegetables · ⏱ 22 min
+### 3️⃣ Render the pancetta and sweat the vegetables · ⏱ 25 min
 - Put the **4 oz diced pancetta** in the big pot while it's still cold, then turn the heat to **medium**. Cook 6–8 minutes, stirring now and then, until the fat has melted out and the cubes are golden. Starting cold gives the fat time to melt out before the outside browns.
 - **How it should look:** a steady, gentle sizzle, with little bubbles of fat around each cube. If it's spitting hard or anything smokes, turn the heat down.
 - This is where the broth gets its richness and savory depth. Boxed broth has almost no fat, chicken meatballs barely add any, and poached meatballs never brown, so the pancetta does the work that browning would have done. Without it the soup tastes thin.
@@ -99,7 +99,7 @@
 - ⚠️ **Golden, not dark.** If the bits on the bottom of the pot are turning dark brown, turn the heat down. Burnt bits make the whole broth bitter.
 - Add the **chopped onion** alone and cook about 5 minutes, until it's translucent and smells sweet instead of sharp. Processor onion gives off more harsh, eye-stinging fumes and more water than knife-cut, so it needs this head start to cook them off. Skip the usual pinch of salt here, because the pancetta fat is already salty.
 - Go by the smell, not the clock. Onion that still smells sharp here will still taste raw in the finished soup.
-- Add the **diced carrots and celery** and cook 8–10 minutes more, until the carrots have started to soften. They finish getting tender in the simmer.
+- Add the **diced carrots and celery** and cook 10–12 minutes more, until the carrots have started to soften. They finish getting tender in the simmer.
 - **How it should look:** a quiet sizzle, with the vegetables slumping and turning glossy. A thin layer of golden fond on the bottom is good. If it's going brown in under a minute between stirs, turn the heat down.
 - Add the **3 cloves minced garlic** for 1 minute more.
 - Scrape the bottom of the pot as the vegetables give off their water. The golden bits the pancetta left behind dissolve into it, and that's flavor for the broth.
@@ -154,7 +154,7 @@
 - **Cream buys richness, not tenderness.** Tenderness comes from starch holding water, so you can't fix a dry meatball by adding fat.
 - **Pork or beef meatballs instead:** use **1 lb meatloaf mix**, ground pork, or 80/20 ground beef. Leave out the 1 tbsp olive oil, since the meat brings its own fat. They're firmer than chicken, so the fridge chill can be shorter, and they need a minute or two longer in the pot.
 - **No #100 scoop handy?** Use two wet teaspoons: scoop a level spoonful with one and push it off into the broth with the other. Don't reach for a regular small cookie scoop, which is 1 tbsp and makes them too big.
-- **Using the Instant Pot instead of the Dutch oven:** it works great. No pressure, just Sauté, and the steel pot builds a beautiful pancetta fond. The full batch is about 4½ qt (~4.3 L), which fits under the inner pot's 5 L max line with room to stir. Heaped greens can poke above it for a minute before they wilt, and that's fine.
+- **Using the Instant Pot instead of the Dutch oven:** it works great. No pressure, just Sauté, and the steel pot builds a beautiful pancetta fond. It's also the better pot for this batch. With the extra vegetables, the soup lands near the inner pot's 5 L max line, which is too full for the 5½ qt Dutch oven to simmer and stir comfortably. Heaped greens can poke above the line for a minute before they wilt, and that's fine.
   - Sauté only has **Low / Normal / High**, so you steer by the "how it should look" cues in each step, flipping between settings.
   - **Step 3:** Sauté on **Normal**. High runs hot enough to scorch the fond.
   - **Step 4:** Normal to bring the broth up, then toggle between **Low** and **Normal**. Low when it starts churning, Normal when the surface goes still.
