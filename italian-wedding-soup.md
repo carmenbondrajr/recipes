@@ -46,7 +46,7 @@
 - 1 lb ground chicken
 - 1 tbsp olive oil
 - ½ cup breadcrumbs
-- 6 tbsp milk (⅓ cup plus a splash), more if needed
+- ⅓ cup milk, plus splashes as needed
 - ½ cup grated parmesan
 - 1 egg
 - 2 cloves garlic, minced
@@ -70,7 +70,7 @@
 ---
 
 ### 1️⃣ Soak the breadcrumbs · ⏱ 10 min
-- Stir the **½ cup breadcrumbs** into the **6 tbsp milk** and let them sit the full 10 minutes. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets: the starch traps moisture that would otherwise squeeze out as the meat cooks.
+- Stir the **½ cup breadcrumbs** into **⅓ cup milk** and let them sit the full 10 minutes. This is a *panade*, and it's the whole difference between tender meatballs and little rubber pellets: the starch traps moisture that would otherwise squeeze out as the meat cooks.
 - Go by texture, not the measurement. You want a loose, spreadable paste like wet oatmeal. If it still holds its shape or looks crumbly, add milk a splash at a time until it slumps.
 - ⚠️ **An under-hydrated panade is the quiet failure.** Dry crumbs can't hold water they never absorbed, so the meatballs come out dense. Stop adding milk as soon as it slumps, though. Ground chicken is already wet and soft, and extra milk makes the mix harder to shape.
 - While it soaks, pulse **5 garlic cloves** in the mini food processor on **Chop**, scraping down once, until minced. Scoop a little over half (**3 cloves' worth**) into a small bowl for the soup. Add parsley leaves (enough for **2 tbsp chopped**) to what's left and pulse a few more times for the meatballs.
