@@ -1,9 +1,12 @@
 # 🧁 Bignè
 ### Italian Cream Puffs with Vanilla Whipped Cream
 
-*Makes about 16 small puffs. One saucepan, one sheet pan, one wooden spoon, no mixer. About 1¾ hours start to finish, but only 30 minutes of that is hands-on. Written for a first-time baker, so every step says what it should look like.*
+*Makes about 16 small puffs. One saucepan, one sheet pan, one wooden spoon, and a hand mixer for the cream. About 1¾ hours start to finish, but only 30 minutes of that is hands-on. Written for a first-time baker, so every step says what it should look like.*
 
 ## Shopping List
+
+**Produce**
+- 1 lemon, optional, for lemon cream (see Tips)
 
 **Dairy**
 - Unsalted butter (4 tbsp / ½ stick / 57 g)
@@ -18,7 +21,7 @@
 
 **Gear worth checking**
 - **Kitchen scale.** About $15 and worth it, because flour measured by the cup can vary a lot
-- Small saucepan, wooden spoon, mixing bowl, whisk, sheet pan
+- Small saucepan, wooden spoon, mixing bowl, hand mixer with two beaters, sheet pan
 - Zip-top bag for piping. Gallon or quart both work
 
 *You should have at home: kosher salt, granulated sugar*
@@ -48,7 +51,7 @@
 - Set the **3 eggs** in a bowl of warm tap water. Room-temperature eggs blend into the dough much more easily.
 - Move a rack to the middle of the oven and preheat to **400°F**. The puffs need a fully hot oven the moment they go in, because that first blast of heat is what inflates them.
 - Line a sheet pan with parchment.
-- Put a mixing bowl and whisk in the fridge for the cream later. Cold cream in a cold bowl whips much faster, which matters when your arm is the mixer.
+- Put a mixing bowl and the **two mixer beaters** in the fridge for the cream later. Cold cream in a cold bowl whips faster and fluffier, and it's less likely to go grainy.
 - Weigh out the **65 g flour** and keep it right next to the stove, because it all goes in at once.
 
 ### 2️⃣ Make the dough · ⏱ 5 min
@@ -90,14 +93,17 @@
 - Turn the oven off, return the pan, and prop the door open with a wooden spoon for **10 minutes**. This dries the shells so they stay crisp.
 - Cool on the counter for about **20 minutes**, until completely cool. Warm puffs will melt the cream.
 
-### 8️⃣ Whip the cream · ⏱ 3–4 min
+### 8️⃣ Whip the cream · ⏱ 2–3 min
+- Snap both chilled **beaters** into the mixer with it unplugged. If one won't click in, swap sides, because many mixers have one beater with a little collar that only fits one hole.
 - In your chilled bowl, combine:
   - **1 cup cold heavy whipping cream**
   - **2 tbsp powdered sugar**
   - **1 tsp vanilla extract**
-- Tilt the bowl slightly and whisk quickly in big circles, lifting the whisk through the cream to pull in air. It'll look like nothing is happening for the first minute or two, then it thickens fast.
-- Stop when lifting the whisk leaves a peak that holds its shape and just curls over at the tip.
-- ⚠️ **Stop as soon as you hit that peak.** Keep going and it turns grainy on the way to becoming butter. If it just starts looking rough, gently stir in **1–2 tbsp more cold cream** to smooth it out.
+- Lower the beaters into the cream *before* turning the mixer on, then start on **low**. Starting high flings cream all over the kitchen.
+- Once it's frothy, after about 30 seconds, move up to **medium-high**. Move the beaters around the bowl, and tilt the bowl slightly so they stay buried in the cream.
+- It'll look like nothing is happening for about a minute, then it thickens fast. When you see soft trails behind the beaters, drop back to **low**.
+- Stop when you turn the mixer off, lift the beaters, and the cream on them holds a peak that just curls over at the tip. Always switch off before lifting the beaters out, or you'll splatter.
+- ⚠️ **Stop as soon as you hit that peak.** A mixer goes from perfect to grainy in seconds, much faster than whisking by hand. If it just starts looking rough, gently stir in **1–2 tbsp more cold cream** by hand to smooth it out.
 
 ### 9️⃣ Fill and serve · ⏱ 5 min
 - Slice off the top third of each puff with a serrated knife. Cutting them open is easier than injecting them, and it shows off the cream.
@@ -111,6 +117,7 @@
 - **Second most common problem: runny dough.** If it spreads instead of holding a mound, too much egg went in. Bake it anyway and call them rustic.
 - **Only filling a few?** Fill just what you'll eat, since cream softens the shells within hours. Empty puffs keep airtight at room temperature for 1 day or in the freezer for 1 month. Re-crisp them at **300°F for 5 minutes**, then cool before filling.
 - **Coffee cream:** dissolve **1 tsp instant espresso** in the vanilla before adding it to the cream.
+- **Lemon cream:** zest about **1 tsp** from a lemon, yellow part only because the white pith is bitter. Rub it into the **2 tbsp powdered sugar** with your fingers for 30 seconds before adding it to the cream, so the sugar pulls out the lemon oil. Cut the vanilla to **½ tsp** and whip as usual. Skip the juice, since it adds liquid and tartness without much more flavor. Not sure yet? Whip the cream plain, fold **½ tsp zest** into a third of it, and fill some puffs with each. Zest a little over the tops with the powdered sugar.
 - **Chocolate tops:** microwave **2 oz chopped chocolate** with **2 tbsp heavy cream** in 15-second bursts, stirring until smooth, then dip the lids.
 - **Browner, softer puffs:** swap half the water for whole milk. The milk sugars brown faster, so start checking at the low end of the bake time.
 - **Round two filling:** once the shells feel easy, try classic pastry cream, the custard filling you'd see in an Italian bakery case.
