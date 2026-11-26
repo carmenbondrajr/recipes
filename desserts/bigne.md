@@ -6,7 +6,7 @@
 ## Shopping List
 
 **Produce**
-- 1 lemon, optional, for lemon cream (see Tips)
+- 1 lemon, optional, for lemon cream (see step 8)
 
 **Dairy**
 - Unsalted butter (4 tbsp / ½ stick / 57 g)
@@ -43,7 +43,8 @@
 *The filling*
 - 1 cup cold heavy whipping cream
 - 2 tbsp powdered sugar, plus more for dusting
-- 1 tsp vanilla extract
+- 1 tsp vanilla extract (½ tsp if making lemon cream)
+- *Optional:* 1 lemon, for zest
 
 ---
 
@@ -95,10 +96,11 @@
 
 ### 8️⃣ Whip the cream · ⏱ 2–3 min
 - Snap both chilled **beaters** into the mixer with it unplugged. If one won't click in, swap sides, because many mixers have one beater with a little collar that only fits one hole.
+- *Optional lemon cream:* zest about **1 tsp** from the lemon, yellow part only because the white pith is bitter. Put it in a small bowl with the **2 tbsp powdered sugar** and rub them together between your fingertips for about 30 seconds, like crumbling salt, until the sugar looks faintly yellow and damp and smells very lemony. The sugar crystals scrape the oil out of the zest, which carries the flavor through all the cream. Use this sugar below, and cut the vanilla to **½ tsp** so it backs up the lemon instead of covering it. Skip the juice, because it adds liquid and tartness without much more flavor.
 - In your chilled bowl, combine:
   - **1 cup cold heavy whipping cream**
-  - **2 tbsp powdered sugar**
-  - **1 tsp vanilla extract**
+  - **2 tbsp powdered sugar** (lemon sugar, if using)
+  - **1 tsp vanilla extract** (½ tsp for lemon cream)
 - Lower the beaters into the cream *before* turning the mixer on, then start on **low**. Starting high flings cream all over the kitchen.
 - Once it's frothy, after about 30 seconds, move up to **medium-high**. Move the beaters around the bowl, and tilt the bowl slightly so they stay buried in the cream.
 - It'll look like nothing is happening for about a minute, then it thickens fast. When you see soft trails behind the beaters, drop back to **low**.
@@ -108,7 +110,8 @@
 ### 9️⃣ Fill and serve · ⏱ 5 min
 - Slice off the top third of each puff with a serrated knife. Cutting them open is easier than injecting them, and it shows off the cream.
 - Spoon or pipe about **2 tbsp cream** into each one and set the top back on at a jaunty angle.
-- Dust with **powdered sugar** through a small strainer and eat them within a couple of hours, while the shells still have some crispness.
+- Dust with **powdered sugar** through a small strainer. *Optional:* if you made lemon cream, zest a little more lemon over the tops.
+- Eat them within a couple of hours, while the shells still have some crispness.
 
 ---
 
@@ -117,7 +120,6 @@
 - **Second most common problem: runny dough.** If it spreads instead of holding a mound, too much egg went in. Bake it anyway and call them rustic.
 - **Only filling a few?** Fill just what you'll eat, since cream softens the shells within hours. Empty puffs keep airtight at room temperature for 1 day or in the freezer for 1 month. Re-crisp them at **300°F for 5 minutes**, then cool before filling.
 - **Coffee cream:** dissolve **1 tsp instant espresso** in the vanilla before adding it to the cream.
-- **Lemon cream:** zest about **1 tsp** from a lemon, yellow part only because the white pith is bitter. Put it in a small bowl with the **2 tbsp powdered sugar** and rub the two together between your fingertips for about 30 seconds, like crumbling salt, until the sugar looks faintly yellow and damp and smells very lemony. The sugar crystals scrape oil out of the zest, then add it to the cream as usual. Cut the vanilla to **½ tsp** and whip as usual. Skip the juice, since it adds liquid and tartness without much more flavor. Not sure yet? Whip the cream plain, fold **½ tsp zest** into a third of it, and fill some puffs with each. Zest a little over the tops with the powdered sugar.
 - **Chocolate tops:** microwave **2 oz chopped chocolate** with **2 tbsp heavy cream** in 15-second bursts, stirring until smooth, then dip the lids.
 - **Browner, softer puffs:** swap half the water for whole milk. The milk sugars brown faster, so start checking at the low end of the bake time.
 - **Round two filling:** once the shells feel easy, try classic pastry cream, the custard filling you'd see in an Italian bakery case.
